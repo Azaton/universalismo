@@ -4,4 +4,8 @@ nav_order: 18
 parent: "Personagens"
 ---
 
-[172-personalidades.pdf](/.attachments/172-personalidades-70bd0190-6722-4985-bc3c-6657e5e12b76.pdf)
+# Jerônimo Mendonça Ribeiro
+
+> **Página em reconstrução:** a versão original continha somente um link para o arquivo “172-personalidades.pdf”, armazenado na antiga estrutura de anexos. O documento não está disponível neste repositório público.
+
+Nenhuma informação biográfica foi acrescentada sem consulta à fonte original. A página deverá ser ampliada depois que o documento for localizado, sua autoria for identificada e a publicação ou citação do conteúdo for considerada adequada.

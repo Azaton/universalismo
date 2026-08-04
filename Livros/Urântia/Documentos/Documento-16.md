@@ -4,7 +4,7 @@ nav_order: 3
 parent: "Documentos"
 ---
 
-![image.png](/.attachments/image-c9f18f66-d4b7-47c9-b4a7-d3bc3d124c7b.png)
+> **Imagem não migrada:** a ilustração original estava armazenada na antiga estrutura de anexos e não está disponível neste repositório público. Uma nova imagem somente deverá ser incluída com origem e direito de uso identificados.
 
 No *Livro de Urântia*, a personalidade é definida como um conjunto de características complexas que distinguem os seres mortais. Dois fenômenos principais são identificados como fundamentais para a personalidade na criatura: a **autoconsciência** e o **relativo livre-arbítrio**.
 
@@ -30,7 +30,8 @@ Embora cada personalidade seja única e autônoma, sua autoconsciência permite 
 Assim, enquanto somos indivíduos com nossas particularidades, há um terreno comum que nos permite nos conectar, aprender e evoluir em conjunto, pois as personalidades, ao se manifestarem, reconhecem e respeitam tanto suas diferenças quanto suas semelhanças.
 
 ---
-![image.png](/.attachments/image-0057526f-d4a1-46cd-8a4b-6699df4218e3.png)
+> **Imagem não migrada:** a ilustração original estava armazenada na antiga estrutura de anexos e não está disponível neste repositório público. Uma nova imagem somente deverá ser incluída com origem e direito de uso identificados.
+
 No *Livro de Urântia*, o **livre-arbítrio relativo** é essencial para a personalidade humana e se manifesta em várias áreas que são fundamentais para o desenvolvimento espiritual e moral. Esses aspectos do livre-arbítrio estão associados à autoconsciência e permitem que os seres humanos façam escolhas que moldam suas vidas e experiências. Aqui estão as principais áreas envolvidas:
 
 1. **Decisão Moral**: Relaciona-se à sabedoria e à capacidade de discernir entre o bem e o mal. Isso envolve o julgamento ético e a escolha de caminhos que promovam o bem maior.
@@ -155,7 +156,8 @@ As Sete Lâmpadas são vistas como um símbolo de iluminação espiritual e de o
 Assim, as Sete Lâmpadas, por meio dos Sete Espíritos Mestres, proporcionam uma conexão direta entre o Paraíso e as criações inferiores, iluminando o caminho da ascensão espiritual e oferecendo suporte divino para que todas as criaturas alcancem a perfeição.
 
 ---
-![image.png](/.attachments/image-8fc27fa5-938c-4c36-afb7-59ede1b83738.png)
+> **Imagem não migrada:** a ilustração original estava armazenada na antiga estrutura de anexos e não está disponível neste repositório público. Uma nova imagem somente deverá ser incluída com origem e direito de uso identificados.
+
 Este trecho do *Livro de Urântia* explora os aspectos do livre-arbítrio e da personalidade humana em relação ao desenvolvimento espiritual. Aqui, vemos como o livre-arbítrio e a autoconsciência humana estão intimamente ligados ao exercício da **dedicação** e da **devoção** na busca por alinhar-se com a vontade do Pai Universal.
 
 ### Aspectos do Livre-Arbítrio e da Devoção:
@@ -177,7 +179,8 @@ Este trecho sublinha que o verdadeiro exercício do livre-arbítrio vai além da
 
 ---
 
-![image.png](/.attachments/image-44f0e392-7b5d-4702-8173-a3f61094c5b7.png)
+> **Imagem não migrada:** a ilustração original estava armazenada na antiga estrutura de anexos e não está disponível neste repositório público. Uma nova imagem somente deverá ser incluída com origem e direito de uso identificados.
+
 Neste trecho, o *Livro de Urântia* descreve o **tipo de personalidade humana** presente em Urântia (Terra) como uma combinação única de fatores físicos, mentais e espirituais, que se baseia na ordem nebadônica e orvontônica. Aqui estão os pontos principais deste conceito:
 
 ### Elementos da Personalidade Humana em Urântia:
@@ -198,7 +201,8 @@ Essa combinação de elementos faz com que o ser humano em Urântia seja capaz d
 A personalidade, portanto, não é apenas uma função biológica ou mental, mas um presente que conecta o ser humano a uma ordem maior de existência, com o potencial de explorar, compreender e se integrar ao universo de maneira significativa e eterna.
 
 ---
-![image.png](/.attachments/image-0d7606ad-20a1-4410-998d-cc6d7cb719b9.png)
+> **Imagem não migrada:** a ilustração original estava armazenada na antiga estrutura de anexos e não está disponível neste repositório público. Uma nova imagem somente deverá ser incluída com origem e direito de uso identificados.
+
 Este trecho do *Livro de Urântia* descreve as três realidades básicas da mente do cosmo, que são fundamentais para a compreensão e o desenvolvimento da personalidade humana em Urântia. Essas realidades oferecem uma visão abrangente das capacidades e responsabilidades de um ser dotado de personalidade e servem como um guia para o crescimento espiritual e moral:
 
 ### Três Realidades Básicas da Mente do Cosmo:

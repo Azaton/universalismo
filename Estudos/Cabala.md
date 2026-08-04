@@ -4,9 +4,20 @@ nav_order: 7
 parent: "Estudos"
 ---
 
-Árvore da Vida (his) da Cabala
-![image.png](/.attachments/image-bf4b78fa-ea6c-4b38-b9af-c22b7f3cf685.png)
+# Cabala
 
-![image.png](/.attachments/image-395af34f-1535-4e38-9db9-e0b45d5db73b.png)
+## Árvore da Vida
 
-<IMG  src="https://img.elo7.com.br/product/zoom/3F7E25F/placa-arvore-da-vida-cabala-70cm-x-50cm-x-2cm.jpg"  alt="Imagem 1 - placa-arvore-da-vida-cabala-70cm-x-50cm-x-2cm"/>
+A página original reunia diagramas da Árvore da Vida da Cabala.
+
+> **Imagens não migradas:** os arquivos estavam armazenados na antiga estrutura de anexos e não estão disponíveis neste repositório público. Também foi removida uma imagem incorporada diretamente de um site comercial, para evitar dependência externa e uso sem origem ou licença claramente identificadas.
+
+A restauração desta página deverá incluir:
+
+- identificação da tradição cabalística representada no diagrama;
+- nomes e transliterações das *sefirot*;
+- origem e autoria da imagem;
+- autorização ou licença de uso;
+- contextualização das diferenças entre Cabala judaica, Cabala cristã e interpretações ocultistas posteriores.
+
+> **Estado editorial:** página em reconstrução. Nenhuma descrição detalhada do diagrama foi acrescentada sem acesso às imagens originais.

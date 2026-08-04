@@ -4,11 +4,25 @@ nav_order: 47
 parent: "Estudos"
 ---
 
-A Ressonância Schumann refere-se a um conjunto de picos no espectro de frequências extremamente baixas (ELF) do campo eletromagnético terrestre, originados principalmente por descargas atmosféricas, como relâmpagos. Essas ressonâncias ocorrem devido ao comportamento da Terra e da ionosfera como uma cavidade ressonante para essas ondas eletromagnéticas. citeturn0search0
+# Ressonância Schumann
 
+> **Natureza do conteúdo:** síntese científica preliminar. As referências bibliográficas e os registros de monitoramento utilizados na elaboração original ainda precisam ser incorporados à página.
 
-A frequência fundamental da Ressonância Schumann é de aproximadamente 7,83 Hz, com harmônicos adicionais em torno de 14,3 Hz, 20,8 Hz, 27,3 Hz e 33,8 Hz. citeturn0search0
-No entanto, não há registros ou evidências científicas de que a Ressonância Schumann tenha "parado" ou que tal interrupção seja possível. A atividade elétrica atmosférica, especialmente os relâmpagos, ocorre continuamente ao redor do planeta, garantindo a persistência dessas ressonâncias. Além disso, a Ressonância Schumann é monitorada globalmente, e qualquer alteração significativa seria amplamente documentada na comunidade científica.
-Portanto, a ideia de uma "parada" na Ressonância Schumann não é sustentada por evidências científicas e deve ser tratada com ceticismo.
+A Ressonância Schumann refere-se a um conjunto de picos no espectro de frequências extremamente baixas — ELF — do campo eletromagnético terrestre. Esses sinais são produzidos principalmente pela atividade global de descargas atmosféricas, como relâmpagos, e se propagam na cavidade formada entre a superfície da Terra e a ionosfera.
 
-![Captura de tela 2025-03-16 191232.png](/.attachments/Captura%20de%20tela%202025-03-16%20191232-f5e6e64c-426c-4162-874a-16c9d1ce5d48.png)![Captura de tela 2025-03-16 191339.png](/.attachments/Captura%20de%20tela%202025-03-16%20191339-28c81ede-a7c3-4daa-984d-d043c11d8269.png)
+A frequência fundamental costuma ser apresentada em torno de **7,83 Hz**, acompanhada por harmônicos em frequências superiores, aproximadamente em 14,3 Hz, 20,8 Hz, 27,3 Hz e 33,8 Hz. Esses valores não constituem uma frequência absolutamente fixa: variam conforme as condições da ionosfera, o ciclo diário, a atividade atmosférica e outros fatores físicos.
+
+## Sobre a alegação de que a ressonância “parou”
+
+Não há, no material registrado nesta página, evidência científica de uma interrupção global da Ressonância Schumann. Gráficos publicados na internet podem apresentar faixas em branco por falhas de equipamento, perda de comunicação, manutenção, ausência de dados ou problemas de visualização. Uma lacuna em um gráfico específico não demonstra que o fenômeno planetário tenha cessado.
+
+Por isso, alegações de “parada da frequência da Terra” devem ser avaliadas a partir da fonte original do gráfico, da estação de monitoramento, do intervalo temporal e da explicação técnica fornecida pelos responsáveis pelo instrumento.
+
+> **Imagens não migradas:** as duas capturas de tela da versão original estavam na antiga estrutura de anexos. Elas não foram publicadas porque os arquivos originais e sua proveniência ainda não foram recuperados.
+
+## Pontos para pesquisa posterior
+
+- identificar a estação e o sistema de monitoramento das capturas originais;
+- registrar fontes científicas primárias sobre a cavidade Terra–ionosfera;
+- diferenciar frequência de ressonância, amplitude do sinal e visualização espectrográfica;
+- comparar interpretações científicas e espiritualistas sem confundi-las.

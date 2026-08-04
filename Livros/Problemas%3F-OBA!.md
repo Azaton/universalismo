@@ -4,9 +4,11 @@ nav_order: 3
 parent: "Livros"
 ---
 
-![image.png](/.attachments/image-dbb481eb-56e0-43f6-906f-4c3368f7c953.png)
+# Problemas? OBA!
 
-Aqui está uma breve lista de capítulos comuns desse tipo de abordagem:
+> **Imagem não migrada:** a página original continha uma imagem armazenada na antiga estrutura de anexos. O arquivo não está disponível no repositório público e será restaurado apenas se o original for localizado e houver autorização de uso.
+
+## Temas registrados
 
 - A Revolução dos Problemas
 - Desafios são Oportunidades
@@ -24,3 +26,5 @@ Aqui está uma breve lista de capítulos comuns desse tipo de abordagem:
 - Inteligência Emocional
 - Foco no Cliente
 - Ação com Propósito
+
+> **Estado editorial:** esta página contém um registro preliminar de temas. A relação exata com a obra, sua edição e sua estrutura original ainda precisa ser confirmada antes de uma síntese definitiva.
