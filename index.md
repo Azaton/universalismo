@@ -19,25 +19,32 @@ O Projeto Universalismo procura integrar abertura espiritual, investigação com
 
 ## Dois eixos de estudo
 
-### Jesus histórico e trajetória de vida
-
-Investigação comparativa do Jesus histórico, do Jesus apresentado pelas diferentes tradições e das interpretações espirituais posteriores, preservando convergências, divergências e a origem de cada versão.
-
-### História profunda e pré-história da humanidade
-
-Estudo de cronologias científicas, arqueológicas, históricas, mitológicas, religiosas, espiritualistas e especulativas relacionadas às origens humanas, antigas civilizações, Atlântida, Capela, Anunnaki e outras narrativas de intervenção ou migração entre mundos.
+<div class="eixos">
+  <div class="eixo">
+    <span class="eixo-k">Eixo 1</span>
+    <h3>Jesus histórico e trajetória de vida</h3>
+    <p>Investigação comparativa do Jesus histórico, do Jesus apresentado pelas diferentes tradições e das interpretações espirituais posteriores, preservando convergências, divergências e a origem de cada versão.</p>
+  </div>
+  <div class="eixo">
+    <span class="eixo-k">Eixo 2</span>
+    <h3>História profunda e pré-história da humanidade</h3>
+    <p>Estudo de cronologias científicas, arqueológicas, históricas, mitológicas, religiosas, espiritualistas e especulativas relacionadas às origens humanas, antigas civilizações, Atlântida, Capela, Anunnaki e outras narrativas de intervenção ou migração entre mundos.</p>
+  </div>
+</div>
 
 ## Como este acervo é construído
 
 Para evitar que crença, interpretação e evidência sejam confundidas, os estudos procuram manter distinguíveis:
 
-- **Fonte:** o que determinado livro, tradição, autor ou comunicação afirma;
-- **Contexto:** autoria, época, tradição, intenção e proximidade com os acontecimentos narrados;
-- **Convicção espiritual:** como uma fonte é recebida dentro do projeto;
-- **Interpretação:** leitura construída a partir do diálogo entre materiais;
-- **Hipótese:** explicação possível, ainda não validada;
-- **Evidência:** suporte verificável e sua qualidade;
-- **Conclusão provisória:** síntese sujeita a revisão diante de novas fontes.
+<div class="pillrow">
+  <span class="pill"><b>Fonte</b></span>
+  <span class="pill"><b>Contexto</b></span>
+  <span class="pill"><b>Convicção espiritual</b></span>
+  <span class="pill"><b>Interpretação</b></span>
+  <span class="pill"><b>Hipótese</b></span>
+  <span class="pill"><b>Evidência</b></span>
+  <span class="pill"><b>Conclusão provisória</b></span>
+</div>
 
 [Conheça a proposta e a metodologia do projeto]({% link Sobre-o-Projeto.md %}).
 
@@ -53,26 +60,64 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
 
 ## Comece por aqui
 
-- [Sobre o Projeto]({% link Sobre-o-Projeto.md %})
-- [Ensinamentos de Jesus]({% link Ensinamentos-de-Jesus.md %})
-- [Estudos]({% link Estudos.md %})
-- [Livros]({% link Livros.md %})
-- [Personagens]({% link Personagens.md %})
-- [Orações]({% link Orações.md %})
-- [Umbanda]({% link Umbanda.md %})
-- [Perguntas e Respostas]({% link Perguntas-e-Respostas.md %})
+<div class="cards">
+  <a class="card" href="{% link Sobre-o-Projeto.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M14.5 9.5l-2 5-5 2 2-5z"/></svg></span>
+    <h3>Sobre o Projeto</h3>
+    <p>Propósito, eixos de pesquisa e disciplina epistemológica do acervo.</p>
+  </a>
+  <a class="card" href="{% link Ensinamentos-de-Jesus.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="2.6"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/></svg></span>
+    <h3>Ensinamentos de Jesus</h3>
+    <p>Textos e reflexões sobre a vida, a fala e o exemplo moral de Jesus.</p>
+  </a>
+  <a class="card" href="{% link Estudos.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 6.5c-1.8-1.3-4.3-1.8-6.5-1.3v12c2.2-.5 4.7 0 6.5 1.3 1.8-1.3 4.3-1.8 6.5-1.3v-12c-2.2-.5-4.7 0-6.5 1.3z"/><path d="M12 6.5v12"/></svg></span>
+    <h3>Estudos</h3>
+    <p>O maior eixo do acervo: cosmologia, mitologia, ciência e espiritualidade comparada.</p>
+  </a>
+  <a class="card" href="{% link Livros.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="5" y="4" width="3.4" height="16" rx=".6"/><rect x="9.3" y="4" width="3.4" height="16" rx=".6"/><path d="M14.6 5.2l3.2-.9 3.4 15.4-3.2.9z"/></svg></span>
+    <h3>Livros</h3>
+    <p>Fichas de leitura e sínteses de obras espíritas, herméticas e de pesquisa histórica.</p>
+  </a>
+  <a class="card" href="{% link Personagens.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="8" r="3.3"/><path d="M5.5 20c0-3.6 3-6 6.5-6s6.5 2.4 6.5 6"/></svg></span>
+    <h3>Personagens</h3>
+    <p>Perfis de entidades, mestres e figuras estudadas dentro do acervo.</p>
+  </a>
+  <a class="card" href="{% link Orações.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 21c-2.5 0-4.2-1.7-4.2-4 0-2.4 2.3-4 2.9-6.8.4 1 1.3 1.7 1.3 1.7s.5-3.2-1-5.9c2.6 1 4.9 4 4.9 7.4 0 2.2-1 3.2-1 3.2s2.3-.4 2.3-3c1.1 1.4 1.7 2.6 1.7 3.9 0 2.6-2.5 3.5-4.9 3.5"/></svg></span>
+    <h3>Orações</h3>
+    <p>Preces e mensagens organizadas por mês e por prática.</p>
+  </a>
+  <a class="card" href="{% link Umbanda.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3c2 3 2 4.5.5 6.5C11 11.3 9 12.6 9 15c0 2.2 1.8 4 4 4"/><path d="M12 3c-2 3-2 4.5-.5 6.5C13 11.3 15 12.6 15 15c0 2.2-1.8 4-4 4"/></svg></span>
+    <h3>Umbanda</h3>
+    <p>Estudos sobre tradições, entidades e práticas afro-brasileiras.</p>
+  </a>
+  <a class="card" href="{% link Perguntas-e-Respostas.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M9.5 9.3c.3-1.5 1.5-2.3 2.7-2.3 1.4 0 2.6.9 2.6 2.3 0 1.7-2.6 1.9-2.6 4.2" stroke-linecap="round"/><circle cx="12" cy="16.3" r=".25" fill="currentColor"/></svg></span>
+    <h3>Perguntas e Respostas</h3>
+    <p>Questões pontuais registradas ao longo da pesquisa.</p>
+  </a>
+</div>
 
 ## Referências, comunidades e canais
 
-- [EPA — Espiritualidade com Pedro Augusto](https://www.youtube.com/@EspiritualidadecomPedroAugusto)
-- [Movimento Política e Espiritualidade](https://www.youtube.com/@movimentopoliticaeespiritu9468)
-- [Nova Acrópole Brasil](https://www.youtube.com/@NovaAcropole)
-- [Espiritualidade na Prática](https://www.youtube.com/@espiritualidadenapratica144)
-- [Universalismo Crístico — Roger Bottini Paranhos](http://universalismocristico.com.br/)
-- [Amasofia](http://www.amasofia.org.br/)
-- [Mural do Novo Mundo](https://app.mural.co/t/personallife0912/m/personallife0912/1658364020184/6ae2659f66a662a5b13f9a115de3c03665e2dab4?sender=u4ed12f89945b0e4998e13064)
-- [Casa Plataforma de Oração](https://www.youtube.com/@casaplataformadeoracao)
+<div class="refs">
+  <a href="https://www.youtube.com/@EspiritualidadecomPedroAugusto">EPA — Espiritualidade com Pedro Augusto</a>
+  <a href="https://www.youtube.com/@movimentopoliticaeespiritu9468">Movimento Política e Espiritualidade</a>
+  <a href="https://www.youtube.com/@NovaAcropole">Nova Acrópole Brasil</a>
+  <a href="https://www.youtube.com/@espiritualidadenapratica144">Espiritualidade na Prática</a>
+  <a href="http://universalismocristico.com.br/">Universalismo Crístico — Roger Bottini Paranhos</a>
+  <a href="http://www.amasofia.org.br/">Amasofia</a>
+  <a href="https://app.mural.co/t/personallife0912/m/personallife0912/1658364020184/6ae2659f66a662a5b13f9a115de3c03665e2dab4?sender=u4ed12f89945b0e4998e13064">Mural do Novo Mundo</a>
+  <a href="https://www.youtube.com/@casaplataformadeoracao">Casa Plataforma de Oração</a>
+</div>
 
 ## Estado editorial
 
+<div class="footnote">
 O acervo contém materiais em diferentes níveis de maturidade: registros de estudo, anotações, sínteses preliminares e textos revisados. A publicação no site não transforma automaticamente uma afirmação espiritual, mitológica ou especulativa em fato histórico ou científico. As páginas serão aperfeiçoadas progressivamente, com preservação de fontes, proveniência e divergências.
+</div>

@@ -1,0 +1,167 @@
+// Homepage-only components (eixos, pills, cards, refs, footnote).
+// Colors are hardcoded to mirror _sass/color_schemes/dark.scss from
+// just-the-docs/just-the-docs, since this site is pinned to color_scheme: dark
+// in _config.yml and these values must not depend on SCSS variable scope/order.
+
+$u-card-bg: #302d36; // grey-dk-250
+$u-card-bg-hover: #383540;
+$u-border: #44434d; // grey-dk-200
+$u-heading: #f5f6fa; // grey-lt-000
+$u-body: #e6e1e8; // grey-lt-300
+$u-muted: #9d99a3;
+$u-accent: #8f7bf2; // purple-000, lightened for contrast on dark bg
+$u-accent-soft: rgba(143, 123, 242, 0.16);
+$u-accent-2: #4f96fb; // blue-000, lightened (matches $link-color in dark.scss)
+
+.eixos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin: 0 0 8px;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.eixo {
+  border: 1px solid $u-border;
+  border-radius: 10px;
+  padding: 16px 18px;
+
+  .eixo-k {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $u-accent-2;
+  }
+
+  h3 {
+    font-size: 0.98rem;
+    color: $u-heading;
+    margin: 6px 0 8px;
+    line-height: 1.3;
+  }
+
+  p {
+    font-size: 0.87rem;
+    line-height: 1.6;
+    color: $u-body;
+    margin: 0;
+  }
+}
+
+.pillrow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 6px;
+}
+
+.pill {
+  font-size: 0.78rem;
+  padding: 5px 12px;
+  border-radius: 999px;
+  border: 1px solid $u-border;
+  background: $u-card-bg;
+  color: $u-body;
+  white-space: nowrap;
+
+  b {
+    color: $u-heading;
+    font-weight: 600;
+  }
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin: 0 0 8px;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card {
+  display: block;
+  border: 1px solid $u-border;
+  background: $u-card-bg;
+  border-radius: 10px;
+  padding: 16px 16px 15px;
+  text-decoration: none;
+  transition: background 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    background: $u-card-bg-hover;
+    border-color: $u-accent;
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $u-accent;
+    outline-offset: 2px;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $u-accent-soft;
+    color: $u-accent;
+    margin-bottom: 10px;
+
+    svg {
+      width: 16px;
+      height: 16px;
+    }
+  }
+
+  h3 {
+    font-size: 0.94rem;
+    font-weight: 600;
+    color: $u-heading;
+    margin: 0 0 5px;
+  }
+
+  p {
+    font-size: 0.82rem;
+    line-height: 1.55;
+    color: $u-muted;
+    margin: 0;
+  }
+}
+
+.refs {
+  columns: 2;
+  column-gap: 24px;
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+
+  @media (max-width: 500px) {
+    columns: 1;
+  }
+
+  a {
+    display: block;
+    padding: 4px 0;
+    break-inside: avoid;
+  }
+}
+
+.footnote {
+  margin-top: 8px;
+  padding: 14px 16px;
+  border-radius: 8px;
+  background: $u-card-bg;
+  border: 1px solid $u-border;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: $u-muted;
+}
