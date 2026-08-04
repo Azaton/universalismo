@@ -24,4 +24,5 @@ footer_content: "Projeto Universalismo — pesquisa comparativa, discernimento e
 exclude:
   - tools
   - README.md
+  - assets/README.md
   - node_modules
