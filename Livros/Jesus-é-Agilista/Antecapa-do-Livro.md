@@ -1,0 +1,7 @@
+---
+title: "Antecapa do Livro"
+nav_order: 8
+parent: "Jesus é Agilista"
+---
+
+Na verdade, é muito interessante esse assunto e gostei muito da introdução acima. O que eu tenho feito ali também é comparando esses tempos. Por exemplo, os 10 mandamentos, a reforma íntima, e os princípios do Manifesto Ágil. O objetivo de criar o meu livro, para os tempos modernos, é trazer, explicando o objetivo do livro, é trazer o que foi ensinado pelos nossos ancestrais, antigamente, como Jesus Cristo. E como esse conceito é aplicado através dos tempos - sem tempo, e a ligação entre essas três coisas. O lado espiritual, da reforma íntima, que tem o seu propósito. Os 10 mandamentos, que tem a sua mensagem em alto nível sobre as coisas, como a gente deve se comportar. E o Manifesto Ágil, também com a sua base. Então, tudo isso, todos esses pontos, os 10 mandamentos, todos os pontos da reforma íntima, e todos os pontos no Manifesto Ágil, que são a base, eles têm que estar conectados para criar esse livro. Estão conectados. Então, esse é o desfecho do objetivo base para a construção do meu livro. É como se fosse uma página sobreposta a capa, explicando o objetivo do livro. Então, eu gostaria de criar esta antecapa do licro. Acho que você me entendeu, e me corrija se for necessário. Mas gere ... que é depois a capa explicando. Ou talvez uma dedicatória ali, parece, mas me ajude com isso.

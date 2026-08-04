@@ -1,0 +1,19 @@
+title: Universalismo
+description: Biblioteca de estudos sobre universalismo, espiritualidade e história profunda da humanidade.
+url: "https://azaton.github.io"
+baseurl: "/universalismo"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+search_enabled: true
+nav_sort: default
+
+heading_anchors: true
+
+exclude:
+  - tools
+  - README.md
+  - node_modules
