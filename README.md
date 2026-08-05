@@ -1,77 +1,50 @@
-# Universalismo
+# Projeto Universalismo
 
-Site público do Projeto Universalismo, publicado via GitHub Pages com Jekyll e o tema [Just the Docs](https://just-the-docs.com/).
+Site: **https://azaton.github.io/universalismo/**
 
-## Endereços
+O Projeto Universalismo é um acervo de estudos sobre consciência, espiritualidade, Jesus, evolução humana, cosmologia, história profunda, mitologia, ciência, moral e tecnologia. Ele reúne materiais de origens muito diferentes — Bíblia e apócrifos, obras espíritas e mediúnicas, tradições herméticas e gnósticas, pesquisa histórica e científica, testemunhos e comunicações pessoais — sem tratar todas as fontes como se tivessem o mesmo grau de comprovação.
 
-- Repositório: `https://github.com/Azaton/universalismo`
-- Site: `https://azaton.github.io/universalismo/`
+O propósito não é decidir de antemão que toda narrativa espiritual é verdadeira (ou falsa), mas entender o que cada fonte afirma, em que contexto surgiu, onde ela converge ou diverge de outras, e o que disso pode ser sustentado como hipótese, evidência ou convicção espiritual.
 
-## Estrutura
+## Dois eixos centrais
 
-- `index.md` — página inicial.
-- `Sobre-o-Projeto.md` — propósito, eixos, metodologia e critérios editoriais.
-- Cada seção temática possui um arquivo de entrada, como `Estudos.md`, e uma pasta com suas subpáginas.
-- O front matter (`title`, `parent`, `nav_order`, `has_children`) controla a navegação lateral.
-- `assets/` deve concentrar imagens e documentos autorizados para publicação.
+- **Jesus histórico e trajetória de vida** — o Jesus histórico, o Jesus de cada tradição e as interpretações posteriores, preservando a origem e a proveniência de cada versão.
+- **História profunda e pré-história da humanidade** — das origens biológicas da espécie até civilizações antigas, mitologia comparada e hipóteses como Atlântida, Anunnaki e narrativas de intervenção ou migração entre mundos, tratadas como objeto de investigação, não como fato confirmado por padrão.
 
-## Conteúdo público e acervo privado
+Metodologia completa em [Sobre o Projeto](https://azaton.github.io/universalismo/sobre/).
 
-Este repositório é público. Tudo o que for versionado nele poderá ser consultado, copiado e distribuído por terceiros.
+## Como navegar o site
 
-Devem permanecer fora deste repositório:
+O menu lateral do site é organizado por assunto. As seções principais são:
 
-- PDFs integrais de livros protegidos por direitos autorais;
-- documentos pessoais ou confidenciais;
-- transcrições e pesquisas que ainda não foram revisadas para divulgação;
-- chaves, credenciais e configurações locais;
-- arquivos cuja licença ou autorização de uso não esteja clara.
+| Seção | Conteúdo |
+|---|---|
+| Sobre o Projeto | Propósito, eixos de pesquisa e critérios editoriais |
+| Amasofia | Estudos ligados ao Eixo Vivo (IONNA) |
+| Umbanda | Tradições, entidades e práticas afro-brasileiras |
+| Casa Plataforma de Oração | Sínteses de palestras e reflexões |
+| Desenvolvimento Mediúnico | Estudos sobre mediunidade |
+| Estudos | O maior eixo do acervo: cosmologia, mitologia, ciência e espiritualidade comparada |
+| Ensinamentos de Jesus | Textos e reflexões sobre a vida e o exemplo moral de Jesus |
+| Livros | Fichas de leitura e sínteses de obras espíritas, herméticas e de pesquisa histórica |
+| Músicas | Músicas usadas em prática espiritual e reflexão |
+| Orações | Preces e mensagens organizadas por mês e por prática |
+| Personagens | Perfis de entidades, mestres e figuras estudadas no acervo |
+| Trabalhos | Registros de trabalhos e práticas espirituais |
+| Perguntas e Respostas | Questões pontuais registradas ao longo da pesquisa |
 
-O acervo completo de pesquisa pode permanecer no ambiente privado do MestreOps. A publicação deve ser seletiva: o site recebe sínteses, artigos, referências e materiais autorizados.
+Cada seção tem uma página de entrada e, quando aplicável, subpáginas listadas abaixo dela no menu.
 
-## Adicionar ou revisar uma página
+## Como o conteúdo é tratado
 
-1. Crie ou edite o arquivo `.md` na pasta correta.
-2. Confira o front matter e a relação `parent` da página.
-3. Rode `node tools/generate-front-matter.mjs --dry-run` para visualizar o plano.
-4. Rode `node tools/generate-front-matter.mjs` somente quando quiser reprocessar o front matter de todo o acervo.
-5. Revise links, imagens, proveniência das afirmações e direitos de publicação.
-6. Faça commit e push para a branch `main`.
+Para não confundir crença, interpretação e evidência, os estudos procuram sempre distinguir: a **fonte** (o que o material afirma), o **contexto** (quem produziu, quando e com qual intenção), a **convicção espiritual** envolvida, a **interpretação** construída a partir dela, as **hipóteses** ainda não validadas, a **evidência** disponível e a **conclusão provisória** possível no momento.
 
-> O gerador é idempotente, mas reescreve o front matter existente. Alterações manuais especiais, como `permalink`, devem ser conferidas depois da execução.
+A presença de uma narrativa espiritual, mitológica ou especulativa no acervo não equivale à sua confirmação histórica ou científica — e o inverso também vale: convicção espiritual não é descartada só por não ser comprovável cientificamente.
 
-## Imagens e anexos
+## Sobre o conteúdo publicado
 
-A antiga Wiki utilizava caminhos no formato `/.attachments/...`. Esses caminhos não funcionam neste repositório quando os arquivos originais não foram migrados.
+Este repositório é público. O acervo de pesquisa completo é maior e permanece em ambiente privado; o que é publicado aqui é seletivo — sínteses, artigos e referências já revisados para divulgação, respeitando direitos autorais e autorizações de uso.
 
-Nova convenção:
+---
 
-```text
-assets/
-├── images/
-└── documents/
-```
-
-Antes de incluir um anexo:
-
-1. localize o arquivo original;
-2. confirme se pode ser publicado;
-3. use um nome descritivo, sem identificadores aleatórios;
-4. salve em `assets/images/` ou `assets/documents/`;
-5. atualize o link relativo na página correspondente.
-
-Enquanto o original não estiver disponível ou autorizado, a página deve exibir uma nota de anexo não migrado, sem criar links quebrados.
-
-## Publicação
-
-No GitHub:
-
-```text
-Settings → Pages → Deploy from a branch → main → /root
-```
-
-A configuração do site está em `_config.yml`.
-
-## Critério editorial
-
-O site distingue fonte, contexto, convicção espiritual, interpretação, hipótese, evidência e conclusão provisória. A presença de uma narrativa espiritual, mitológica ou especulativa no acervo não equivale à sua confirmação histórica ou científica.
+Para detalhes técnicos de manutenção do repositório (estrutura de arquivos, front matter, publicação), veja [MANUTENCAO.md](MANUTENCAO.md).
