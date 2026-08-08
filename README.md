@@ -2,14 +2,14 @@
 
 Site: **https://azaton.github.io/universalismo/**
 
-O Projeto Universalismo é um acervo de estudos sobre consciência, espiritualidade, Jesus, evolução humana, cosmologia, história profunda, mitologia, ciência, moral e tecnologia. Ele reúne materiais de origens muito diferentes — Bíblia e apócrifos, obras espíritas e mediúnicas, tradições herméticas e gnósticas, pesquisa histórica e científica, testemunhos e comunicações pessoais — sem tratar todas as fontes como se tivessem o mesmo grau de comprovação.
+O Projeto Universalismo é um acervo de estudos sobre consciência, espiritualidade, Jesus, evolução humana, cosmologia, pré-história espiritual da humanidade, mitologia, ciência, moral e tecnologia. Ele reúne materiais de origens muito diferentes — Bíblia e apócrifos, obras espíritas e mediúnicas, tradições herméticas e gnósticas, pesquisa histórica e científica, testemunhos e comunicações pessoais — sem tratar todas as fontes como se tivessem o mesmo grau de comprovação.
 
 O propósito não é decidir de antemão que toda narrativa espiritual é verdadeira (ou falsa), mas entender o que cada fonte afirma, em que contexto surgiu, onde ela converge ou diverge de outras, e o que disso pode ser sustentado como hipótese, evidência ou convicção espiritual.
 
-## Dois eixos centrais
+## Duas obras principais em construção
 
-- **Jesus histórico e trajetória de vida** — o Jesus histórico, o Jesus de cada tradição e as interpretações posteriores, preservando a origem e a proveniência de cada versão.
-- **História profunda e pré-história da humanidade** — das origens biológicas da espécie até civilizações antigas, mitologia comparada e hipóteses como Atlântida, Anunnaki e narrativas de intervenção ou migração entre mundos, tratadas como objeto de investigação, não como fato confirmado por padrão.
+- **Jesus e sua trajetória de vida** — reconstrução comparativa da trajetória de Jesus a partir de fontes históricas, canônicas, apócrifas, espiritualistas e acadêmicas, preservando a origem e a proveniência de cada versão.
+- **A Pré-História Espiritual da Humanidade** — investigação das origens e ciclos antigos da humanidade a partir de cronologias científicas, arqueológicas, históricas, mitológicas, religiosas, espiritualistas e especulativas, sem tratar automaticamente uma narrativa como fato confirmado.
 
 Metodologia completa em [Sobre o Projeto](https://azaton.github.io/universalismo/sobre/).
 
@@ -19,14 +19,14 @@ O menu lateral do site é organizado por assunto. As seções principais são:
 
 | Seção | Conteúdo |
 |---|---|
-| Sobre o Projeto | Propósito, eixos de pesquisa e critérios editoriais |
+| Sobre o Projeto | Propósito, obras principais e critérios editoriais |
 | Amasofia | Estudos ligados ao Eixo Vivo (IONNA) |
 | Umbanda | Tradições, entidades e práticas afro-brasileiras |
 | Casa Plataforma de Oração | Sínteses de palestras e reflexões |
 | Desenvolvimento Mediúnico | Estudos sobre mediunidade |
-| Estudos | O maior eixo do acervo: cosmologia, mitologia, ciência e espiritualidade comparada |
+| Estudos | Cosmologia, mitologia, ciência e espiritualidade comparada que alimentam o acervo e as obras |
 | Ensinamentos de Jesus | Textos e reflexões sobre a vida e o exemplo moral de Jesus |
-| Livros | Fichas de leitura e sínteses de obras espíritas, herméticas e de pesquisa histórica |
+| Livros | Obras autorais em construção, fichas de leitura e fontes bibliográficas do projeto |
 | Músicas | Músicas usadas em prática espiritual e reflexão |
 | Orações | Preces e mensagens organizadas por mês e por prática |
 | Personagens | Perfis de entidades, mestres e figuras estudadas no acervo |

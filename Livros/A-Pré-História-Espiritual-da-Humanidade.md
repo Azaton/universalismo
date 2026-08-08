@@ -1,3 +1,10 @@
+---
+title: "A Pré História Espiritual da Humanidade"
+nav_order: 1
+parent: "Livros"
+has_children: true
+---
+
 # A Pré-História Espiritual da Humanidade
 
 ## O que é esta pasta
@@ -6,17 +13,17 @@ Esta pasta é o **workspace editorial e de pesquisa** da obra **A Pré-História
 
 Ela reúne três camadas diferentes:
 
-1. o **livro em construção**, localizado em `capitulos/`;
-2. o **corpus bibliográfico**, localizado em `corpus-bibliografico/`;
+1. o **livro em construção**, localizado em `A-Pré-História-Espiritual-da-Humanidade/capitulos/`;
+2. o **corpus bibliográfico**, localizado em `A-Pré-História-Espiritual-da-Humanidade/corpus-bibliografico/`;
 3. os **bastidores da obra**, como fichas, cronologias, matrizes, revisões e decisões editoriais.
 
-Portanto, esta pasta inteira sustenta o livro, mas somente a pasta `capitulos/` constitui o manuscrito que será lido em sequência.
+Portanto, esta pasta inteira sustenta o livro, mas somente `A-Pré-História-Espiritual-da-Humanidade/capitulos/` constitui o manuscrito que será lido em sequência. As demais subpastas ficam publicadas no repositório, mas fora do menu do site.
 
 ## Onde começar a leitura do livro
 
 Abra a pasta:
 
-`capitulos/`
+`A-Pré-História-Espiritual-da-Humanidade/capitulos/`
 
 Leia os arquivos pela numeração:
 
@@ -30,7 +37,7 @@ O arquivo `capitulos/README.md` explica a organização do manuscrito, mas **nã
 
 A seleção de livros utilizada para construir o manuscrito está em:
 
-`corpus-bibliografico/`
+`A-Pré-História-Espiritual-da-Humanidade/corpus-bibliografico/`
 
 Comece por:
 
@@ -46,7 +53,7 @@ O corpus não é todo o acervo. É a seleção editorial das obras que participa
 
 Todo capítulo que integra a obra deve ser criado diretamente em:
 
-`capitulos/`
+`A-Pré-História-Espiritual-da-Humanidade/capitulos/`
 
 Convenção de nome:
 
@@ -58,7 +65,7 @@ Exemplo:
 
 O modelo de criação não fica dentro do manuscrito. Ele está em:
 
-`../../../doc/templates/template-capitulo-historia-profunda.md`
+`../../doc/templates/template-capitulo-historia-profunda.md`
 
 ## Estrutura da pasta
 
@@ -81,6 +88,8 @@ O modelo de criação não fica dentro do manuscrito. Ele está em:
 | `publicacao/` | Materiais para uma edição consolidada | Não |
 | `referencias/` | Bibliografia final e padrões de citação | Não |
 | `anexos/` | Materiais complementares da futura obra | Somente se incorporados à edição final |
+
+Caminhos acima são relativos a `A-Pré-História-Espiritual-da-Humanidade/`. Todas as subpastas exceto `capitulos/` ficam fora do menu do site (publicadas no repositório, sem página própria).
 
 ## Objetivo da obra
 
@@ -135,12 +144,12 @@ Essas camadas podem dialogar, mas não devem ser confundidas ou fundidas sem jus
 
 A criação e revisão dos capítulos seguem:
 
-1. `../../../commands/producao-capitulos.md`;
-2. `../../../.agents/skills/escrita-historico-espiritual-comparativa/SKILL.md`;
-3. `sumario-editorial.md`;
-4. `criterios-de-pronto-capitulo.md`;
-5. `corpus-bibliografico/`;
-6. `../../../doc/templates/template-capitulo-historia-profunda.md`.
+1. `../../commands/producao-capitulos.md`;
+2. `../../.agents/skills/escrita-historico-espiritual-comparativa/SKILL.md`;
+3. `A-Pré-História-Espiritual-da-Humanidade/sumario-editorial.md`;
+4. `A-Pré-História-Espiritual-da-Humanidade/criterios-de-pronto-capitulo.md`;
+5. `A-Pré-História-Espiritual-da-Humanidade/corpus-bibliografico/`;
+6. `../../doc/templates/template-capitulo-historia-profunda.md`.
 
 ## Estado atual da obra
 
@@ -153,7 +162,7 @@ Eles já compõem o início do livro, mas ainda contêm pendências editoriais e
 
 ## Regra prática
 
-- Para **ler o livro**: entre em `capitulos/` e siga a numeração.
-- Para **ver quais livros constroem a obra**: entre em `corpus-bibliografico/`.
+- Para **ler o livro**: entre em `A-Pré-História-Espiritual-da-Humanidade/capitulos/` e siga a numeração.
+- Para **ver quais livros constroem a obra**: entre em `A-Pré-História-Espiritual-da-Humanidade/corpus-bibliografico/`.
 - Para **criar um capítulo**: copie o template de `doc/templates/` e salve o novo arquivo em `capitulos/`.
 - Para **consultar a pesquisa**: use as demais pastas deste workspace.

@@ -1,6 +1,6 @@
 ---
 title: "Bíblia"
-nav_order: 4
+nav_order: 5
 parent: "Livros"
 has_children: true
 ---

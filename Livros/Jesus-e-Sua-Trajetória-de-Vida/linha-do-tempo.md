@@ -1,3 +1,9 @@
+---
+title: "linha do tempo"
+nav_order: 1
+parent: "Jesus e Sua Trajetória de Vida"
+---
+
 # Linha do tempo da vida de Jesus
 
 > Última atualização: 2026-07-26  

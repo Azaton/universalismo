@@ -6,7 +6,7 @@ permalink: "/"
 
 # Projeto Universalismo
 
-**Consciência, espiritualidade, Jesus e história profunda da humanidade.**
+**Consciência, espiritualidade, Jesus e a pré-história espiritual da humanidade.**
 
 Este site reúne estudos, reflexões, fontes e sínteses construídos a partir de tradições religiosas, espirituais, mediúnicas, filosóficas, mitológicas, históricas e científicas. O propósito não é reduzir todas as fontes a uma única explicação, mas compreender o que cada uma afirma, em qual contexto surgiu e como pode contribuir para uma visão universalista, crística e intelectualmente honesta.
 
@@ -17,18 +17,18 @@ Este site reúne estudos, reflexões, fontes e sínteses construídos a partir d
 
 O Projeto Universalismo procura integrar abertura espiritual, investigação comparativa e aplicação prática. O conhecimento é estudado não apenas pelo que afirma sobre o universo e a humanidade, mas também pelos frutos morais que pode produzir: amor, serviço, humildade, verdade, perdão, coragem, reforma íntima e responsabilidade.
 
-## Dois eixos de estudo
+## Duas obras principais em construção
 
 <div class="eixos">
   <div class="eixo">
-    <span class="eixo-k">Eixo 1</span>
-    <div class="eixo-title">Jesus histórico e trajetória de vida</div>
-    <p>Investigação comparativa do Jesus histórico, do Jesus apresentado pelas diferentes tradições e das interpretações espirituais posteriores, preservando convergências, divergências e a origem de cada versão.</p>
+    <span class="eixo-k">Obra 1</span>
+    <div class="eixo-title">Jesus e sua trajetória de vida</div>
+    <p>Investigação comparativa da trajetória de Jesus, reunindo fontes históricas, canônicas, apócrifas, espiritualistas e acadêmicas, com preservação das convergências, divergências e da origem de cada versão.</p>
   </div>
   <div class="eixo">
-    <span class="eixo-k">Eixo 2</span>
-    <div class="eixo-title">História profunda e pré-história da humanidade</div>
-    <p>Estudo de cronologias científicas, arqueológicas, históricas, mitológicas, religiosas, espiritualistas e especulativas relacionadas às origens humanas, antigas civilizações, Atlântida, Capela, Anunnaki e outras narrativas de intervenção ou migração entre mundos.</p>
+    <span class="eixo-k">Obra 2</span>
+    <div class="eixo-title">A Pré-História Espiritual da Humanidade</div>
+    <p>Estudo comparativo de cronologias científicas, arqueológicas, históricas, mitológicas, religiosas, espiritualistas e especulativas relacionadas às origens humanas, antigas civilizações, Atlântida, Capela, Anunnaki e outras narrativas de intervenção ou migração entre mundos.</p>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
   <a class="card" href="{% link Sobre-o-Projeto.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M14.5 9.5l-2 5-5 2 2-5z"/></svg></span>
     <div class="card-title">Sobre o Projeto</div>
-    <p>Propósito, eixos de pesquisa e disciplina epistemológica do acervo.</p>
+    <p>Propósito, obras principais e disciplina epistemológica do acervo.</p>
   </a>
   <a class="card" href="{% link Ensinamentos-de-Jesus.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="2.6"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/></svg></span>
@@ -74,12 +74,12 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
   <a class="card" href="{% link Estudos.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 6.5c-1.8-1.3-4.3-1.8-6.5-1.3v12c2.2-.5 4.7 0 6.5 1.3 1.8-1.3 4.3-1.8 6.5-1.3v-12c-2.2-.5-4.7 0-6.5 1.3z"/><path d="M12 6.5v12"/></svg></span>
     <div class="card-title">Estudos</div>
-    <p>O maior eixo do acervo: cosmologia, mitologia, ciência e espiritualidade comparada.</p>
+    <p>Cosmologia, mitologia, ciência e espiritualidade comparada que alimentam as obras e o acervo.</p>
   </a>
   <a class="card" href="{% link Livros.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="5" y="4" width="3.4" height="16" rx=".6"/><rect x="9.3" y="4" width="3.4" height="16" rx=".6"/><path d="M14.6 5.2l3.2-.9 3.4 15.4-3.2.9z"/></svg></span>
     <div class="card-title">Livros</div>
-    <p>Fichas de leitura e sínteses de obras espíritas, herméticas e de pesquisa histórica.</p>
+    <p>Obras autorais em construção, fichas de leitura e fontes bibliográficas do projeto.</p>
   </a>
   <a class="card" href="{% link Personagens.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="8" r="3.3"/><path d="M5.5 20c0-3.6 3-6 6.5-6s6.5 2.4 6.5 6"/></svg></span>

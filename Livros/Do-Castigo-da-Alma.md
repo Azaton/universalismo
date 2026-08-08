@@ -1,6 +1,6 @@
 ---
 title: "Do Castigo da Alma"
-nav_order: 6
+nav_order: 7
 parent: "Livros"
 has_children: true
 ---

@@ -1,3 +1,9 @@
+---
+title: "README"
+nav_order: 3
+parent: "capitulos"
+---
+
 # Capítulos — A Pré-História Espiritual da Humanidade
 
 ## Finalidade

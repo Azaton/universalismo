@@ -6,7 +6,7 @@ permalink: "/sobre/"
 
 # Sobre o Projeto Universalismo
 
-O Projeto Universalismo é um espaço de investigação, integração e desenvolvimento interior. Ele reúne materiais sobre consciência, espiritualidade, Jesus, evolução humana, cosmologia, história profunda, mitologia, ciência, moral e tecnologia, sem atribuir automaticamente o mesmo valor histórico ou científico a todas as fontes.
+O Projeto Universalismo é um espaço de investigação, integração e desenvolvimento interior. Ele reúne materiais sobre consciência, espiritualidade, Jesus, evolução humana, cosmologia, pré-história espiritual da humanidade, mitologia, ciência, moral e tecnologia, sem atribuir automaticamente o mesmo valor histórico ou científico a todas as fontes.
 
 ## Finalidade
 
@@ -20,17 +20,17 @@ O projeto procura combinar:
 - preservação de conflitos e versões divergentes;
 - aplicação prática voltada à ética, ao serviço e à reforma íntima.
 
-## Eixos duradouros
+## Obras autorais principais
 
-### 1. Jesus histórico e trajetória de vida
+### 1. Jesus e sua trajetória de vida
 
-Esse eixo estuda o Jesus histórico, o Jesus apresentado em cada tradição e as interpretações posteriores. Fontes bíblicas, apócrifas, religiosas, espiritualistas e mediúnicas podem ser examinadas em conjunto, desde que sua natureza, autoria, data e grau de verificabilidade permaneçam claros.
+Esta obra investiga a trajetória de Jesus como personagem histórico, líder, mestre e referência espiritual. Fontes bíblicas, apócrifas, religiosas, espiritualistas, mediúnicas, históricas e acadêmicas podem ser examinadas em conjunto, desde que sua natureza, autoria, data e grau de verificabilidade permaneçam claros.
 
 O exemplo moral de Jesus funciona como referência transversal: amor, serviço, humildade, verdade, perdão, coragem e responsabilidade. Isso não significa transformar toda investigação histórica em pregação ou usar o eixo moral para encerrar artificialmente questões em aberto.
 
-### 2. História profunda e pré-história da humanidade
+### 2. A Pré-História Espiritual da Humanidade
 
-Esse eixo considera escalas anteriores às civilizações documentadas e diferencia:
+Esta obra investiga escalas anteriores às civilizações documentadas e compara diferentes maneiras de narrar as origens e os ciclos antigos da humanidade. Ela diferencia:
 
 - evolução biológica;
 - desenvolvimento do gênero *Homo*;
@@ -41,6 +41,8 @@ Esse eixo considera escalas anteriores às civilizações documentadas e diferen
 - hipóteses de intervenção, migração ou transmigração entre mundos.
 
 Atlântida, Capela, Anunnaki, Dragões, Vril, arcontes e temas semelhantes são estudados como objetos legítimos de investigação, mas não são tratados como fatos históricos confirmados por padrão.
+
+O termo **Pré-História Espiritual** define o recorte editorial da obra: investigar a dimensão espiritual atribuída às origens e aos ciclos remotos da humanidade, mantendo a comparação explícita com arqueologia, história, paleoantropologia, genética, mitologia e outras famílias de fontes.
 
 ## Disciplina epistemológica
 

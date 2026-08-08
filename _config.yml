@@ -26,3 +26,21 @@ exclude:
   - README.md
   - assets/README.md
   - node_modules
+  # Bastidores editoriais de "A Pré-História Espiritual da Humanidade": ficam
+  # publicados no repositório, mas fora do site (só capitulos/ vira página).
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/anexos
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/corpus-bibliografico
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/criterios-de-pronto-capitulo.md
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/decisoes-editoriais
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/estado-da-obra
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/fichas
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/fontes-capitulos
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/glossario
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/linha-do-tempo-multicamada.md
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/mapas
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/matrizes
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/planejamento
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/publicacao
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/referencias
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/revisoes
+  - Livros/A-Pré-História-Espiritual-da-Humanidade/sumario-editorial.md

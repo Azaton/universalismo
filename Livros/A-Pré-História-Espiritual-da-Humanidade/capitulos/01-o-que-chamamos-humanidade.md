@@ -1,11 +1,7 @@
 ---
-capitulo: 1
-titulo: O que chamamos de humanidade?
-estado: esboço
-versao: 0.1
-ultima_atualizacao: 2026-08-01
-pergunta_central: "Quais definições de humanidade estão sendo usadas pelas diferentes fontes e como elas alteram a cronologia das origens?"
-objetivo: "Estabelecer o vocabulário básico da obra e impedir que cronologias diferentes sejam comparadas como se descrevessem o mesmo marco."
+title: "01 o que chamamos humanidade"
+nav_order: 2
+parent: "capitulos"
 ---
 
 # Capítulo 1 — O que chamamos de humanidade?

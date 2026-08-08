@@ -1,11 +1,7 @@
 ---
-capitulo: 0
-titulo: Por que investigar a história profunda?
-estado: esboço
-versao: 0.1
-ultima_atualizacao: 2026-08-01
-pergunta_central: "Por que investigar as origens humanas por meio de ciência, história, mito e espiritualidade?"
-objetivo: "Apresentar o propósito da obra, seu método comparativo e a postura de abertura com discernimento."
+title: "00 prologo por que investigar"
+nav_order: 1
+parent: "capitulos"
 ---
 
 # Prólogo — Por que investigar a história profunda?

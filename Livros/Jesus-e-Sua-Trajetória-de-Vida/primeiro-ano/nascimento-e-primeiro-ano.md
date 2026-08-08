@@ -1,3 +1,9 @@
+---
+title: "nascimento e primeiro ano"
+nav_order: 2
+parent: "primeiro ano"
+---
+
 # Nascimento e Primeiro Ano de Jhasua (Jesus)
 
 > Síntese dos episódios narrados em **Harpas Eternas, Volume 1**  

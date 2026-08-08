@@ -1,3 +1,10 @@
+---
+title: "Jesus e Sua Trajetória de Vida"
+nav_order: 11
+parent: "Livros"
+has_children: true
+---
+
 # Jesus e sua trajetória de vida
 
 ## Objetivo
@@ -47,9 +54,13 @@ Essas famílias não têm o mesmo valor para todas as perguntas. A classificaç�
 - sínteses por período de vida;
 - registro de lacunas, conflitos e graus de confiança.
 
+## Capítulos
+
+O manuscrito em construção está em `Jesus-e-Sua-Trajetória-de-Vida/`, começando por `primeiro-ano/`.
+
 ## Fontes
 
-Registrar novas referências no [Source Context](../../../doc/source-context.md), na seção `Jesus histórico`, antes de incorporá-las a uma síntese.
+Registrar novas referências no [Source Context](../../doc/source-context.md), na seção `Jesus histórico`, antes de incorporá-las a uma síntese.
 
 ## Regra de redação
 

@@ -1,3 +1,9 @@
+---
+title: "personagens"
+nav_order: 3
+parent: "primeiro ano"
+---
+
 # Mapa de Personagens — Primeiro Ano de Jhasua (Jesus)
 
 > Fonte: **Harpas Eternas, Volume 1** — Josefa Rosalina Álvares Arpas  

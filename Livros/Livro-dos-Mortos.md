@@ -1,6 +1,6 @@
 ---
 title: "Livro dos Mortos"
-nav_order: 10
+nav_order: 12
 parent: "Livros"
 ---
 

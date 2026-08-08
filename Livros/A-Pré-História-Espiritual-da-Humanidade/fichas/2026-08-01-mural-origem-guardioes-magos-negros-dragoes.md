@@ -72,7 +72,7 @@ Os três destinos indicados são Hiperbóreo, Atlântida e Lemúria.
 
 `achado relevante para a definição do eixo`
 
-O termo "Capelinos", já previsto como núcleo de investigação do eixo "História profunda da humanidade" (ver `uc-osasco/Livros/pre-historia-espiritual-da-humanidade/README.md`), aparece aqui associado especificamente aos **magos negros exilados de Capela** — distintos dos **dragões**, associados a Maldek. Esta é uma hipótese de definição interna a esta fonte, não uma conclusão do projeto; deve ser comparada com outras fontes antes de ser adotada como definição fixa de "Capelinos" no eixo.
+O termo "Capelinos", já previsto como núcleo de investigação do eixo "História profunda da humanidade" (ver `uc-osasco/Livros/A-Pré-História-Espiritual-da-Humanidade/README.md`), aparece aqui associado especificamente aos **magos negros exilados de Capela** — distintos dos **dragões**, associados a Maldek. Esta é uma hipótese de definição interna a esta fonte, não uma conclusão do projeto; deve ser comparada com outras fontes antes de ser adotada como definição fixa de "Capelinos" no eixo.
 
 ### Os Guardiões e Perseu
 
