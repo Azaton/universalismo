@@ -6,6 +6,18 @@ has_children: true
 
 Dica: para facilitar a sua busca pelos personagens, nesta tela (browser) aperte CRTL + F. Uma caixa branca aparecerá no topo da página para você digitar as letras e fazer a pesquisa por palavras chaves.
 
+## Como os personagens se relacionam
+
+Os personagens deste índice não são necessariamente indivíduos únicos e isolados. Neste acervo, o mesmo espírito pode ter encarnado — ou estar encarnado — como mais de um personagem ao longo de diferentes épocas, e diferentes entradas desta lista podem, portanto, se referir à mesma linhagem espiritual.
+
+Um exemplo: alguém que hoje atua como canal/médium no projeto (caso de Pedro Augusto — ver Sobre o Projeto) pode ter tido diversas encarnações anteriores, cada uma correspondendo a um personagem separado neste índice. Da mesma forma, entidades que se comunicam através desse canal podem ganhar sua própria página — e, nesse caso, a fonte de informação disponível no acervo sobre elas é justamente essa comunicação.
+
+Quando uma relação desse tipo for identificada (mesma linhagem espiritual, ou informação obtida por meio de outro personagem), ela deve ser registrada na página do personagem envolvido, preservando a proveniência.
+
+**Dúvidas a esclarecer:**
+- Confirmar quantas encarnações são atribuídas a Pedro Augusto no acervo (a referência inicial fala em "quatro, seis ou mais") e quais personagens desta lista correspondem a elas.
+- Confirmar o nome da entidade citada como exemplo de comunicação através de Pedro Augusto.
+
 <table>
   <tr>
     <th colspan="6" style="text-align: center;">Índice de Personagens</th>
