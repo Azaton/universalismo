@@ -1,9 +1,8 @@
 ---
 title: "Desvendando o véu dos tempos"
-nav_order: 2
+nav_order: 1
 parent: "Erg - O Décimo Planeta"
 ---
-
 
 # Desvendando o véu dos tempos
 

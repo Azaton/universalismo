@@ -4,7 +4,6 @@ nav_order: 1
 parent: "7 Raios"
 ---
 
-
 [2º Raio Solar - CHAMA AMARELO DOURADO - Meditação - Mestre Kuthumi](https://www.youtube.com/watch?v=pk269RZQL44)
 
 

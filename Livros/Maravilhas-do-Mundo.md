@@ -4,7 +4,6 @@ nav_order: 12
 parent: "Livros"
 ---
 
-
 A história de Marco Polo e os dragões é uma mistura de lendas e relatos fictícios que se atribuem ao famoso explorador veneziano Marco Polo (1254-1324). No entanto, é importante ressaltar que não há evidências históricas confiáveis que sustentem a existência real de dragões ou de encontros com eles durante as viagens de Marco Polo.
 
 A obra mais conhecida de Marco Polo é o livro "O Livro das Maravilhas do Mundo" (conhecido também como "O Livro do Marco Polo" ou "As Viagens de Marco Polo"), que descreve suas viagens pela Ásia, particularmente pela China, durante o século XIII. Embora o livro seja uma importante fonte histórica para a compreensão do mundo asiático daquela época, não menciona a existência de dragões.

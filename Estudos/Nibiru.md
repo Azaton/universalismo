@@ -1,9 +1,8 @@
 ---
 title: "Nibiru"
-nav_order: 37
+nav_order: 32
 parent: "Estudos"
 ---
-
 
 - O Vaticano e Nasa, estão associados e conectados. Sabem da existência desde 1983, quando o satélite IRAS, avistou Nibiru bem longe em Orion. Foi publicado em 21/12/1983 Washington, D.C. Post, informado ao presidente da época, mas ele não deu ouvidos e acobertaram. 
 

@@ -1,9 +1,8 @@
 ---
 title: "Gnósticos"
-nav_order: 29
+nav_order: 26
 parent: "Estudos"
 ---
-
 
 Os gnósticos foram um grupo de filósofos e místicos que surgiram no período do cristianismo primitivo, principalmente nos séculos I e II d.C. Eles acreditavam em uma forma particular de conhecimento espiritual chamada "gnose", daí o termo "gnóstico".
 

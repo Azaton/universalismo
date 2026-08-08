@@ -1,9 +1,8 @@
 ---
 title: "Conceito de TAO no nosso dia a dia"
-nav_order: 1
+nav_order: 16
 parent: "Estudos"
 ---
-
 
 Ótima escolha! Vou explorar como o conceito de Tao pode ser aplicado na vida cotidiana, abordando práticas como o wu wei (ação sem esforço), a harmonia com a natureza, a simplicidade e o equilíbrio emocional. Também incluirei exemplos práticos de como essas ideias podem melhorar o bem-estar e a tomada de decisões no dia a dia.
 Vou preparar um relatório detalhado sobre isso e te aviso assim que estiver pronto.

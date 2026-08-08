@@ -1,9 +1,8 @@
 ---
 title: "Constelação Familiar"
-nav_order: 25
+nav_order: 17
 parent: "Estudos"
 ---
-
 
 A [Constelação Familiar](https://pt.wikipedia.org/wiki/Constela%C3%A7%C3%A3o_familiar) é uma abordagem terapêutica desenvolvida pelo psicoterapeuta alemão Bert Hellinger. O método é frequentemente utilizado para tratar questões pessoais, familiares e sociais, explorando as dinâmicas e relações dentro de um sistema familiar ou outro grupo social. A abordagem é muitas vezes classificada como uma forma de terapia sistêmica e pode ser realizada em grupos ou em sessões individuais.
 

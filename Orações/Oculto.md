@@ -1,9 +1,8 @@
 ---
 title: "Oculto"
-nav_order: 8
+nav_order: 7
 parent: "Orações"
 ---
-
 
 _Pai, eu desejo ensinar, curar e reconfortar os mais necessitados._
 _Ó Pai, faça-me instrumento de vossa Paz._

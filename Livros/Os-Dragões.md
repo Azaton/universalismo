@@ -1,9 +1,8 @@
 ---
 title: "Os Dragões — Livros"
-nav_order: 15
+nav_order: 14
 parent: "Livros"
 ---
-
 
 *"O diamante no lodo não deixa de ser diamante."*
 

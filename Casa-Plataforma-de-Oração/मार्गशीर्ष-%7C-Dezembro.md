@@ -4,7 +4,6 @@ nav_order: 12
 parent: "Casa Plataforma de Oração"
 ---
 
-
 ## MAGO KRYPTRUS - O povo brasileiro terá o que escolheu, e o que merece
 
 * A que ponto os humanos que moram na Pátria do Planeta. Lutando, matando, brigando e gerando a separação por conta de duas pessoas incapacitadas para governar. Familiais brigando. Filhos discutindo por conta de opiniões divergentes. Sintonizados com as antenas e hipnose que está em andamento. Sendo opositores de Deus. Até quando ser um espírito arrogante, egoísta e ganancioso.

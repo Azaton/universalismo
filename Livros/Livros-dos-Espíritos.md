@@ -1,9 +1,8 @@
 ---
 title: "Livros dos Espíritos"
-nav_order: 10
+nav_order: 11
 parent: "Livros"
 ---
-
 
 [**Questão 903**](https://www.youtube.com/watch?v=CwPslF8yjC8) - antes de julgar, pensar sobre você. O pensamento mau vem, mas e daí? Deus é soberano, conecte-se a ele e olhe para dentro de você. Veja, se entenda, se você não tem defeitos. Se coloque no lugar do irmão. Aconselhe e dê apoio as pessoas, quando se deparar com a situação.
 

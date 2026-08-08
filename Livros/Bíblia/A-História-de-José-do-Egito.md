@@ -4,7 +4,6 @@ nav_order: 3
 parent: "Bíblia"
 ---
 
-
 **História de José do Egito.**
 
 A história de José do Egito é narrada no livro de Gênesis, capítulos 37 a 50, na Bíblia. José era filho de Jacó (também conhecido como Israel) e de sua esposa Raquel. Ele tinha 11 irmãos, sendo que dez deles eram mais velhos do que ele.

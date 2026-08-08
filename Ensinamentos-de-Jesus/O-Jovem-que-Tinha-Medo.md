@@ -4,7 +4,6 @@ nav_order: 6
 parent: "Ensinamentos de Jesus"
 ---
 
-
 # O Jovem que Tinha Medo
 
 130:6.1 (1437.1)Enquanto estavam nas montanhas, Jesus teve uma longa conversa com um jovem que andava atemorizado e abatido. Não tendo conseguido encontrar consolo e coragem na relação com os seus semelhantes, esse jovem tinha ido buscar a solidão das colinas; tinha ele crescido com um sentimento de desamparo e inferioridade. Essas tendências naturais haviam sido intensificadas por inúmeras circunstâncias difíceis com as quais o garoto se tinha deparado à medida que crescia, especialmente a perda do seu pai, aos doze anos de idade. Quando se encontraram, Jesus disse: “Salve, meu amigo! Por que tão abatido em um dia tão belo? Se alguma coisa aconteceu que te aflija, talvez eu possa de algum modo oferecer-te ajuda. De qualquer forma para mim é um prazer oferecer os meus préstimos”.

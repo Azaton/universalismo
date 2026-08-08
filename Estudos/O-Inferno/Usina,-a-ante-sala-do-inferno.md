@@ -4,7 +4,6 @@ nav_order: 1
 parent: "O Inferno"
 ---
 
-
 ### **Resumo do Documento: "Usina, a Ante-Sala do Inferno"**
 
 O documento narra uma experiência espiritual intensa e perturbadora vivida pelo autor, Pedro Augusto, na madrugada de 11 de fevereiro de 2025. Ele descreve um **desdobramento astral** (projeção da consciência para fora do corpo físico) para uma **dimensão de sofrimento extremo**, que ele identifica como uma **região densa do inferno**, diferente do umbral comum. Durante essa experiência, Pedro testemunha **torturas aterrorizantes** realizadas por seres demoníacos em espíritos recém-desencarnados.

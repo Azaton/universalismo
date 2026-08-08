@@ -1,9 +1,8 @@
 ---
 title: "Qual o papel do médium nos fenômenos físicos?"
-nav_order: 4
+nav_order: 7
 parent: "Perguntas e Respostas"
 ---
-
 
 ### Catalisador de Energia
 

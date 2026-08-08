@@ -4,7 +4,6 @@ nav_order: 1
 parent: "Jesus é Agilista"
 ---
 
-
 Os **10 Mandamentos bíblicos** (também chamados de _Decálogo_) são leis morais entregues por Deus a Moisés no Monte Sinai, conforme descrito no livro do **Êxodo 20:1-17** e reafirmado em **Deuteronômio 5:6-21**. Abaixo estão os mandamentos conforme a tradição cristã mais comum (como a adotada pela Igreja Católica e muitas igrejas protestantes):
 
 * * *

@@ -1,9 +1,8 @@
 ---
 title: "Jesus aos Seis Anos: Um Espírito Além da Infância"
-nav_order: 2
+nav_order: 5
 parent: "Ensinamentos de Jesus"
 ---
-
 
 Jesus quando tinha 6 anos de idade já demonstrava um senso de responsabilidade muito fora do comum para a idade. Apesar de ainda ser muito criança, ele observava tudo à sua volta com um espírito curioso, mas já reflexivo. Ele gostava de ouvir os adultos e fazia perguntas profundas sobre a natureza da vida, da fé e dos deveres.
 

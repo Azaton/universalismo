@@ -1,9 +1,8 @@
 ---
 title: "Anjos Caídos de Enoque"
-nav_order: 4
+nav_order: 1
 parent: "Livros"
 ---
-
 
 O Livro de Enoque é uma obra apócrifa que não faz parte do cânone da maioria das tradições judaico-cristãs, mas é reconhecido e valorizado em algumas tradições etíopes. A história mencionada é parte do que é conhecido como a narrativa dos "Anjos Caídos" ou "Vigilantes", especificamente no primeiro livro de Enoque, também conhecido como o Livro dos Vigilantes. Esta seção descreve como um grupo de anjos, liderados por Samyaza (ou Semyaza), desce à Terra e toma mulheres humanas como esposas, gerando uma raça de gigantes conhecida como Nefilins.
 

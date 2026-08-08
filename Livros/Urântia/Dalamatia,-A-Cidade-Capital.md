@@ -1,9 +1,8 @@
 ---
 title: "Dalamatia, A Cidade Capital"
-nav_order: 10
+nav_order: 6
 parent: "Urântia"
 ---
-
 
 No contexto do Livro de Urântia, Dalamatia é descrita como a primeira cidade-capital do mundo, estabelecida por seres divinos conhecidos como os Filhos de Deus, mais especificamente, os cem membros do corpo de Filhos Lanonandek sob o comando de um ser chamado Príncipe Caligástia. Esta cidade teria sido fundada há aproximadamente meio milhão de anos, servindo como um centro de cultura e espiritualidade para a evolução da humanidade primitiva na Terra, que no texto é frequentemente referida pelo nome de Urântia.
 

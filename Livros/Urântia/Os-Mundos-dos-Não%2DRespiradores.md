@@ -1,9 +1,8 @@
 ---
 title: "Os Mundos dos Não Respiradores"
-nav_order: 13
+nav_order: 15
 parent: "Urântia"
 ---
-
 
 3. Os Mundos dos Não-Respiradores
 (563.4) 49:3.1 A maioria dos planetas habitados é povoada pelo tipo respirador de seres inteligentes. Mas há também 

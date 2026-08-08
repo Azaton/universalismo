@@ -1,9 +1,8 @@
 ---
 title: "Oração 21 Dias de Miguel Arcanjo"
-nav_order: 3
+nav_order: 8
 parent: "Orações"
 ---
-
 
 “Eu apelo ao Cristo para acalmar meus medos e para apagar todo o mecanismo de controle externo que possa interferir com esta cura. Eu peço 
 ao meu Eu Superior que feche a minha aura e estabeleça um canal Crístico para os propósitos da minha cura, para que só as energias Crísticas 

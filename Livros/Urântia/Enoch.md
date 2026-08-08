@@ -1,9 +1,8 @@
 ---
 title: "Enoch"
-nav_order: 7
+nav_order: 10
 parent: "Urântia"
 ---
-
 
 (514.3) 45:4.13 11. Enoch, o primeiro dos mortais de Urântia a fusionar-se com o Ajustador do Pensamento 
 durante a vida mortal na carne.

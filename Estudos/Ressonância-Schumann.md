@@ -1,9 +1,8 @@
 ---
 title: "Ressonância Schumann"
-nav_order: 48
+nav_order: 43
 parent: "Estudos"
 ---
-
 
 # Ressonância Schumann
 

@@ -4,7 +4,6 @@ nav_order: 19
 parent: "Personagens"
 ---
 
-
 https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
 
 Júlio Verne, um autor francês nascido em 1828 e falecido em 1905, é frequentemente considerado um dos pioneiros do gênero de ficção científica. Suas obras são conhecidas pela rica imaginação e pela capacidade de antecipar invenções e descobertas científicas. Verne escreveu mais de sessenta romances, além de diversas peças de teatro, contos e trabalhos colaborativos. Seus livros mais famosos fazem parte da série "Viagens Extraordinárias", que visa educar os leitores ao mesmo tempo em que os entretém com aventuras emocionantes.

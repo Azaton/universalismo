@@ -1,9 +1,8 @@
 ---
 title: "Pais e Mães de Cabeça"
-nav_order: 1
+nav_order: 3
 parent: "Umbanda"
 ---
-
 
 Na Umbanda, os termos "Pai de Cabeça" e "Mãe de Cabeça" são usados para se referir aos orixás ou entidades espirituais que são considerados protetores ou guias espirituais de um indivíduo. Eles têm um papel importante na orientação espiritual e no desenvolvimento pessoal do indivíduo, oferecendo proteção, orientação e ensinamentos.
 

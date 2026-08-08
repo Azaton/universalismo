@@ -1,9 +1,8 @@
 ---
 title: "Demiurgo"
-nav_order: 9
+nav_order: 8
 parent: "Personagens"
 ---
-
 
 O termo "Demiurgo" tem suas origens na filosofia antiga e no gnosticismo. Aqui está um breve panorama:
 

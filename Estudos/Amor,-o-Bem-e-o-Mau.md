@@ -1,9 +1,8 @@
 ---
 title: "Amor, o Bem e o Mau"
-nav_order: 17
+nav_order: 5
 parent: "Estudos"
 ---
-
 
 Amor desinteressado: quando o seu coração sente vontade de falar com alguém, apenas por querer e vontade, sem interesse próprio.  Não tem desejo material por nada do que ela tenha. Na dúvida, coloque-te na riqueza e na pobreza, para ter a visão das coisas. Coloque as pessoas na riqueza e na pobreza. Não se deve confundir empatia com amor desinteressado.
 

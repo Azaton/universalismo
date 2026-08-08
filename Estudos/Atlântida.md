@@ -1,9 +1,8 @@
 ---
 title: "Atlântida"
-nav_order: 14
+nav_order: 10
 parent: "Estudos"
 ---
-
 
 # Atlântida, segundo o Universalismo
 

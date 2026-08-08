@@ -4,7 +4,6 @@ nav_order: 6
 parent: "Casa Plataforma de Oração"
 ---
 
-
 [MAYARA / Os suicidas](https://www.youtube.com/watch?v=__5NO4c9tP0)
 
 Como é importante a conversa, a fala simples com as pessoas. De um simples gesto de um oi e bom dia, pois viemos para cá para nos relacionarmos como seres humanos em prol da evolução dos nossos corpos.

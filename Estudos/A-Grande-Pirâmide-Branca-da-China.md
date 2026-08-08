@@ -1,9 +1,8 @@
 ---
 title: "A Grande Pirâmide Branca da China"
-nav_order: 47
+nav_order: 3
 parent: "Estudos"
 ---
-
 
 # A Grande Pirâmide Branca da China
 

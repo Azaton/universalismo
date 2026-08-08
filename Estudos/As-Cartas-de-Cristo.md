@@ -1,10 +1,9 @@
 ---
 title: "As Cartas de Cristo"
-nav_order: 10
+nav_order: 9
 parent: "Estudos"
 has_children: true
 ---
-
 
 # Carta 1 - 11
 

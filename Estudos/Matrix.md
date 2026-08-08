@@ -1,7 +1,6 @@
 ---
 title: "Matrix"
-nav_order: 36
+nav_order: 31
 parent: "Estudos"
 ---
-
 

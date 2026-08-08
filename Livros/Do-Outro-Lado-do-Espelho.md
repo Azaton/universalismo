@@ -1,9 +1,8 @@
 ---
 title: "Do Outro Lado do Espelho"
-nav_order: 17
+nav_order: 7
 parent: "Livros"
 ---
-
 
 **Autoria:** Inácio Ferreira, psicografado por Carlos Antônio Baccelli.
 

@@ -1,9 +1,8 @@
 ---
 title: "O Amor Desinteressado"
-nav_order: 1
+nav_order: 2
 parent: "Erg - O Décimo Planeta"
 ---
-
 
 # O Amor do Inefável
 _"Uma verdadeira explosão sacudiu aquele espírito velho, mas que nunca sentira no fundo do ser essa maravilhosa dádiva de afeto desinteressado."_

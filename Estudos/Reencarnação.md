@@ -1,9 +1,8 @@
 ---
 title: "Reencarnação"
-nav_order: 43
+nav_order: 40
 parent: "Estudos"
 ---
-
 
 Alguns trechos da bíblia que fazem relação a reencarnação:
 

@@ -14,6 +14,7 @@ Site público do Projeto Universalismo, publicado via GitHub Pages com Jekyll e 
 - Cada seção temática possui um arquivo de entrada, como `Estudos.md`, e uma pasta com suas subpáginas.
 - O front matter (`title`, `parent`, `nav_order`, `has_children`) controla a navegação lateral.
 - `assets/` deve concentrar imagens e documentos autorizados para publicação.
+- Por padrão, `tools/generate-front-matter.mjs` ordena as páginas de cada pasta em ordem alfabética (pt-BR), ignorando a ordem do `.order`. Pastas onde a sequência importa (capítulos, meses, cartas numeradas) devem ter um arquivo `.order-locked` vazio — nesse caso a ordem do `.order` é respeitada como está.
 
 ## Conteúdo público e acervo privado
 

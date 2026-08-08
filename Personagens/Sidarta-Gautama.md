@@ -4,7 +4,6 @@ nav_order: 36
 parent: "Personagens"
 ---
 
-
 Sidarta Gautama, mais conhecido como Buda, foi o fundador do budismo. Sua vida é tradicionalmente datada de cerca de 563 a.C. a 483 a.C., embora datas exatas variem conforme as fontes. A narrativa tradicional de sua vida é repleta de lendas e simbolismo, mas abaixo estão os pontos-chave frequentemente aceitos sobre sua trajetória:
 
 1. **Nascimento em Lumbini:** Sidarta Gautama nasceu em Lumbini (hoje no Nepal) numa família real do clã Shakya. Diz-se que sua mãe, a rainha Maya, teve um sonho profético em que um elefante branco entrava em seu ventre, sinalizando o nascimento de um ser especial.

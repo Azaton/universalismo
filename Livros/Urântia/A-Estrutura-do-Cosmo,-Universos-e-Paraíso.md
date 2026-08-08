@@ -1,9 +1,8 @@
 ---
 title: "A Estrutura do Cosmo, Universos e Paraíso"
-nav_order: 3
+nav_order: 2
 parent: "Urântia"
 ---
-
 
 https://app.mural.co/t/personallife0912/m/personallife0912/1658364020184/6ae2659f66a662a5b13f9a115de3c03665e2dab4?wid=0-1732986234571
 

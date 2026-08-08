@@ -1,9 +1,8 @@
 ---
 title: "Moisés"
-nav_order: 23
+nav_order: 26
 parent: "Personagens"
 ---
-
 
 Moisés é uma figura central no Judaísmo, Cristianismo e Islã. Ele é mais conhecido por liderar os israelitas em sua fuga do Egito e por receber os Dez Mandamentos no Monte Sinai. Aqui estão alguns dos pontos chave da vida de Moisés, conforme narrado na Bíblia, particularmente no livro do Êxodo:
 

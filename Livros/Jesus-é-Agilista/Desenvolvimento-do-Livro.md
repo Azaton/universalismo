@@ -5,7 +5,6 @@ parent: "Jesus é Agilista"
 has_children: true
 ---
 
-
 Perfeito! Vamos por partes:
 
 * * *

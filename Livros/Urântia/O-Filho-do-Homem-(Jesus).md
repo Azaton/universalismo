@@ -1,9 +1,8 @@
 ---
 title: "O Filho do Homem (Jesus)"
-nav_order: 6
+nav_order: 13
 parent: "Urântia"
 ---
-
 
 (1390.3) 126:3.8 Enquanto repassava todas essas questões na sua mente, ele encontrou, na biblioteca da 
 sinagoga, em Nazaré, entre os livros apocalípticos que havia estudado, esse manuscrito chamado “O Livro de 

@@ -1,9 +1,8 @@
 ---
 title: "Discussões Perniciosas"
-nav_order: 26
+nav_order: 19
 parent: "Estudos"
 ---
-
 
 Discussões perniciosas são aquelas que têm efeitos prejudiciais ou negativos, geralmente resultantes de interações desrespeitosas, hostis ou tóxicas. Essas discussões podem ocorrer em vários contextos, como relacionamentos pessoais, ambiente de trabalho, mídias sociais ou até mesmo em debates públicos.
 

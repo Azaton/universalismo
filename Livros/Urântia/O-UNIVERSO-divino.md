@@ -1,9 +1,8 @@
 ---
 title: "O UNIVERSO divino"
-nav_order: 2
+nav_order: 14
 parent: "Urântia"
 ---
-
 
 14:0.1 O UNIVERSO divino e perfeito ocupa o centro de toda a criação; é o núcleo eterno em redor do qual giram as vastas criações do tempo e do espaço. O Paraíso é a gigantesca Ilha-núcleo que permanece em absoluta estabilidade e imóvel no coração mesmo do magnífico universo eterno. Essa família planetária central é chamada de Havona e está extremamente distante do universo local de Nébadon. Tem dimensões enormes, uma massa quase inacreditável e consiste em um bilhão de esferas de beleza inimaginável e de grandeza majestosa; no entanto, a verdadeira magnitude dessa vasta criação está, realmente, bem além do alcance de compreensão da mente humana.
 

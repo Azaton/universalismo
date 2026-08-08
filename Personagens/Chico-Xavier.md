@@ -1,9 +1,8 @@
 ---
 title: "Chico Xavier"
-nav_order: 8
+nav_order: 7
 parent: "Personagens"
 ---
-
 
 Francisco Cândido Xavier, mais conhecido como Chico Xavier (1910-2002), foi um dos médiuns mais famosos e influentes do Brasil e é uma figura central no movimento espírita brasileiro. Ele afirmava ter habilidades mediúnicas desde criança e, ao longo de sua vida, psicografou mais de 400 livros, alegando serem todos obras ditadas por espíritos.
 

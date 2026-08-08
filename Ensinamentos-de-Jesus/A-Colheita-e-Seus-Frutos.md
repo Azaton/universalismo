@@ -1,9 +1,8 @@
 ---
 title: "A Colheita e Seus Frutos"
-nav_order: 3
+nav_order: 1
 parent: "Ensinamentos de Jesus"
 ---
-
 
 Psicografada por Sabrina da CPO - Mensagem canalizada de Jesus: A Colheita e Seus Frutos 
 

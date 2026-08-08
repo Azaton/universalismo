@@ -4,7 +4,6 @@ nav_order: 2
 parent: "Números & Matemática"
 ---
 
-
 A identidade de Euler é frequentemente citada como um exemplo de beleza matemática devido à sua elegante relação entre alguns dos números mais fundamentais da matemática. A identidade é dada por:
 
 \[ e^{i\pi} + 1 = 0 \]

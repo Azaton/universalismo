@@ -1,9 +1,8 @@
 ---
 title: "Dinossauros"
-nav_order: 12
+nav_order: 7
 parent: "Urântia"
 ---
-
 
 1. A Idade Primitiva dos Répteis
 

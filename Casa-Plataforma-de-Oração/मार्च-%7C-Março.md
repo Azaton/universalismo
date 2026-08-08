@@ -4,7 +4,6 @@ nav_order: 3
 parent: "Casa Plataforma de Oração"
 ---
 
-
 [EXU CAPA PRETA, MAGO KRYPTRUS E EXU CAVEIRA / Manta energética desfeita em casas religiosas.](https://www.youtube.com/watch?v=GluJ4Ok97wo)
 
 O que Deus da, Deus tira. Quando aceitamos a trabalhar pra o Pai, tem que ser obediente e fazer a vontade Dele. A vontade que prevalecerá será de Deus. O Ego deverá ser controlado, o temperamento que tem que ser controlado através de orações, meditações e reformas íntimas. Sendo Deus em Ação. O que se ensina. Mude o temperamento e o ego.

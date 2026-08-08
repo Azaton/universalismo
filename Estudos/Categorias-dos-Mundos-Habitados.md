@@ -1,9 +1,8 @@
 ---
 title: "Categorias dos Mundos Habitados"
-nav_order: 22
+nav_order: 13
 parent: "Estudos"
 ---
-
 
 De acordo com a visão espírita, os planetas, assim como os indivíduos, passam por um processo de evolução espiritual. Segundo essa perspectiva, os mundos são classificados em diferentes estágios de desenvolvimento:
 

@@ -1,9 +1,8 @@
 ---
 title: "Arcontes"
-nav_order: 13
+nav_order: 6
 parent: "Estudos"
 ---
-
 
 Os "Arcontes" são uma concepção encontrada em várias tradições gnósticas. O termo "arconte" vem do grego antigo e significa "líder" ou "autoridade". No contexto gnóstico, os Arcontes são frequentemente descritos como poderes ou entidades espirituais que servem como intermediários ou administradores do mundo material. Eles têm um papel significativo em muitos sistemas gnósticos e são frequentemente associados à criação e manutenção do mundo físico, bem como à limitação da consciência humana.
 

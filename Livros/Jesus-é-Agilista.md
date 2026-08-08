@@ -1,10 +1,9 @@
 ---
 title: "Jesus é Agilista"
-nav_order: 1
+nav_order: 9
 parent: "Livros"
 has_children: true
 ---
-
 
 A sua ideia de comparar Jesus com o agilismo e os Dez Mandamentos com o Manifesto Ágil é bastante interessante! Olhando para o que Jesus ensinou, ele trouxe princípios fundamentais para a vida em comunidade e a liderança baseada no amor e no serviço. Da mesma forma, o Manifesto Ágil estabelece valores e princípios que priorizam a colaboração, a adaptação e o foco nas pessoas – um reflexo de muitos dos valores que Jesus defendia.
 

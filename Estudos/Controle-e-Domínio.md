@@ -1,9 +1,8 @@
 ---
 title: "Controle e Domínio"
-nav_order: 8
+nav_order: 18
 parent: "Estudos"
 ---
-
 
 Medo: No contexto do poder, o medo é frequentemente empregado para dissuadir indivíduos de agir contra as normas estabelecidas ou desafiar a autoridade. Isso pode ser feito através de ameaças diretas ou pela criação de um ambiente de incerteza ou ansiedade.
 

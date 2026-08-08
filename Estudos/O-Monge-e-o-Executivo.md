@@ -1,10 +1,9 @@
 ---
 title: "O Monge e o Executivo"
-nav_order: 6
+nav_order: 36
 parent: "Estudos"
 has_children: true
 ---
-
 
 # NORMAS PARA O GRUPO DE ESTUDOS
 

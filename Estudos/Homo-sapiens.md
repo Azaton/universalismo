@@ -1,9 +1,8 @@
 ---
 title: "Homo sapiens"
-nav_order: 31
+nav_order: 27
 parent: "Estudos"
 ---
-
 
 Os Homo sapiens, nossa própria espécie, são geralmente datados de aproximadamente 300.000 anos atrás, com base em fósseis encontrados em diferentes partes da África. A descoberta mais significativa que estabelece essa data vem do sítio de Jebel Irhoud, no Marrocos, onde fósseis de Homo sapiens foram datados dessa época. Esses achados sugerem que nossa espécie evoluiu em diferentes locais da África, e não apenas em uma região específica, indicando um processo de evolução mais complexo e distribuído.
 

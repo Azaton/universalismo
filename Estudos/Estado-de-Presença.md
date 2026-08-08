@@ -1,9 +1,8 @@
 ---
 title: "Estado de Presença"
-nav_order: 4
+nav_order: 23
 parent: "Estudos"
 ---
-
 
 No contexto do espiritismo, "estar no estado de presença" pode ser interpretado como estar plenamente consciente e alinhado com o momento presente, sem distrações ou preocupações com o passado ou futuro. Esse estado de presença envolve a atenção plena à realidade espiritual, à conexão com o Eu Superior e à comunhão com as influências espirituais.
 

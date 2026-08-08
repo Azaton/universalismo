@@ -1,9 +1,8 @@
 ---
 title: "Mahatma Gandhi"
-nav_order: 27
+nav_order: 20
 parent: "Personagens"
 ---
-
 
 Parece haver um erro de digitação na sua questão. Acredito que você esteja se referindo a Mahatma Gandhi.
 

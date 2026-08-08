@@ -4,7 +4,6 @@ nav_order: 1
 parent: "Desenvolvimento do Livro"
 ---
 
-
 **Jesus, o Ágil Original: Um paralelo com o Manifesto Ágil**
 ------------------------------------------------------------
 

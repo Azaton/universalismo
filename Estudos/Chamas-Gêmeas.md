@@ -1,9 +1,8 @@
 ---
 title: "Chamas Gêmeas"
-nav_order: 23
+nav_order: 14
 parent: "Estudos"
 ---
-
 
 O conceito de "chamas gêmeas" é uma ideia esotérica que descreve um tipo único de conexão espiritual entre duas pessoas. Segundo essa crença, as chamas gêmeas são duas partes de uma mesma alma que foram separadas e colocadas em dois corpos diferentes. A teoria sugere que essas duas partes da alma estão destinadas a se encontrar e se unir novamente de alguma forma durante sua jornada espiritual. Vale ressaltar que essa é uma visão espiritual e metafísica, e não é apoiada por evidências científicas.
 

@@ -1,9 +1,8 @@
 ---
 title: "Agartha"
-nav_order: 16
+nav_order: 4
 parent: "Estudos"
 ---
-
 
 Agartha é um suposto reino subterrâneo e mítico que tem sido objeto de várias teorias e lendas ao longo dos anos. De acordo com essas teorias, Agartha é um mundo subterrâneo habitado por uma civilização avançada, possivelmente relacionada a seres extraterrestres ou seres humanos com conhecimentos e tecnologias muito superiores aos nossos.
 

@@ -1,9 +1,8 @@
 ---
 title: "Colônias Espirituais"
-nav_order: 24
+nav_order: 15
 parent: "Estudos"
 ---
-
 
 As "colônias espirituais" são um conceito originado em tradições espirituais, principalmente dentro do Espiritismo, uma doutrina religiosa e filosófica que teve seu surgimento na França no século XIX por meio das obras de Allan Kardec. De acordo com essa visão, o plano espiritual não é um lugar uniforme, mas sim composto de várias camadas ou "colônias" que servem diferentes propósitos para os espíritos que ali residem.
 

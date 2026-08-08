@@ -1,9 +1,8 @@
 ---
 title: "Torquemada e o Resgate nas Regiões Inferiores"
-nav_order: 33
+nav_order: 45
 parent: "Estudos"
 ---
-
 
 **Fonte:** síntese de pesquisa a partir da leitura de três livros — "Os Dragões", "Sob as Cinzas do Tempo" e "Do Outro Lado do Espelho" (ver Livros) — cruzada com um podcast sobre as obras, em conversa de 07/08/2026.
 

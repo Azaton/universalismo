@@ -4,7 +4,6 @@ nav_order: 1
 parent: "Baratzil - A Terra das Estrelas"
 ---
 
-
 Cidade circular, que canalizava do mar amazônico. De gigantesco blocos de pedras de 20 metros de altura e 8 de espessura, perfeitamente encaixados como das pirâmides. Atrás das muralhas, as casas eram de formato quadrado, baixas, caiadas de branco e todas possuíam no telhado placas móveis de uma material polido para captar os raios solares, pois a iluminação de Ophir era feita por meio de energia proveniente do Sol.
 
 1. **1 Reis 9:28**:

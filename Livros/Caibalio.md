@@ -1,9 +1,8 @@
 ---
 title: "Caibalio"
-nav_order: 8
+nav_order: 5
 parent: "Livros"
 ---
-
 
 "Sete Princípios Herméticos", que são apresentados no texto "O Kybalion". "O Kybalion" é um livro escrito por três autores anônimos sob o pseudônimo de "Três Iniciados" e foi publicado em 1908. Embora seja um trabalho moderno, ele se baseia na sabedoria hermética tradicional e pretende condensar seus ensinamentos principais.
 

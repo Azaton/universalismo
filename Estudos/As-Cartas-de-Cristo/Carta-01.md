@@ -4,8 +4,6 @@ nav_order: 2
 parent: "As Cartas de Cristo"
 ---
 
-
-
 [Cartas de Cristo: A Consciência Crística Manifestada Audiobook (CdC-1)](https://www.youtube.com/watch?v=DTDYqYvzYiM)
 
 ---

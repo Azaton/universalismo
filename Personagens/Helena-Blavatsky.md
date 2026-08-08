@@ -1,9 +1,8 @@
 ---
 title: "Helena Blavatsky"
-nav_order: 16
+nav_order: 15
 parent: "Personagens"
 ---
-
 
 Helena Petrovna Blavatsky (1831–1891) foi uma ocultista, autora e co-fundadora da Sociedade Teosófica. De origem russa, Blavatsky teve uma vida fascinante e repleta de viagens, alegando ter explorado a Europa, Ásia e Américas e ter se instruído com mestres espirituais ou "Mahatmas" no Tibete.
 

@@ -1,9 +1,8 @@
 ---
 title: "Divino Masculino e Feminino"
-nav_order: 27
+nav_order: 20
 parent: "Estudos"
 ---
-
 
 Os conceitos de "Divino Masculino" e "Divino Feminino" são temas recorrentes em várias tradições espirituais, religiosas e filosóficas. Embora esses termos possam variar em significado e importância dependendo do contexto, geralmente são usados para descrever as diferentes qualidades ou aspectos da divindade que podem ser entendidos como "masculinos" ou "femininos". Esses conceitos não estão limitados ao gênero biológico, mas sim referem-se a uma série de atributos, energias ou qualidades que existem em equilíbrio dentro do universo e dentro de cada indivíduo.
 

@@ -4,7 +4,6 @@ nav_order: 1
 parent: "Casa Plataforma de Oração"
 ---
 
-
 [ARTHUR - A chave que abre todas as portas](https://www.youtube.com/watch?v=jQXVwczjjNM)
 
 Despertai-vos seres humanos. Conduzam as suas mentes e pensamentos para o mover do bem. Não escondam os vossos pensamentos. Eles não se escondem dos átomos e elétrons. O que vai, volta. Desperte a sua consciência, ser humano. Cada um de vós sois o Universo. Estais carregados dos mesmos componentes e capacidades que o criador tem.

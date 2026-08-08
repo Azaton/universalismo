@@ -1,9 +1,8 @@
 ---
 title: "Sananda"
-nav_order: 35
+nav_order: 32
 parent: "Personagens"
 ---
-
 
 Jesus Cristo é a figura central do Cristianismo e é considerado por cristãos ao redor do mundo como o Filho de Deus e o Salvador da humanidade. Sua vida e ensinamentos são registrados nos Evangelhos do Novo Testamento da Bíblia.
 

@@ -1,9 +1,8 @@
 ---
 title: "Qual a importância dos fenômenos físicos?"
-nav_order: 3
+nav_order: 6
 parent: "Perguntas e Respostas"
 ---
-
 
 Dentro da doutrina espírita, os fenômenos físicos têm várias funções. Uma delas é servir como evidência empírica da existência do mundo espiritual e da vida após a morte. Além disso, esses fenômenos podem ter um impacto psicológico ou emocional sobre os participantes, reforçando sua fé ou convicção na doutrina espírita.
 

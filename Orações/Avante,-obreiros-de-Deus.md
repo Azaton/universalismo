@@ -1,9 +1,8 @@
 ---
 title: "Avante, obreiros de Deus"
-nav_order: 4
+nav_order: 1
 parent: "Orações"
 ---
-
 
 Queridos irmãos.
 

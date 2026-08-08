@@ -4,7 +4,6 @@ nav_order: 2
 parent: "Bíblia"
 ---
 
-
 Elias é um profeta importante do Antigo Testamento da Bíblia, cuja história é narrada nos livros de 1 Reis e 2 Reis. Elias foi um profeta de Deus que viveu no Reino do Norte de Israel durante o reinado de Acabe, que adorava a deusa pagã Baal.
 
 Elias pregava a adoração ao Deus verdadeiro de Israel e desafiou os profetas de Baal para um teste de poder. Elias propôs que os profetas de Baal e ele construíssem altares e sacrificassem um touro, e o Deus que respondesse com fogo seria considerado o verdadeiro Deus. Os profetas de Baal invocaram seu deus sem sucesso, enquanto Elias invocou a Deus de Israel, que enviou fogo do céu para consumir o touro e o altar. Isso fez com que as pessoas reconhecessem que o Deus de Elias era o verdadeiro Deus (1R-18:26)

@@ -1,9 +1,8 @@
 ---
 title: "Karma vS Darma"
-nav_order: 35
+nav_order: 28
 parent: "Estudos"
 ---
-
 
 "Dharma" e "Karma" são dois conceitos fundamentais em várias tradições filosóficas e religiosas da Índia, incluindo o hinduísmo, o budismo e o jainismo. Embora essas palavras possam ter nuances diferentes dependendo do contexto em que são usadas, elas têm significados gerais que são amplamente compreendidos.
 

@@ -1,9 +1,8 @@
 ---
 title: "As Risadas dos Exus"
-nav_order: 4
+nav_order: 1
 parent: "Umbanda"
 ---
-
 
 - Trabalhar no Chácara laringe do Médium.
 - limpeza

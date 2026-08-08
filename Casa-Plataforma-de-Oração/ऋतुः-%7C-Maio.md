@@ -4,7 +4,6 @@ nav_order: 5
 parent: "Casa Plataforma de Oração"
 ---
 
-
 ### [SANANDA / Cristos desviados dos caminhos do Senhor](https://www.youtube.com/watch?v=zNI2mPhB4eg)
 
 Sananda Rei e General de Nébadon. Veio como guerreiro, justiça, para e com os principais escolhidos com missões crísticas. Nós podemos ser totalmente tragados pelo contexto que nascemos. Um espírito quando encarna ele cai totalmente no esquecimento.

@@ -1,9 +1,8 @@
 ---
 title: "A Natureza Positiva da Religião de Jesus"
-nav_order: 4
+nav_order: 3
 parent: "Ensinamentos de Jesus"
 ---
-
 
 Ensinamentos de Jesus - Documento 159 - A Natureza Positiva da Religião de Jesus
 

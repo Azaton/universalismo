@@ -1,9 +1,8 @@
 ---
 title: "As Aparições de Jesus Cristo"
-nav_order: 20
+nav_order: 8
 parent: "Estudos"
 ---
-
 
 Na Bíblia, especificamente no Novo Testamento, é mencionado que Jesus apareceu a seus discípulos durante um período de 40 dias após sua ressurreição, antes de sua ascensão ao céu. Este período é frequentemente referido como a "quarentena de Jesus" e está registrado nos Atos dos Apóstolos.
 

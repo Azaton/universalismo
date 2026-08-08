@@ -1,9 +1,8 @@
 ---
 title: "O 12º Planeta"
-nav_order: 14
+nav_order: 13
 parent: "Livros"
 ---
-
 
 "O 12º Planeta" é o primeiro livro da série "Crônicas da Terra", escrito por Zecharia Sitchin. Publicado originalmente em 1976, o livro explora a teoria proposta pelo autor de que há evidências de que uma civilização extraterrestre avançada visitou a Terra no passado distante.
 

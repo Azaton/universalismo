@@ -4,7 +4,6 @@ nav_order: 2
 parent: "Documentos"
 ---
 
-
 O trecho citado, **"A Religião e o Religioso"**, está no **Documento 99**, intitulado **"Os Problemas Sociais da Religião"**, mais especificamente na **Seção 3**. Ele aborda como a religião, inicialmente pura e desvinculada de instituições civis ou sociais, acabou se entrelaçando com estruturas políticas e econômicas ao longo do tempo.
 
 Seção 3. A Religião e o Religioso

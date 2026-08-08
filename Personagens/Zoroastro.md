@@ -4,7 +4,6 @@ nav_order: 39
 parent: "Personagens"
 ---
 
-
 Zoroastro (também conhecido como Zarathustra, em avéstico antigo) foi um profeta e fundador do Zoroastrismo, uma das religiões mais antigas do mundo e uma das primeiras a introduzir conceitos de monoteísmo. Embora muitos detalhes da vida de Zoroastro sejam envoltos em mistério devido à antiguidade dos registros e à mistura de história e mitologia, alguns pontos são amplamente aceitos ou reconhecidos:
 
 ### Pontos-chave da vida de Zoroastro:

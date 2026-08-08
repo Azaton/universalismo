@@ -1,9 +1,8 @@
 ---
 title: "Lei, Liberdade e Soberania"
-nav_order: 16
+nav_order: 11
 parent: "Urântia"
 ---
-
 
 # **Lei, Liberdade e Soberania**
 

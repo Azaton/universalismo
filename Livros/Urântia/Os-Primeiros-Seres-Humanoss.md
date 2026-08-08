@@ -1,9 +1,8 @@
 ---
 title: "Os Primeiros Seres Humanoss"
-nav_order: 15
+nav_order: 16
 parent: "Urântia"
 ---
-
 
 Do ano 1934 d.C. até o nascimento dos dois primeiros seres humanos, contam-se exatamente 993 419 anos.
 

@@ -1,9 +1,8 @@
 ---
 title: "Encarnações de Jesus na Terra"
-nav_order: 1
+nav_order: 4
 parent: "Amasofia"
 ---
-
 
 *   **Juno** – Primeira encarnação na Lemúria.
 *   **Isto** – Segunda encarnação na Lemúria.

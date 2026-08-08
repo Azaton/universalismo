@@ -1,9 +1,8 @@
 ---
 title: "Telos"
-nav_order: 5
+nav_order: 44
 parent: "Estudos"
 ---
-
 
 Telos é frequentemente mencionado em contextos de literatura de ficção científica, esoterismo e teorias de conspiração. Não é um local reconhecido pela astronomia ou pela ciência convencional. Abaixo estão alguns contextos onde o nome Telos é encontrado:
 

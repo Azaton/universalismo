@@ -1,9 +1,8 @@
 ---
 title: "A Escala Evolutiva Humana"
-nav_order: 15
+nav_order: 2
 parent: "Estudos"
 ---
-
 
 A evolução humana é um processo complexo e multifacetado que abrange milhões de anos. A escala evolutiva representa a sequência de espécies e gêneros que, acredita-se, levaram ao surgimento dos seres humanos modernos (Homo sapiens). Abaixo, apresento uma visão geral simplificada da escala evolutiva dos hominídeos, com foco nos principais marcos:
 

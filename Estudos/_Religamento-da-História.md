@@ -1,9 +1,8 @@
 ---
 title: "Religamento da História"
-nav_order: 9
+nav_order: 41
 parent: "Estudos"
 ---
-
 
 Oi Michele, tudo bem? Será que você consegue me ajudar com uns estudos? rsrs Eu gosto de buscar e venho, informações sobre a origem do mau no planeta Terra ou Tiamat, como era chamado pelos antigos.
 

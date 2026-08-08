@@ -4,7 +4,6 @@ nav_order: 3
 parent: "O Monge e o Executivo"
 ---
 
-
 PRÓLOGO
 
 As ideias que defendo não são minhas. Eu as tomei emprestadas de Sócrates, roubei-as de Chesterfield, fartei-as de Jesus. E se você não gostar das ideias deles, quais seriam as ideias que você usaria?

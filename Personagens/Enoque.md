@@ -1,9 +1,8 @@
 ---
 title: "Enoque"
-nav_order: 12
+nav_order: 11
 parent: "Personagens"
 ---
-
 
 Enoque é uma figura bíblica mencionada no Antigo Testamento, particularmente no livro de Gênesis. Ele é notável por sua relação excepcionalmente próxima com Deus e por sua ascensão atípica ao céu. Aqui estão os pontos chave sobre Enoque:
 

@@ -1,10 +1,8 @@
 ---
 title: "Universos"
-nav_order: 40
+nav_order: 47
 parent: "Estudos"
 ---
-
-
 
 Qual foi o maior trabalho de Chico Xavier? Psicografia, foi psicografar muitos livros e escrever
 

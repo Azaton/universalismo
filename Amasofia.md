@@ -1,9 +1,8 @@
 ---
 title: "Amasofia"
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
-
 
 IONNA (Eixo Vivo), o conjunto que contem o verbo da criação.
 

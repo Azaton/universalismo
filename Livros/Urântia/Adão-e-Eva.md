@@ -1,9 +1,8 @@
 ---
 title: "Adão e Eva"
-nav_order: 11
+nav_order: 5
 parent: "Urântia"
 ---
-
 
 Documento 74 - (828.1) 74:0.1 ADÃO E EVA chegaram a Urântia 37 848 anos antes do ano 1934 d.C. Era meia estação, e o Jardim estava em um pico de florescimento quando chegaram. E foi ao meio-dia, sem prévio anúncio, que dois transportes seráficos, acompanhados pelo pessoal de Jerusém, os encarregados do transporte dos elevadores biológicos até Urântia, aterrissaram suavemente na superfície do planeta em rotação, na vizinhança do templo do Pai Universal. Todo o trabalho de rematerialização dos corpos de Adão e Eva foi executado dentro dos recintos daquele santuário, recentemente criado. E, desde o momento da chegada, passaram-se dez dias até que eles fossem recriados na forma humana dual, para serem apresentados como os novos governantes do mundo. Eles recuperaram a consciência simultaneamente. Os Filhos e Filhas Materiais sempre servem juntos. É parte da essência do serviço deles, em todos os tempos e todos os lugares, não se separarem jamais. Eles estão destinados a trabalhar aos pares; raramente funcionam separadamente.
 

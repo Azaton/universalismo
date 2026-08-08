@@ -1,9 +1,8 @@
 ---
 title: "Ors Inaram"
-nav_order: 6
+nav_order: 7
 parent: "Amasofia"
 ---
-
 
 Missão Ors Inaram, formada na união de 3 planeta: Dummo, Sara e Tizo. O nosso sol é Aldebaran dentro deste contexto. Missão formada por seres de diversos biotipos.
 

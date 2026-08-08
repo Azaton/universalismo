@@ -1,9 +1,8 @@
 ---
 title: "Documentos 122 - Nascimento de Jesus"
-nav_order: 1
+nav_order: 3
 parent: "Documentos"
 ---
-
 
 122:8.5 No dia do nascimento de Jesus, ao meio-dia, os serafins de Urântia, reunidos com os seus diretores, cantaram hinos de glória sobre a manjedoura de Belém, mas esses cânticos de glória não foram escutados por ouvidos humanos. Nenhum pastor, nem quaisquer outras criaturas mortais vieram prestar a sua homenagem ao menino de Belém, até o dia da chegada de certos sacerdotes de Ur, que haviam sido enviados de Jerusalém por Zacarias.
 

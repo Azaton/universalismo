@@ -1,9 +1,8 @@
 ---
 title: "A Origem de Jesus"
-nav_order: 2
+nav_order: 1
 parent: "Amasofia"
 ---
-
 
 Ótimo! Vou aprofundar a pesquisa sobre os conceitos mencionados por Paulo Cesar, analisando cada termo em relação à trajetória espiritual de Jesus dentro da Amasofia e sua conexão com outras tradições espirituais. Também buscarei referências de Luiz Gonzaga Scortecci e outras fontes espiritualistas que abordem esses tópicos.
 Assim que tiver os resultados, volto com uma análise detalhada.

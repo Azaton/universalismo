@@ -1,7 +1,6 @@
 ---
 title: "Perguntas e Respostas — Universalismo"
-nav_order: 11
+nav_order: 10
 ---
-
 
 Acessar a feature #18 e navegar pelos itens "filhos" deste item. São itens do tipo "história" de usuário.

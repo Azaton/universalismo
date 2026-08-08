@@ -1,9 +1,8 @@
 ---
 title: "Vibrações Orixás"
-nav_order: 3
+nav_order: 4
 parent: "Umbanda"
 ---
-
 
 A Umbanda é uma religião afro-brasileira que sintetiza diversos elementos de religiões africanas, indígenas, católicas e espiritismo. É importante destacar que a forma como cada terreiro ou seguidor da Umbanda entende e se relaciona com o plano espiritual pode variar. 
 
