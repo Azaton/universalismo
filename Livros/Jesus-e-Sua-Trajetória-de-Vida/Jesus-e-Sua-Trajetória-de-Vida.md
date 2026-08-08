@@ -56,11 +56,11 @@ Essas famílias não têm o mesmo valor para todas as perguntas. A classificaç�
 
 ## Capítulos
 
-O manuscrito em construção está em `Jesus-e-Sua-Trajetória-de-Vida/`, começando por `primeiro-ano/`.
+O manuscrito em construção começa por `primeiro-ano/`.
 
 ## Fontes
 
-Registrar novas referências no [Source Context](../../doc/source-context.md), na seção `Jesus histórico`, antes de incorporá-las a uma síntese.
+Registrar novas referências no [Source Context](../../../doc/source-context.md), na seção `Jesus histórico`, antes de incorporá-las a uma síntese.
 
 ## Regra de redação
 
