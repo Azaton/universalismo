@@ -4,6 +4,7 @@ nav_order: 10
 parent: "Orações"
 ---
 
+
 [Tempo Comum - Vou Cantar Teu Amor](https://www.youtube.com/watch?v=Ozfk52JZuG8)
 
 

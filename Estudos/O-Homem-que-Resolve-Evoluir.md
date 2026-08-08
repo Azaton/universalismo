@@ -1,8 +1,9 @@
 ---
 title: "O Homem que Resolve Evoluir"
-nav_order: 33
+nav_order: 34
 parent: "Estudos"
 ---
+
 
 [O homem que resolve evoluir espiritualmente](https://youtu.be/UcIUsoLw-pQ)
 _Gratidão a Casa Plataforma de Oração e ao trabalho da Luz._

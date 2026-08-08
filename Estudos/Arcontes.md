@@ -4,6 +4,7 @@ nav_order: 13
 parent: "Estudos"
 ---
 
+
 Os "Arcontes" são uma concepção encontrada em várias tradições gnósticas. O termo "arconte" vem do grego antigo e significa "líder" ou "autoridade". No contexto gnóstico, os Arcontes são frequentemente descritos como poderes ou entidades espirituais que servem como intermediários ou administradores do mundo material. Eles têm um papel significativo em muitos sistemas gnósticos e são frequentemente associados à criação e manutenção do mundo físico, bem como à limitação da consciência humana.
 
 1. **Demiurgo**: Em muitas tradições gnósticas, o principal Arconte é conhecido como o Demiurgo. Este é frequentemente retratado como um deus criador que, por ignorância ou por design, cria o mundo material que é inerentemente falho ou imperfeito. Em alguns textos, o Demiurgo é identificado com o Deus do Antigo Testamento.

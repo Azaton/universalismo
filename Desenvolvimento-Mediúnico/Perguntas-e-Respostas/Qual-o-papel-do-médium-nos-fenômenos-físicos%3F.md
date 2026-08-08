@@ -4,6 +4,7 @@ nav_order: 4
 parent: "Perguntas e Respostas"
 ---
 
+
 ### Catalisador de Energia
 
 O médium atua como um catalisador ou condutor de energia para permitir a manifestação de fenômenos físicos. O médium fornece uma forma de energia, muitas vezes referida como "ectoplasma" ou "fluido vital," que os espíritos podem manipular para afetar o mundo físico.

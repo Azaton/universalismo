@@ -4,6 +4,7 @@ nav_order: 22
 parent: "Estudos"
 ---
 
+
 De acordo com a visão espírita, os planetas, assim como os indivíduos, passam por um processo de evolução espiritual. Segundo essa perspectiva, os mundos são classificados em diferentes estágios de desenvolvimento:
 
 1. **Mundo Primitivo**:  Destinados às primeiras encarnações do Espírito. São os mundos mais jovens, recém-formados. Neles se encontram todos os seres nas suas fases iniciais de progresso. Nesses mundos, os espíritos ainda estão em estado primitivo, com senso moral pouco desenvolvido. Destinados às primeiras encarnações da alma humana, a vida, toda material, se limita à luta pela subsistência, o senso moral é quase nulo e, por isso mesmo, as paixões reinam soberanas. A Terra já passou por essa fase.

@@ -4,6 +4,7 @@ nav_order: 28
 parent: "Estudos"
 ---
 
+
 Claro, aqui está um resumo atualizado sobre o conceito de "ego" nas áreas de psicologia, filosofia e espiritualidade, destacando também suas implicações positivas e negativas:
 
 **Psicologia**

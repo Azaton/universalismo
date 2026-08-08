@@ -4,6 +4,7 @@ nav_order: 20
 parent: "Estudos"
 ---
 
+
 Na Bíblia, especificamente no Novo Testamento, é mencionado que Jesus apareceu a seus discípulos durante um período de 40 dias após sua ressurreição, antes de sua ascensão ao céu. Este período é frequentemente referido como a "quarentena de Jesus" e está registrado nos Atos dos Apóstolos.
 
 Em Atos 1:3 (Nova Versão Internacional), lemos: "Depois do seu sofrimento, apresentou-se a eles e deu muitas provas convincentes de que estava vivo. Apareceu-lhes durante quarenta dias e falou-lhes acerca do Reino de Deus."

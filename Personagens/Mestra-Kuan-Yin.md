@@ -4,6 +4,7 @@ nav_order: 21
 parent: "Personagens"
 ---
 
+
 Mestra Kuan Yin (também escrita como Guan Yin, Guan Yim, Kwan Im ou Quan Yin) é uma figura proeminente no budismo e é conhecida como a Deusa da Misericórdia e Compaixão. Sua adoração tem origens na Índia como Avalokiteshvara (ou Avalokiteśvara), um bodhisattva que representa compaixão. A tradição conta que Avalokiteshvara fez um voto de nunca descansar até ter libertado todos os seres sencientes do samsara, o ciclo de nascimento, morte e renascimento.
 
 Ao longo do tempo, a representação deste bodhisattva passou por transformações culturais e foi feminizada em vários países asiáticos, particularmente na China, onde se tornou amplamente conhecida como Kuan Yin.

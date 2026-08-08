@@ -4,6 +4,7 @@ nav_order: 16
 parent: "Personagens"
 ---
 
+
 Helena Petrovna Blavatsky (1831–1891) foi uma ocultista, autora e co-fundadora da Sociedade Teosófica. De origem russa, Blavatsky teve uma vida fascinante e repleta de viagens, alegando ter explorado a Europa, Ásia e Américas e ter se instruído com mestres espirituais ou "Mahatmas" no Tibete.
 
 A influência de Blavatsky no moderno esoterismo ocidental é imensa. Ela é muitas vezes considerada a mãe da teosofia moderna, um sistema de pensamento que combina elementos do hinduísmo, budismo, espiritismo e tradições ocultas ocidentais.

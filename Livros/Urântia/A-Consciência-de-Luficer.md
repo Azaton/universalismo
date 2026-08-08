@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Urântia"
 ---
 
+
 MAGO KRYPTRUS / Planejamento Nebadon, Via Láctea e Terra. Chamado aos escolhidos.
 https://www.youtube.com/@EspiritualidadecomPedroAugusto
 

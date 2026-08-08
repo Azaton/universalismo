@@ -6,6 +6,7 @@ has_children: true
 ---
 
 
+
 A interseção entre a espiritualidade, a moralidade e as práticas modernas revela como a evolução dos valores humanos pode ser vista através de três marcos importantes: a Bíblia e os Dez Mandamentos, a Reforma Íntima na espiritualidade, e os princípios do Manifesto Ágil. Embora separados por épocas e contextos, essas bases compartilham uma essência comum que visa orientar e transformar a vida humana.
 
 #### A Bíblia e os Dez Mandamentos: O Início da Ordem Moral

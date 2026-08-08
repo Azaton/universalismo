@@ -4,6 +4,7 @@ nav_order: 32
 parent: "Personagens"
 ---
 
+
 # Introdução
 
 Segundo a tradição cristã, [São Maurício](https://pt.wikipedia.org/wiki/Maur%C3%ADcio_de_Tebas) foi o líder da Legião Tebana, uma unidade militar do Exército Romano. Esta legião era composta principalmente por cristãos e era originária de Tebas, no Egito.

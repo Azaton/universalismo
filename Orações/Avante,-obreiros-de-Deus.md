@@ -4,6 +4,7 @@ nav_order: 4
 parent: "Orações"
 ---
 
+
 Queridos irmãos.
 
 Deus Pai e Mãe, criador de todos os Universos, que está em todas as dimensões e espaço. ELE é DEUS vivo! Fonte de vida e amor, presente em tudo que é palpável e impalpável. Visível e invisível. Ele está no meio de vocês, à sua frente, acima, abaixo, à sua esquerda e direita, assim como a proteção da couraça de Miguel que os defende com a sua legião de guerreiros.

@@ -4,6 +4,7 @@ nav_order: 7
 parent: "Casa Plataforma de Oração"
 ---
 
+
 [JOSEPH GLEBER / Discussões inúteis](https://www.youtube.com/watch?v=KVdMu_jw9vg)
 
 

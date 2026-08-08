@@ -4,6 +4,7 @@ nav_order: 11
 parent: "Livros"
 ---
 
+
 O "Livro dos Mortos" é uma coleção de textos funerários do Antigo Egito, destinados a ajudar os falecidos em sua jornada pelo submundo e para a vida após a morte. A obra é, de fato, uma compilação de textos, hinos, encantamentos e rituais que evoluíram ao longo de milênios e variam consideravelmente entre diferentes cópias e períodos de tempo.
 
 A ideia por trás destes textos era assegurar uma transição segura e bem-sucedida do falecido para a vida após a morte, ajudando-os a superar obstáculos, desafios e julgamentos que enfrentariam no submundo.

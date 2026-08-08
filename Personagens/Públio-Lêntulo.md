@@ -4,6 +4,7 @@ nav_order: 30
 parent: "Personagens"
 ---
 
+
 Públio Lêntulo (em latim: Publius Lentulus), é um personagem citado no livro Há Dois Mil Anos, do médium mineiro Chico Xavier. Na obra escrita por Xavier, Lentulo teria sido um senador romano que viveu na Galileia à época de Jesus Cristo.[1]
 
 Públio Lêntulo é uma figura associada a diversas lendas e escritos apócrifos relacionados ao cristianismo, particularmente conhecido através de uma suposta carta que descreve a aparência física de Jesus Cristo. De acordo com essas histórias, Públio Lêntulo teria sido um governador romano da Judeia antes de Pôncio Pilatos, ou um contemporâneo de Jesus em outra função governamental. Contudo, não existem registros históricos ou bíblicos confiáveis que comprovem a existência de Públio Lêntulo ou da autenticidade dessa carta.

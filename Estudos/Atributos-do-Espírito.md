@@ -4,6 +4,7 @@ nav_order: 12
 parent: "Estudos"
 ---
 
+
 Os atributos do espírito podem variar amplamente dependendo da tradição filosófica, religiosa ou espiritual à qual alguém pertence. No entanto, há algumas características que são frequentemente associadas ao conceito de "espírito" em várias culturas e sistemas de crenças:
 
 ### Consciência e Autoconsciência

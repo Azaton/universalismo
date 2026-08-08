@@ -4,6 +4,7 @@ nav_order: 7
 parent: "Estudos"
 ---
 
+
 # Cabala
 
 ## Árvore da Vida

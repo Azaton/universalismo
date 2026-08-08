@@ -4,6 +4,7 @@ nav_order: 20
 parent: "Personagens"
 ---
 
+
 Melquisedeque é uma figura enigmática mencionada na Bíblia Hebraica, particularmente no livro de Gênesis, e também é referenciado no Novo Testamento e em outros textos judaicos e cristãos. Ele tem sido objeto de muita especulação, interpretação e reverência ao longo dos séculos. Aqui estão os principais pontos sobre Melquisedeque:
 
 1. **Rei e Sacerdote**: Melquisedeque é descrito em Gênesis 14:18-20 como o "rei de Salém" e "sacerdote do Deus Altíssimo". Ele abençoou Abraão e lhe ofereceu pão e vinho após a vitória de Abraão sobre certos reis.

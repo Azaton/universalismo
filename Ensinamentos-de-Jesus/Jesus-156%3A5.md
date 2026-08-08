@@ -4,6 +4,7 @@ nav_order: 7
 parent: "Ensinamentos de Jesus"
 ---
 
+
 156:5.8 (1739.3)Não vos desencorajeis com a descoberta de que sois humanos. A natureza humana pode ter a tendência para o mal, mas não é inerentemente pecadora. Não vos deixeis abater, caso não consigais esquecer inteiramente algumas das vossas experiências lamentáveis. Os erros que não conseguirdes esquecer no tempo serão esquecidos na eternidade. Deveis aliviar os fardos da vossa alma adquirindo rapidamente uma visão de longa distância do vosso destino, uma expansão da vossa carreira no universo.
 
 156:5.9 (1739.4)Não cometais o erro de estimar o valor da alma pelas imperfeições da mente, nem pelos apetites do corpo. Não deveis julgar a alma, nem avaliar o seu destino pelo padrão de um único episódio humano infeliz. O vosso destino espiritual é condicionado apenas pelas vossas aspirações e propósitos espirituais.

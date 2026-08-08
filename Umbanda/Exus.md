@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Umbanda"
 ---
 
+
 Exu é considerado o orixá mensageiro e guardião dos caminhos, encruzilhadas e passagens. Ele é uma entidade complexa com uma série de características e responsabilidades importantes dentro dessas religiões.
 
 A saudação "Laroiê" é uma forma de reverência ou chamado a Exu e pode ser ouvida em rituais, cânticos e orações. É uma maneira de reconhecer e saudar a presença e a influência de Exu.

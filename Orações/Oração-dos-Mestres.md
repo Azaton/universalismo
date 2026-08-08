@@ -4,6 +4,7 @@ nav_order: 9
 parent: "Orações"
 ---
 
+
 # Oração dos Mestres
 [Kryptrus/Continuem no caminho da luz.](https://www.youtube.com/watch?v=hBUsHk9_544)
 

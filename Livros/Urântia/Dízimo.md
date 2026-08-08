@@ -4,6 +4,7 @@ nav_order: 4
 parent: "Urântia"
 ---
 
+
 # Dízimo
 
 Este registro relaciona duas passagens de *O Livro de Urântia*: a missão tríplice do sacerdócio setita e a posterior organização das escolas de Salém por Maquiventa Melquisedeque.

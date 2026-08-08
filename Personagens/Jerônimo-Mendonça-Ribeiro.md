@@ -4,6 +4,7 @@ nav_order: 18
 parent: "Personagens"
 ---
 
+
 # Jerônimo Mendonça Ribeiro
 
 > **Página em reconstrução:** a versão original continha somente um link para o arquivo “172-personalidades.pdf”, armazenado na antiga estrutura de anexos. O documento não está disponível neste repositório público.

@@ -4,6 +4,7 @@ nav_order: 8
 parent: "Casa Plataforma de Oração"
 ---
 
+
 [Mago Kryptrus, Sinta o amor](https://www.youtube.com/watch?v=ypbrtARjUf8)
 
 [PEDRO / Consequências da vaidade, ganância e sede de aplausos na mediunidade.](https://www.youtube.com/watch?v=RGsdrFo5p34)

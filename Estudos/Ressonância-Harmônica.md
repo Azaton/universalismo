@@ -1,8 +1,9 @@
 ---
 title: "Ressonância Harmônica"
-nav_order: 45
+nav_order: 46
 parent: "Estudos"
 ---
+
 
 Ressonância Harmônica é um conceito promovido por Helio Couto, um pesquisador e palestrante brasileiro. Couto aborda temas relacionados à espiritualidade, física quântica, consciência e prosperidade, combinando-os de maneiras que não são tradicionalmente encontradas na literatura acadêmica ou científica mainstream.
 

@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Ensinamentos de Jesus"
 ---
 
+
 Jesus quando tinha 6 anos de idade já demonstrava um senso de responsabilidade muito fora do comum para a idade. Apesar de ainda ser muito criança, ele observava tudo à sua volta com um espírito curioso, mas já reflexivo. Ele gostava de ouvir os adultos e fazia perguntas profundas sobre a natureza da vida, da fé e dos deveres.
 
 Ele ajudava bastante em casa, cuidava de Tiago, seu irmão, com responsabilidade e carinho. Também brincava com os vizinhos, mas já mostrava um senso moral muito mais maduro do que as outras crianças.

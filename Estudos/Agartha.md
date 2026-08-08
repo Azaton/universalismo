@@ -4,6 +4,7 @@ nav_order: 16
 parent: "Estudos"
 ---
 
+
 Agartha é um suposto reino subterrâneo e mítico que tem sido objeto de várias teorias e lendas ao longo dos anos. De acordo com essas teorias, Agartha é um mundo subterrâneo habitado por uma civilização avançada, possivelmente relacionada a seres extraterrestres ou seres humanos com conhecimentos e tecnologias muito superiores aos nossos.
 
 A ideia de Agartha tem suas raízes em antigas tradições e mitologias, particularmente na crença em uma "Terra Oca". Essa noção sugere que o nosso planeta é oco por dentro, com uma abertura nos polos ou em outros locais, através da qual seria possível acessar esse reino subterrâneo.

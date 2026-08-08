@@ -4,6 +4,7 @@ nav_order: 15
 parent: "Estudos"
 ---
 
+
 A evolução humana é um processo complexo e multifacetado que abrange milhões de anos. A escala evolutiva representa a sequência de espécies e gêneros que, acredita-se, levaram ao surgimento dos seres humanos modernos (Homo sapiens). Abaixo, apresento uma visão geral simplificada da escala evolutiva dos hominídeos, com foco nos principais marcos:
 
 1. **Sahelanthropus tchadensis** (aproximadamente 7-6 milhões de anos atrás): Este é um dos mais antigos hominídeos conhecidos, descoberto no Chade. Sua posição na árvore evolutiva ainda é debatida.

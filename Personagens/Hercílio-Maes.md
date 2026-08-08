@@ -4,6 +4,7 @@ nav_order: 17
 parent: "Personagens"
 ---
 
+
 Hercílio Maes foi um importante médium brasileiro, mais conhecido por seus trabalhos psicografados sob a orientação do espírito Ramatís. Aqui estão alguns pontos chaves sobre sua vida e trabalho:
 
 Nascimento e Vida Pessoal: Hercílio Maes nasceu em 16 de julho de 1913 em Florianópolis, Santa Catarina, e faleceu em 9 de agosto de 1993. Trabalhou como ferroviário por muitos anos de sua vida.

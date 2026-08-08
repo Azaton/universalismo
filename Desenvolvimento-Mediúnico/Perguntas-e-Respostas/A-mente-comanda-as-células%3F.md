@@ -4,6 +4,7 @@ nav_order: 7
 parent: "Perguntas e Respostas"
 ---
 
+
 # Do ponto de vista científico e médico
 Psiconeuroimunologia: Este campo de pesquisa explora como o estado mental pode afetar o sistema imunológico e, portanto, a saúde celular. Estresse, por exemplo, tem sido associado a uma variedade de problemas de saúde que vão desde infecções até doenças crônicas, sugerindo que a mente pode afetar o corpo ao nível celular.
 

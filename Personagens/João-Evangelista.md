@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Personagens"
 ---
 
+
 João Evangelista, também conhecido como São João, é uma das figuras mais importantes do Novo Testamento cristão. Ele é tradicionalmente identificado como o autor de várias obras do Novo Testamento, incluindo o Evangelho de João, três Epístolas (1 João, 2 João, e 3 João) e o livro do Apocalipse, embora a autoria desses textos seja um tema de debate acadêmico.
 
 João era um dos Doze Apóstolos de Jesus Cristo e é frequentemente descrito como um dos mais próximos a Jesus durante seu ministério. No Evangelho de João, o autor se refere a si mesmo como "o discípulo a quem Jesus amava", uma frase que tem sido tradicionalmente associada a João Evangelista. Ele é também irmão de Tiago, outro dos apóstolos, e ambos eram filhos de Zebedeu, um pescador da Galileia.

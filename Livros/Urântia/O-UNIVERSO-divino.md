@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Urântia"
 ---
 
+
 14:0.1 O UNIVERSO divino e perfeito ocupa o centro de toda a criação; é o núcleo eterno em redor do qual giram as vastas criações do tempo e do espaço. O Paraíso é a gigantesca Ilha-núcleo que permanece em absoluta estabilidade e imóvel no coração mesmo do magnífico universo eterno. Essa família planetária central é chamada de Havona e está extremamente distante do universo local de Nébadon. Tem dimensões enormes, uma massa quase inacreditável e consiste em um bilhão de esferas de beleza inimaginável e de grandeza majestosa; no entanto, a verdadeira magnitude dessa vasta criação está, realmente, bem além do alcance de compreensão da mente humana.
 
 14:0.2 Esse é o único conjunto consolidado, perfeito e estabilizado de mundos. É um universo criado em plenitude e perfeição; não se trata de um desenvolvimento evolucionário. É o núcleo eterno da perfeição; e em torno dele gira a procissão interminável de universos que constituem os experimentos evolucionários formidáveis, a aventura audaciosa dos Filhos Criadores de Deus, os quais aspiram a duplicar, no tempo, e reproduzir, no espaço, o universo arquetípico, o ideal de plenitude divina, suprema finalidade, realidade última e perfeição eterna.

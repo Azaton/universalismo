@@ -4,6 +4,7 @@ nav_order: 4
 parent: "Livros"
 ---
 
+
 O Livro de Enoque é uma obra apócrifa que não faz parte do cânone da maioria das tradições judaico-cristãs, mas é reconhecido e valorizado em algumas tradições etíopes. A história mencionada é parte do que é conhecido como a narrativa dos "Anjos Caídos" ou "Vigilantes", especificamente no primeiro livro de Enoque, também conhecido como o Livro dos Vigilantes. Esta seção descreve como um grupo de anjos, liderados por Samyaza (ou Semyaza), desce à Terra e toma mulheres humanas como esposas, gerando uma raça de gigantes conhecida como Nefilins.
 
 Azazel (ou Azazyel, conforme a variação ortográfica), mencionado em sua pergunta, é um desses anjos caídos e tem um papel significativo na história. Ele é responsabilizado por ensinar aos humanos não apenas a arte da guerra, como mencionado, mas também diversas outras tecnologias e práticas consideradas pecaminosas, incluindo a metalurgia (fabricação de armas e joias) e o uso de cosméticos, contribuindo para a corrupção moral da humanidade. Azazel é particularmente notório por ter introduzido esses conhecimentos, que, segundo o texto, levaram os seres humanos a se desviarem ainda mais dos caminhos desejados por Deus.

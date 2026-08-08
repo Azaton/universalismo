@@ -4,6 +4,7 @@ nav_order: 3
 parent: "Ensinamentos de Jesus"
 ---
 
+
 Psicografada por Sabrina da CPO - Mensagem canalizada de Jesus: A Colheita e Seus Frutos 
 
 00:51:38 minutos

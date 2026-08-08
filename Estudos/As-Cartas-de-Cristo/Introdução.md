@@ -4,6 +4,7 @@ nav_order: 1
 parent: "As Cartas de Cristo"
 ---
 
+
 Foi feita uma introdução sobre cada carta e o porque do anonimato. Uma orientação sobre o formato de como ler e para entrar na dimensão do entendimento, foi recomentado a seguinte oração:
 
 _“PAI – MÃE – VIDA, tu és minha vida, meu constante apoio, minha saúde, minha proteção,

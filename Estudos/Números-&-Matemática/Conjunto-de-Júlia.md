@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Números & Matemática"
 ---
 
+
 O Conjunto de Julia, nomeado em homenagem ao matemático Gaston Julia, é um conjunto de pontos no plano complexo que é definido por uma função iterativa particular. O estudo dos Conjuntos de Julia teve origem no início do século XX, mas ganhou mais atenção no final do século XX, em parte devido à sua representação visual impressionante possibilitada pelos computadores.
 
 Para definir um Conjunto de Julia, começa-se com uma função \( f(z) \) do plano complexo para si mesma. A mais comum é a função quadrática \( f(z) = z^2 + c \), onde \( c \) é uma constante complexa. Para um valor fixo de \( c \), o Conjunto de Julia correspondente é o conjunto de pontos \( z \) no plano complexo para os quais a sequência:

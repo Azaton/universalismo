@@ -4,6 +4,7 @@ nav_order: 6
 parent: "Personagens"
 ---
 
+
 No Zoroastrismo, uma das mais antigas religiões monoteístas do mundo, Ahura Mazda (às vezes grafado "Aúra-Masda" em português) é o deus supremo. O Zoroastrismo foi fundado por Zaratustra (ou Zoroastro, como é conhecido no Ocidente) no antigo Império Persa.
 
 Ahura Mazda representa a divindade suprema, o criador de tudo e o símbolo do bem. Em contraste, Angra Mainyu (ou Ahriman) é a entidade maligna, representando o caos, a destruição e tudo o que é prejudicial à criação. O Zoroastrismo é muitas vezes caracterizado por essa dualidade entre o bem e o mal.

@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Backlog"
 ---
 
+
 Olá pessoal, bom dia. Queria deixar o meu testemunho de uma experiência incrível que tive neste final de semana com um grupo de jovens, que aqui em São Paulo chamamos de EJC - estão todos convidados.
 
 Eu estava entre os jovens para aprender, sentir e vivenciar as experiências para o futuro nos aguarda. Foi a uma experiência incrível com Deus e o nosso Mestre Jesus, que elevou e nos reuniu num lugar para sermos tocados profundamente. E assim aconteceu! E assim é, graças a Deus.

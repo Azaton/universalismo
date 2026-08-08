@@ -5,6 +5,7 @@ parent: "Estudos"
 has_children: true
 ---
 
+
 # Carta 1 - 11
 
 Jesus no deserto viu o que era real e irreal. Vendo através das coisas, percebeu que nada era sólido e com o poder da mente CONVICÇÃO poderia alterar o ambiente. A religião chama de FÉ. No filme Matrix é possível experimentar um exemplo da visão, quando vemos através do código da Matrix.

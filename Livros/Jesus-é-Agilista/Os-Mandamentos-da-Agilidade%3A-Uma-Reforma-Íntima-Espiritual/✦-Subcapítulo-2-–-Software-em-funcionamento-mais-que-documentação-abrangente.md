@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Os Mandamentos da Agilidade: Uma Reforma Íntima Espiritual"
 ---
 
+
 Perfeito! Aqui está o **segundo subcapítulo**, agora refletindo o valor:
 
 * * *

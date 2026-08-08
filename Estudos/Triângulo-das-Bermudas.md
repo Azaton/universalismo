@@ -1,8 +1,9 @@
 ---
 title: "Triângulo das Bermudas"
-nav_order: 43
+nav_order: 44
 parent: "Estudos"
 ---
+
 
 A área conhecida como [Triângulo das Bermudas](https://pt.wikipedia.org/wiki/Tri%C3%A2ngulo_das_Bermudas), uma região do Oceano Atlântico delimitada por Miami, Bermuda e Porto Rico, tem sido objeto de muitas teorias, especulações e lendas. Na ciência mainstream, as explicações para os desaparecimentos de navios e aviões nessa região variam desde fenômenos naturais, como tempestades súbitas e campos magnéticos irregulares, até erros humanos ou falhas mecânicas.
 

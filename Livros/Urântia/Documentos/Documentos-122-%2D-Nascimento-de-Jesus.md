@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Documentos"
 ---
 
+
 122:8.5 No dia do nascimento de Jesus, ao meio-dia, os serafins de Urântia, reunidos com os seus diretores, cantaram hinos de glória sobre a manjedoura de Belém, mas esses cânticos de glória não foram escutados por ouvidos humanos. Nenhum pastor, nem quaisquer outras criaturas mortais vieram prestar a sua homenagem ao menino de Belém, até o dia da chegada de certos sacerdotes de Ur, que haviam sido enviados de Jerusalém por Zacarias.
 
 122:8.6 A esses sacerdotes da Mesopotâmia havia sido contado, há algum tempo, por um estranho professor religioso, do país deles, o qual em um sonho havia sido informado de que a “luz da vida” estava a ponto de aparecer sobre a Terra, na forma de um menino, entre os judeus. E os três sacerdotes partiram, pois, em busca dessa “luz da vida”. Após muitas semanas de infrutífera procura em Jerusalém, estavam para voltar a Ur, quando conheceram Zacarias que lhes confiou sobre a sua crença de que Jesus era o objeto da procura deles e os enviou a Belém, onde encontraram o menino e deixaram as suas oferendas com Maria, a sua mãe terrena. A criança estava então com quase três semanas de idade à época da visita deles.

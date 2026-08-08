@@ -4,6 +4,7 @@ nav_order: 8
 parent: "Orações"
 ---
 
+
 _Pai, eu desejo ensinar, curar e reconfortar os mais necessitados._
 _Ó Pai, faça-me instrumento de vossa Paz._
 _Coloca-me onde for preciso para que possa realizar as Tuas obras._

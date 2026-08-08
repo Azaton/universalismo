@@ -4,6 +4,7 @@ nav_order: 11
 parent: "Estudos"
 ---
 
+
 As "escalas" que você descreve parecem representar um caminho pessoal e subjetivo de entendimento e envolvimento com a espiritualidade e a religião. É fundamental entender que essas categorizações são interpretações individuais e podem não refletir a experiência ou crença de outros indivíduos dentro dessas tradições. A seguir, um breve resumo de cada escala, com base na descrição que você forneceu:
 
 ### Escala Primária: Religiões Abraâmicas (Catolicismo e Protestantismo)

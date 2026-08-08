@@ -4,6 +4,7 @@ nav_order: 12
 parent: "Personagens"
 ---
 
+
 Enoque é uma figura bíblica mencionada no Antigo Testamento, particularmente no livro de Gênesis. Ele é notável por sua relação excepcionalmente próxima com Deus e por sua ascensão atípica ao céu. Aqui estão os pontos chave sobre Enoque:
 
 1. **Genealogia:** Enoque era o filho de Jarede e o pai de Matusalém. Ele é uma das figuras listadas na genealogia do capítulo 5 de Gênesis, que traça a linhagem desde Adão até Noé.

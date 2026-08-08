@@ -4,6 +4,7 @@ nav_order: 5
 parent: "Ensinamentos de Jesus"
 ---
 
+
 Ensinamentos de Jesus - Pregando em Arquelais - Documento 143
 
 (1607.3) 143:1.1 Na primeira metade do mês de agosto, o grupo apostólico fez o seu centro de apoio nas cidades gregas de Arquelais e de Fasaeles, onde eles tiveram a sua primeira experiência pregando a grupos quase exclusivos de gentios — gregos, romanos e sírios — , já que poucos judeus residiam nessas duas cidades gregas. Ao entrarem em contato com esses cidadãos romanos, os apóstolos encontraram novas dificuldades para a proclamação da mensagem do Reino vindouro e depararam-se com novas objeções aos ensinamentos de Jesus.

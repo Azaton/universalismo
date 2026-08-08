@@ -4,6 +4,7 @@ nav_order: 25
 parent: "Personagens"
 ---
 
+
 Paulo de Tarso, também conhecido como Apóstolo Paulo ou São Paulo, foi uma das figuras mais influentes do Cristianismo primitivo. Originalmente chamado Saulo, ele não era um dos doze apóstolos originais de Jesus, mas sua conversão ao Cristianismo e suas subsequentes missões e escritos tiveram um impacto profundo na expansão e teologia do Cristianismo.
 
 1. **Origens:** Paulo nasceu em Tarso, uma cidade na atual Turquia. Ele era judeu, mas também tinha cidadania romana, uma combinação que influenciou profundamente sua vida e missão.

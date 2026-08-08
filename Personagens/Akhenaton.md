@@ -4,6 +4,7 @@ nav_order: 5
 parent: "Personagens"
 ---
 
+
 Akenaton (também escrito Akhenaton, Akhenaten ou Ikhnaton) foi um faraó do Antigo Egito da XVIII Dinastia que reinou de c. 1353-1336 a.C. Ele é particularmente notável por suas tentativas revolucionárias de introduzir o monoteísmo no Egito.
 
 1. **Introdução do Monoteísmo:** Akenaton é mais conhecido por sua tentativa de substituir o tradicional panteão egípcio de deuses por um único deus, o disco solar Aton. Esta foi uma mudança radical, pois o Egito havia sido historicamente politeísta.

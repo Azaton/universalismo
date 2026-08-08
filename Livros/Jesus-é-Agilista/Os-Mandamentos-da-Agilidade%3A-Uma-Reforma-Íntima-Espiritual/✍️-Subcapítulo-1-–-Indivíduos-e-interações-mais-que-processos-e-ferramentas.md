@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Os Mandamentos da Agilidade: Uma Reforma Íntima Espiritual"
 ---
 
+
 * * *
 
 ✍️ Subcapítulo 1 – _Indivíduos e interações mais que processos e ferramentas_

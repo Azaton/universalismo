@@ -4,6 +4,7 @@ nav_order: 15
 parent: "Personagens"
 ---
 
+
 https://pt.wikipedia.org/wiki/George_Vale_Owen
 
 George Vale Owen foi um pastor anglicano, médium espiritualista e autor, mais conhecido por suas contribuições para a literatura espiritualista no início do século XX. Nascido em 1869 em Birmingham, Inglaterra, e falecido em 1931, Owen ganhou destaque por meio de suas habilidades mediúnicas e suas obras detalhando comunicações com o mundo espiritual.

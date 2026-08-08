@@ -4,6 +4,7 @@ nav_order: 14
 parent: "Livros"
 ---
 
+
 "O 12º Planeta" é o primeiro livro da série "Crônicas da Terra", escrito por Zecharia Sitchin. Publicado originalmente em 1976, o livro explora a teoria proposta pelo autor de que há evidências de que uma civilização extraterrestre avançada visitou a Terra no passado distante.
 
 No livro, Sitchin mergulha nas antigas escrituras sumérias e mesopotâmicas, estudando os textos cuneiformes e outras fontes históricas para sustentar sua teoria. Ele acredita que esses registros contêm pistas sobre a existência de um planeta adicional em nosso sistema solar, que ele chama de Nibiru ou "O 12º Planeta". Segundo a interpretação de Sitchin, Nibiru possui uma órbita elíptica longa e levaria cerca de 3.600 anos para completar uma volta ao redor do Sol.

@@ -4,6 +4,7 @@ nav_order: 4
 parent: "Casa Plataforma de Oração"
 ---
 
+
 ### O pode do Cocriar - LEITURA DA PSICOGRAFIA DE SAINT GERMAIN
 https://www.youtube.com/watch?v=YTXjJvXDY1I
 

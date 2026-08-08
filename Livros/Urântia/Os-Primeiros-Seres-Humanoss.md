@@ -4,6 +4,7 @@ nav_order: 15
 parent: "Urântia"
 ---
 
+
 Do ano 1934 d.C. até o nascimento dos dois primeiros seres humanos, contam-se exatamente 993 419 anos.
 
 Esses dois seres notáveis eram verdadeiros seres humanos. Possuíam polegares humanos perfeitos, como os tiveram muitos dos seus ancestrais, e tinham pés tão perfeitos quanto os das raças humanas atuais. Eles andavam e corriam na vertical, não eram trepadores; a função de agarrar com o dedo grande do pé havia desaparecido completamente. Quando o perigo os levava aos topos das árvores, eles subiam exatamente como os humanos de hoje o fariam. Eles escalariam um tronco de uma árvore como um urso, não como fariam o chipanzé ou o gorila, pendurando-se e pulando nos galhos.

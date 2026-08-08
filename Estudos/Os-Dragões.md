@@ -4,6 +4,8 @@ nav_order: 32
 parent: "Estudos"
 ---
 
+> **Nota de proveniência:** esta página segue a tradição Amasofia/CPO (naves etéricas, Enlil, 666 dragões, 7 castas). Há também um livro espírita chamado "Os Dragões" no acervo (ver Livros), com outra origem e outra leitura de "dragão" — espíritos humanos degradados, não entidades extraplanetárias. As duas fontes não devem ser fundidas automaticamente; ver a comparação em "Torquemada e o Resgate nas Regiões Inferiores" (Estudos).
+
 Os ditadores do abismo e senhores da escuridão
 
 Vieram adormecidos, transportados por naves etéricas, vencendo a barreira da distância.

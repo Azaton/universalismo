@@ -4,6 +4,7 @@ nav_order: 14
 parent: "Personagens"
 ---
 
+
 # Exu Tranca Ruas das Almas
 
 No contexto de muitas casas de Umbanda, Exu Tranca Ruas das Almas é compreendido como uma entidade guardiã, ligada à proteção, à orientação e ao trabalho nos caminhos espirituais. Como ocorre com outras entidades da linha de Exu, sua figura é frequentemente interpretada de maneira inadequada fora da tradição umbandista e associada automaticamente ao mal.

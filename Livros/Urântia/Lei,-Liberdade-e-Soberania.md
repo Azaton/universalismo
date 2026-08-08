@@ -4,6 +4,7 @@ nav_order: 16
 parent: "Urântia"
 ---
 
+
 # **Lei, Liberdade e Soberania**
 
 Se um homem almeja a independência — a liberdade — , ele deve lembrar-se de que todos os outros homens anseiam pela mesma autonomia. Os grupos desses mortais amantes da liberdade não podem viver juntos, em paz, sem tornarem-se obedientes a leis, regras e regulamentos tais que concedam a cada uma das suas pessoas o mesmo grau de liberdade, salvaguardando, ao mesmo tempo, um grau igual de liberdade a todos os outros companheiros mortais. Se um homem deve ser absolutamente livre, então um outro deve tornar-se um escravo absoluto. E a natureza relativa da liberdade é, econômica e politicamente, uma verdade social. A liberdade é a dádiva da civilização, tornada possível por força da LEI.

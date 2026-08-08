@@ -4,6 +4,7 @@ nav_order: 5
 parent: "Estudos"
 ---
 
+
 Telos é frequentemente mencionado em contextos de literatura de ficção científica, esoterismo e teorias de conspiração. Não é um local reconhecido pela astronomia ou pela ciência convencional. Abaixo estão alguns contextos onde o nome Telos é encontrado:
 
 1. **Literatura de Ficção Científica e Fantasia**: Telos pode ser um nome usado por autores de ficção científica e fantasia para designar planetas, cidades ou civilizações em seus universos fictícios.

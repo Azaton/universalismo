@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Jesus é Agilista"
 ---
 
+
 # O que é Reforma Íntima?
 
 A Reforma Íntima é um conceito frequentemente associado ao Espiritismo, mas também pode ser aplicado em um contexto mais amplo de desenvolvimento espiritual e autoconhecimento. Em essência, a Reforma Íntima refere-se ao processo contínuo de autoanálise e autoaperfeiçoamento, visando o crescimento espiritual e moral do indivíduo.

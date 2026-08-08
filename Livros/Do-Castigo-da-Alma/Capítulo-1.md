@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Do Castigo da Alma"
 ---
 
+
 No capítulo 1 de "Do Castigo da Alma" de Hermes Trismegisto, são mencionados os seguintes elementos:
 
 - A Terra é o mais denso e está localizado abaixo. Sua densidade é alta. Ela é bruta, densa, espessa, cristalizada. Ela falta luz e vida, ou seja, atividade própria.

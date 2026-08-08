@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Amasofia"
 ---
 
+
 *   **Juno** – Primeira encarnação na Lemúria.
 *   **Isto** – Segunda encarnação na Lemúria.
 *   **Ark** – Em Atlântida, com o título de "o rei santo".

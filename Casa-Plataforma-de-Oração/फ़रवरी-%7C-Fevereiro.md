@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Casa Plataforma de Oração"
 ---
 
+
 [Cura](https://www.youtube.com/watch?v=zApGHqrIXuE)
 
 Primordialmente estamos num processo para se curar; O Corpo Emocional e é este corpo que precisamos curar, tratar para adequar para a quinta dimensão; se não conseguirmos nesta encarnação, tentaremos na próxima; Gaia é racional; as mudanças não serão num estalar de dedos - leva mais tempo.

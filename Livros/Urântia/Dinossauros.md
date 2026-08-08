@@ -4,6 +4,7 @@ nav_order: 12
 parent: "Urântia"
 ---
 
+
 1. A Idade Primitiva dos Répteis
 
 Há 140 milhões de anos, subitamente, e com apenas o indício dos dois ancestrais pré-répteis que se desenvolveram na África durante a época precedente, os répteis apareceram na sua forma plenamente evoluída. Eles desenvolveram-se rapidamente logo gerando crocodilos, répteis escamados e, finalmente, tanto as serpentes do mar como os répteis voadores. Os seus ancestrais de transição logo desapareceram.

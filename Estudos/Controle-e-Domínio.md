@@ -4,6 +4,7 @@ nav_order: 8
 parent: "Estudos"
 ---
 
+
 Medo: No contexto do poder, o medo é frequentemente empregado para dissuadir indivíduos de agir contra as normas estabelecidas ou desafiar a autoridade. Isso pode ser feito através de ameaças diretas ou pela criação de um ambiente de incerteza ou ansiedade.
 
 Obrigatoriedade: A obrigatoriedade envolve a imposição de regras ou leis que as pessoas devem seguir, muitas vezes sob pena de enfrentar consequências negativas. Isso cria um sistema onde a conformidade é necessária para evitar repercussões. 

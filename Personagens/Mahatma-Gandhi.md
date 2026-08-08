@@ -4,6 +4,7 @@ nav_order: 27
 parent: "Personagens"
 ---
 
+
 Parece haver um erro de digitação na sua questão. Acredito que você esteja se referindo a Mahatma Gandhi.
 
 Mahatma Gandhi (1869-1948) foi um líder nacionalista e espiritual indiano conhecido por sua filosofia de resistência não violenta (ou "satyagraha") contra a opressão. Suas ideias e táticas de protesto pacífico influenciaram movimentos de direitos civis e liberdade ao redor do mundo.

@@ -4,6 +4,7 @@ nav_order: 3
 parent: "Livros"
 ---
 
+
 # Problemas? OBA!
 
 > **Imagem não migrada:** a página original continha uma imagem armazenada na antiga estrutura de anexos. O arquivo não está disponível no repositório público e será restaurado apenas se o original for localizado e houver autorização de uso.

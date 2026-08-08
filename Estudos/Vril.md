@@ -1,9 +1,10 @@
 ---
 title: "Vril"
-nav_order: 44
+nav_order: 45
 parent: "Estudos"
 has_children: true
 ---
+
 
 # O Vril
 

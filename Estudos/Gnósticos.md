@@ -4,6 +4,7 @@ nav_order: 29
 parent: "Estudos"
 ---
 
+
 Os gnósticos foram um grupo de filósofos e místicos que surgiram no período do cristianismo primitivo, principalmente nos séculos I e II d.C. Eles acreditavam em uma forma particular de conhecimento espiritual chamada "gnose", daí o termo "gnóstico".
 
 Os gnósticos tinham uma visão cosmogônica e teológica única, que diferia significativamente das crenças cristãs ortodoxas. Eles afirmavam que o universo material era essencialmente mau ou ilusório, criado por uma divindade inferior e imperfeita, muitas vezes chamada de Demiurgo. Essa divindade imperfeita era considerada responsável por aprisionar as centelhas divinas em corpos humanos, causando sofrimento e ignorância.

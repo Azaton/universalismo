@@ -4,6 +4,7 @@ nav_order: 2
 parent: "Erg - O Décimo Planeta"
 ---
 
+
 # Desvendando o véu dos tempos
 
 O ano é 2035. Durante os dez anos que precederam esse período, o planeta Terra sofreu inúmeras modificações. Transformações geográficas, climáticas, cosmográficas, sismológicas e biológicas. O efeito estufa aumentou; mesmo denunciado por alguns países, não foi tomada qualquer providência pelos governantes. Indiferente, a humanidade continuou poluindo sua moradia terrestre. Mutações mais surpreendentes ocorreram, por causa da quebra do equilíbrio ecológico.

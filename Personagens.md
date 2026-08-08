@@ -1,8 +1,9 @@
 ---
 title: "Personagens"
-nav_order: 14
+nav_order: 12
 has_children: true
 ---
+
 
 Dica: para facilitar a sua busca pelos personagens, nesta tela (browser) aperte CRTL + F. Uma caixa branca aparecerá no topo da página para você digitar as letras e fazer a pesquisa por palavras chaves.
 

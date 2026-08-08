@@ -4,6 +4,7 @@ nav_order: 1
 parent: "Personagens"
 ---
 
+
 Augusto Cury é um renomado psicólogo, psiquiatra, psicoterapeuta e escritor brasileiro, conhecido por suas obras que abordam temas relacionados ao comportamento humano, inteligência emocional e desenvolvimento pessoal. Ele é o criador da Teoria da Inteligência Multifocal, que analisa o processo de construção de pensamentos e a formação de pensadores.
 
 Algumas informações adicionais sobre Augusto Cury:

@@ -4,6 +4,7 @@ nav_order: 14
 parent: "Estudos"
 ---
 
+
 # Atlântida, segundo o Universalismo
 
 Atlântida (12.000 A.C.) era um continente localizado em quase todo Oceano Atlântico. A Atlântida daquela época era como outro mundo na Terra. Ficava entre a costa da Flórida, Ilhas das Canárias, Açores e Madeira. Foi habitada por 60 milhões de atlantes. Uma civilização totalmente fraterna, regenerada, desgarrada da escravidão do materialismo e com todos os atributos do espírito. Um povo totalmente espiritualizado, reencarnacionistas, pacíficos, conscientes da imortalidade do espírito, usavam a ciência espiritual e a tecnologia vril para terem uma excelente qualidade de vida.

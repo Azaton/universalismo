@@ -4,6 +4,7 @@ nav_order: 38
 parent: "Personagens"
 ---
 
+
 Sim, de acordo com o Livro de Urântia, Van e Amadon são descritos como seres supra-humanos. Eles são apresentados como leais administradores e seguidores do governo universal, que permaneceram fiéis ao governo divino durante a rebelião de Lucifer e a subsequente traição de Caligástia na Terra (Urântia).
 
 Van é retratado como um dos cem membros do corpo de conselheiros, ou Filhos de Deus, trazidos à Terra por Caligástia, o Príncipe Planetário, antes de sua rebelião. Quando Caligástia se voltou contra o governo divino, Van tomou a decisão de permanecer leal aos governantes do universo e assumiu a liderança dos assuntos do mundo após a rebelião, em cooperação com os Melquisedeques, uma ordem superior de seres que interveio para estabilizar a situação no planeta.

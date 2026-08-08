@@ -4,6 +4,7 @@ nav_order: 3
 parent: "Umbanda"
 ---
 
+
 A Umbanda é uma religião afro-brasileira que sintetiza diversos elementos de religiões africanas, indígenas, católicas e espiritismo. É importante destacar que a forma como cada terreiro ou seguidor da Umbanda entende e se relaciona com o plano espiritual pode variar. 
 
 Algumas vezes, as colônias espirituais na Umbanda são associadas ou influenciadas pelo conceito de colônias espirituais apresentado na Doutrina Espírita, como "Nosso Lar", descrita nas obras do médium Chico Xavier, psicografadas pelo espírito André Luiz. Contudo, esse conceito não é universalmente aceito ou reconhecido por todos os umbandistas.

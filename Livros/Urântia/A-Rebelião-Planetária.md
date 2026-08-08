@@ -4,6 +4,7 @@ nav_order: 8
 parent: "Urântia"
 ---
 
+
 (757.5) 67:4.2 Os sessenta membros do corpo planetário de assessores que se uniram à rebelião escolheram Nod como o 
 seu líder. Trabalharam de todo o coração para o Príncipe rebelde, mas logo descobriram que estavam privados da 
 sustentação dos circuitos de vida do sistema. E despertaram para o fato de que se haviam degradado até o status de 

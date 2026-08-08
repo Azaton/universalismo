@@ -4,6 +4,7 @@ nav_order: 11
 parent: "Casa Plataforma de Oração"
 ---
 
+
 # PAI JOÃO DE ENOQUE - Você sabe ser indulgente?
 
 * Acalmaria que deveria ter, continuamos brigando. Esquecendo do verdadeiro amor que Jesus trouxe. Estamos as portas de uma nova vibração que muitos não vão suportar.

@@ -5,6 +5,7 @@ parent: "Estudos"
 has_children: true
 ---
 
+
 Os "Sete Raios" são um conceito encontrado em várias tradições esotéricas, incluindo a Teosofia, o Arcanismo e certos ramos do espiritualismo. A ideia básica é que existem sete raios de energia ou luz divina que permeiam o universo, e cada um desses raios tem qualidades, cores, mestres ascensos e atributos específicos associados a ele. A concepção exata dos Sete Raios pode variar dependendo da tradição específica em que são encontrados.
 
 Em geral, os Sete Raios são descritos da seguinte forma:

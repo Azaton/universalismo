@@ -4,6 +4,7 @@ nav_order: 34
 parent: "Personagens"
 ---
 
+
 Sanat Kumara é uma figura espiritual mencionada em várias tradições teosóficas, bem como em algumas tradições do esoterismo e da Nova Era. Suas origens e descrições variam, mas há algumas características comuns associadas a ele em muitas tradições:
 
 1. **Senhor do Mundo**: Em certas tradições teosóficas, Sanat Kumara é descrito como o "Senhor do Mundo", o principal ser espiritual que supervisiona a evolução espiritual da Terra.

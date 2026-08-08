@@ -4,6 +4,7 @@ nav_order: 3
 parent: "Orações"
 ---
 
+
 “Eu apelo ao Cristo para acalmar meus medos e para apagar todo o mecanismo de controle externo que possa interferir com esta cura. Eu peço 
 ao meu Eu Superior que feche a minha aura e estabeleça um canal Crístico para os propósitos da minha cura, para que só as energias Crísticas 
 possam fluir até mim. Não se poderá fazer outro uso deste canal que não seja para o fluxo de energias Divinas.”

@@ -4,6 +4,7 @@ nav_order: 17
 parent: "Urântia"
 ---
 
+
 (458.2) 41:3.2 Os sóis de Nébadon não são diferentes dos de outros universos. A composição material de todos os sóis, 
 ilhas escuras, planetas, satélites e, mesmo, a dos meteoros é totalmente idêntica. Esses sóis têm um diâmetro médio de 
 cerca de 1 600 000 quilômetros; o do vosso globo solar é um pouco menor. A maior estrela no universo, a nuvem estelar 

@@ -4,6 +4,7 @@ nav_order: 35
 parent: "Personagens"
 ---
 
+
 Jesus Cristo é a figura central do Cristianismo e é considerado por cristãos ao redor do mundo como o Filho de Deus e o Salvador da humanidade. Sua vida e ensinamentos são registrados nos Evangelhos do Novo Testamento da Bíblia.
 
 1. **Nascimento:** Jesus nasceu em Belém, na Judeia, por volta de 4 a.C. a 6 d.C. Seu nascimento é celebrado anualmente no feriado do Natal. Os Evangelhos de Mateus e Lucas descrevem sua concepção como sendo virginal, com Maria, sua mãe, concebendo-o pelo Espírito Santo.
