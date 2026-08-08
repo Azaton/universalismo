@@ -1,6 +1,6 @@
 ---
 title: "Personagens"
-nav_order: 11
+nav_order: 10
 has_children: true
 ---
 
@@ -14,9 +14,9 @@ Um exemplo: alguém que hoje atua como canal/médium no projeto (caso de Pedro A
 
 Quando uma relação desse tipo for identificada (mesma linhagem espiritual, ou informação obtida por meio de outro personagem), ela deve ser registrada na página do personagem envolvido, preservando a proveniência.
 
-**Dúvidas a esclarecer:**
-- Confirmar quantas encarnações são atribuídas a Pedro Augusto no acervo (a referência inicial fala em "quatro, seis ou mais") e quais personagens desta lista correspondem a elas.
-- Confirmar o nome da entidade citada como exemplo de comunicação através de Pedro Augusto.
+Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeamento feito pelo Mestre (08/08/2026), da mais antiga à mais recente:
+
+**Rianderenenai** → **Enki** → **Atônis** → **Akhenaton** → **Ezequiel** → **Mahavatar Babaji** → **Sansão** → **Cavaleiro da Estrela Guia** → **Alan Kardec** → **Pedro Augusto**
 
 <table>
   <tr>

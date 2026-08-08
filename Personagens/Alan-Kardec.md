@@ -6,6 +6,8 @@ parent: "Personagens"
 
 Alan Kardec é o pseudônimo de Hippolyte Léon Denizard Rivail (1804-1869), educador francês conhecido por codificar o espiritismo, também referido em muitos lugares como "Doutrina Espírita". Ele é uma figura central na história do espiritismo, e sua obra influenciou profundamente o desenvolvimento do movimento espírita em todo o mundo, especialmente no Brasil. Aqui estão os pontos-chave da sua vida:
 
+**Linhagem espiritual:** nona encarnação registrada na linhagem de Pedro Augusto — sucede o Cavaleiro da Estrela Guia e precede o próprio Pedro Augusto. Fonte: mapeamento feito pelo Mestre a partir do estudo sobre Pedro Augusto (registrado em 08/08/2026).
+
 Educação e Carreira Inicial: Antes de sua associação com o espiritismo, Rivail era conhecido como educador e tinha escrito livros didáticos e trabalhado na reforma educacional.
 
 Introdução ao Espiritismo: Rivail foi introduzido ao fenômeno das "mesas girantes" (onde as mesas se moviam supostamente por influência espiritual) na década de 1850. Intrigado, ele começou a investigar as alegações de comunicação com os espíritos.

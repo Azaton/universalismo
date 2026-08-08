@@ -1,6 +1,6 @@
 ---
 title: "Quimera"
-nav_order: 30
+nav_order: 36
 parent: "Personagens"
 ---
 

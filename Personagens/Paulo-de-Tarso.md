@@ -1,6 +1,6 @@
 ---
 title: "Paulo de Tarso"
-nav_order: 27
+nav_order: 32
 parent: "Personagens"
 ---
 

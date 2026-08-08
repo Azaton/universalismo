@@ -1,6 +1,6 @@
 ---
 title: "Van e Amadon"
-nav_order: 38
+nav_order: 45
 parent: "Personagens"
 ---
 

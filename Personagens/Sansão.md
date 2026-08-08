@@ -1,10 +1,12 @@
 ---
 title: "Sansão"
-nav_order: 34
+nav_order: 41
 parent: "Personagens"
 ---
 
 Sansão é uma figura bíblica encontrada no Livro de Juízes, nos capítulos 13 a 16. Ele é conhecido por sua força sobre-humana, concedida por Deus, e pelas narrativas em que batalha contra os filisteus, um dos inimigos dos israelitas. Aqui estão os pontos principais sobre Sansão:
+
+**Linhagem espiritual:** sétima encarnação registrada na linhagem de Pedro Augusto — sucede Mahavatar Babaji e precede o Cavaleiro da Estrela Guia. Fonte: mapeamento feito pelo Mestre a partir do estudo sobre Pedro Augusto (registrado em 08/08/2026).
 
 1. **Nascimento Profetizado:** Antes de seu nascimento, um anjo do Senhor apareceu à mãe de Sansão, que era estéril, e lhe disse que ela conceberia um filho que começaria a libertar Israel dos filisteus. Foi-lhe instruído que a criança não deveria beber vinho ou comer qualquer coisa impura, e que seu cabelo não deveria ser cortado, pois ele seria um nazireu desde o nascimento.
 
