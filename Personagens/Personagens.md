@@ -1,7 +1,6 @@
 ---
 title: "Personagens"
 nav_order: 10
-has_children: true
 ---
 
 Dica: para facilitar a sua busca pelos personagens, nesta tela (browser) aperte CRTL + F. Uma caixa branca aparecerá no topo da página para você digitar as letras e fazer a pesquisa por palavras chaves.
@@ -23,65 +22,69 @@ Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeam
     <th colspan="6" style="text-align: center;">Índice de Personagens</th>
   </tr>
   <tr>
-  <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Helena-Blavatsky">Helena Blavatsky</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Hercilio-Maes">Hercílio Maes</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Mahatma-Gandhi">Mahatma Gandhi</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Martin-Luther-King">Martin Luther King</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Melquisedeque">Melquisedeque</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Mercurio">Mercúrio</a></td>
+    <td style="text-align: center;"><a href="./Akhenaton.html">Akhenaton</a></td>
+    <td style="text-align: center;"><a href="./Alan-Kardec.html">Alan Kardec</a></td>
+    <td style="text-align: center;"><a href="./Ashtar-Sheran.html">Ashtar Sheran</a></td>
+    <td style="text-align: center;"><a href="./Atlas.html">Atlas</a></td>
+    <td style="text-align: center;"><a href="./Atônis.html">Atônis</a></td>
+    <td style="text-align: center;"><a href="./Augusto-Cury.html">Augusto Cury</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Mestra-Kuan-Yin">Mestra Kuan Yin</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Moises">Moisés</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Paulo-de-Tarso">Paulo de Tarso</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Pegasus-vronvunsky">Pegasus - vronvunsky</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Ramatis">Ramatis</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Sananda">Sananda</a></td>
+    <td style="text-align: center;"><a href="./Aúra%2DMasda.html">Aúra Masda</a></td>
+    <td style="text-align: center;"><a href="./Cavaleiro-da-Estrela-Guia.html">Cavaleiro da Estrela Guia</a></td>
+    <td style="text-align: center;"><a href="./Chico-Xavier.html">Chico Xavier</a></td>
+    <td style="text-align: center;"><a href="./Demiurgo.html">Demiurgo</a></td>
+    <td style="text-align: center;"><a href="./Detsu.html">Detsu</a></td>
+    <td style="text-align: center;"><a href="./Emanuel.html">Emanuel</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Sanat-Kumara">Sanat Kumara</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Sansao">Sansão</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Sidarta-Gautama">Sidarta Gautama</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Sao-Mauricio">São Maurício</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Thevetat">Thevetat</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Zoroastro">Zoroastro</a></td>
+    <td style="text-align: center;"><a href="./Enki.html">Enki</a></td>
+    <td style="text-align: center;"><a href="./Enoque.html">Enoque</a></td>
+    <td style="text-align: center;"><a href="./Eurípedes-Barsanulfo.html">Eurípedes Barsanulfo</a></td>
+    <td style="text-align: center;"><a href="./Exu-Tranca-Ruas-das-Almas.html">Exu Tranca Ruas das Almas</a></td>
+    <td style="text-align: center;"><a href="./Ezequiel.html">Ezequiel</a></td>
+    <td style="text-align: center;"><a href="./George-Vale-Owen.html">George Vale Owen</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Akhenaton">Akhenaton</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Alan-Kardec">Alan Kardec</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Ashtar-Sheran">Ashtar Sheran</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Atlas">Atlas</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/A%C3%BAra%252DMasda">Aúra Masda</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Chico-Xavier">Chico Xavier</a></td>
+    <td style="text-align: center;"><a href="./Helena-Blavatsky.html">Helena Blavatsky</a></td>
+    <td style="text-align: center;"><a href="./Hercílio-Maes.html">Hercílio Maes</a></td>
+    <td style="text-align: center;"><a href="./Jerônimo-Mendonça-Ribeiro.html">Jerônimo Mendonça Ribeiro</a></td>
+    <td style="text-align: center;"><a href="./João-Evangelista.html">João Evangelista</a></td>
+    <td style="text-align: center;"><a href="./Júlio-Verne.html">Júlio Verne</a></td>
+    <td style="text-align: center;"><a href="./Mahatma-Gandhi.html">Mahatma Gandhi</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Demiurgo">Demiurgo</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Detsu">Detsu</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Enoque">Enoque</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Eur%C3%ADpedes-Barsanulfo">Eurípedes Barsanulfo</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Exu-Tranca-Ruas-das-Almas">Exu Tranca Ruas das Almas</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/188/Mamon">Mamon</a></td>
+    <td style="text-align: center;"><a href="./Mahavatar-Babaji.html">Mahavatar Babaji</a></td>
+    <td style="text-align: center;"><a href="./Mamon.html">Mamon</a></td>
+    <td style="text-align: center;"><a href="./Martin-Luther-King.html">Martin Luther King</a></td>
+    <td style="text-align: center;"><a href="./Melquisedeque.html">Melquisedeque</a></td>
+    <td style="text-align: center;"><a href="./Mercúrio.html">Mercúrio</a></td>
+    <td style="text-align: center;"><a href="./Mestra-Kuan-Yin.html">Mestra Kuan Yin</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/256/Jer%C3%B4nimo-Mendon%C3%A7a-Ribeiro">Jerônimo Mendonça Ribeiro</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/258/Quimera">Quimera</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/303/George-Vale-Owen">George Vale Owen</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/304/J%C3%BAlio-Verne">Júlio Verne</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/313/Van-e-Amadon">Van e Amadon</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/319/P%C3%BAblio-L%C3%AAntulo">Públio Lêntulo</a></td>
+    <td style="text-align: center;"><a href="./Moisés.html">Moisés</a></td>
+    <td style="text-align: center;"><a href="./Paulo-de-Tarso.html">Paulo de Tarso</a></td>
+    <td style="text-align: center;"><a href="./Pedro-Augusto.html">Pedro Augusto</a></td>
+    <td style="text-align: center;"><a href="./Pegasus-%2D-vronvunsky-(v77006).html">Pegasus - vronvunsky (v77006)</a></td>
+    <td style="text-align: center;"><a href="./Públio-Lêntulo.html">Públio Lêntulo</a></td>
+    <td style="text-align: center;"><a href="./Quimera.html">Quimera</a></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/317/Emanuel">Emmanuel</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/320/Jo%C3%A3o-Evangelista">João Evangelista</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/313/Van-e-Amadon">*****</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/313/Van-e-Amadon">*****</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/313/Van-e-Amadon">*****</a></td>
-    <td style="text-align: center;"><a href="https://dev.azure.com/Universalismo/UC_Osasco/_wiki/wikis/UC-Osasco.wiki/313/Van-e-Amadon">*****</a></td>
-
-
+    <td style="text-align: center;"><a href="./Ramatis.html">Ramatis</a></td>
+    <td style="text-align: center;"><a href="./Rianderenenai.html">Rianderenenai</a></td>
+    <td style="text-align: center;"><a href="./Sananda.html">Sananda</a></td>
+    <td style="text-align: center;"><a href="./Sanat-Kumara.html">Sanat Kumara</a></td>
+    <td style="text-align: center;"><a href="./Sansão.html">Sansão</a></td>
+    <td style="text-align: center;"><a href="./Sidarta-Gautama.html">Sidarta Gautama</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="./São-Maurício.html">São Maurício</a></td>
+    <td style="text-align: center;"><a href="./Thevetat.html">Thevetat</a></td>
+    <td style="text-align: center;"><a href="./Van-e-Amadon.html">Van e Amadon</a></td>
+    <td style="text-align: center;"><a href="./Zoroastro.html">Zoroastro</a></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
-
 
 
