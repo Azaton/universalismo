@@ -2,6 +2,7 @@
 title: "Aúra Masda"
 nav_order: 7
 parent: "Personagens"
+nav_exclude: true
 ---
 
 No Zoroastrismo, uma das mais antigas religiões monoteístas do mundo, Ahura Mazda (às vezes grafado "Aúra-Masda" em português) é o deus supremo. O Zoroastrismo foi fundado por Zaratustra (ou Zoroastro, como é conhecido no Ocidente) no antigo Império Persa.

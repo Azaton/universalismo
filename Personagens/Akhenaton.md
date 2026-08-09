@@ -2,6 +2,7 @@
 title: "Akhenaton"
 nav_order: 1
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Akenaton (também escrito Akhenaton, Akhenaten ou Ikhnaton) foi um faraó do Antigo Egito da XVIII Dinastia que reinou de c. 1353-1336 a.C. Ele é particularmente notável por suas tentativas revolucionárias de introduzir o monoteísmo no Egito.

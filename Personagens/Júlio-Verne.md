@@ -2,6 +2,7 @@
 title: "Júlio Verne"
 nav_order: 23
 parent: "Personagens"
+nav_exclude: true
 ---
 
 https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne

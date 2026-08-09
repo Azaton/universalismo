@@ -2,6 +2,7 @@
 title: "João Evangelista"
 nav_order: 22
 parent: "Personagens"
+nav_exclude: true
 ---
 
 João Evangelista, também conhecido como São João, é uma das figuras mais importantes do Novo Testamento cristão. Ele é tradicionalmente identificado como o autor de várias obras do Novo Testamento, incluindo o Evangelho de João, três Epístolas (1 João, 2 João, e 3 João) e o livro do Apocalipse, embora a autoria desses textos seja um tema de debate acadêmico.

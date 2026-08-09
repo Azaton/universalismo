@@ -2,6 +2,7 @@
 title: "Van e Amadon"
 nav_order: 45
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Sim, de acordo com o Livro de Urântia, Van e Amadon são descritos como seres supra-humanos. Eles são apresentados como leais administradores e seguidores do governo universal, que permaneceram fiéis ao governo divino durante a rebelião de Lucifer e a subsequente traição de Caligástia na Terra (Urântia).

@@ -2,6 +2,7 @@
 title: "Públio Lêntulo"
 nav_order: 35
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Públio Lêntulo (em latim: Publius Lentulus), é um personagem citado no livro Há Dois Mil Anos, do médium mineiro Chico Xavier. Na obra escrita por Xavier, Lentulo teria sido um senador romano que viveu na Galileia à época de Jesus Cristo.[1]

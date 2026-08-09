@@ -2,6 +2,7 @@
 title: "Alan Kardec"
 nav_order: 2
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Alan Kardec é o pseudônimo de Hippolyte Léon Denizard Rivail (1804-1869), educador francês conhecido por codificar o espiritismo, também referido em muitos lugares como "Doutrina Espírita". Ele é uma figura central na história do espiritismo, e sua obra influenciou profundamente o desenvolvimento do movimento espírita em todo o mundo, especialmente no Brasil. Aqui estão os pontos-chave da sua vida:

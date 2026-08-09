@@ -2,6 +2,7 @@
 title: "Eurípedes Barsanulfo"
 nav_order: 15
 parent: "Personagens"
+nav_exclude: true
 ---
 
 [Eurípedes Barsanulfo](https://pt.wikipedia.org/wiki/Eur%C3%ADpedes_Barsanulfo) foi um importante educador, político e médium espírita brasileiro, nascido em 1 de maio de 1880 em Sacramento, Minas Gerais, Brasil, e falecido em 1 de novembro de 1918. Ele é especialmente conhecido por seu trabalho na educação e por suas contribuições ao movimento espírita brasileiro. Barsanulfo foi um contemporâneo de Chico Xavier e outros grandes nomes do espiritismo no Brasil.

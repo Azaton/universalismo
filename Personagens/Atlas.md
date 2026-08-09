@@ -2,6 +2,7 @@
 title: "Atlas"
 nav_order: 4
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Atlas foi o líder da raça vermelha, uma das sete sub-raças da raça-raiz de Atlântida. A raça vermelha teria vivido no continente de Atlântida, e Atlas teria sido um de seus reis mais ilustres.

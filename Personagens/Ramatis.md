@@ -2,6 +2,7 @@
 title: "Ramatis"
 nav_order: 37
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Ramatis é uma figura espiritual associada ao espiritismo e a algumas correntes esotéricas no Brasil e em outros países da América Latina. Ele é descrito por vários médiuns como um espírito guia ou mestre que oferece ensinamentos sobre moral, evolução espiritual, reencarnação e outros tópicos relacionados à espiritualidade. Aqui estão os pontos principais associados a Ramatis:

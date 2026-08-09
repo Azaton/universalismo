@@ -2,6 +2,7 @@
 title: "Melquisedeque"
 nav_order: 28
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Melquisedeque é uma figura enigmática mencionada na Bíblia Hebraica, particularmente no livro de Gênesis, e também é referenciado no Novo Testamento e em outros textos judaicos e cristãos. Ele tem sido objeto de muita especulação, interpretação e reverência ao longo dos séculos. Aqui estão os principais pontos sobre Melquisedeque:

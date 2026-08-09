@@ -2,6 +2,7 @@
 title: "Mercúrio"
 nav_order: 29
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Hermes e Mercúrio são deidades equivalentes em duas diferentes tradições mitológicas. Hermes é uma figura da mitologia grega, enquanto Mercúrio pertence à mitologia romana.

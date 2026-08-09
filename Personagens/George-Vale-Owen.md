@@ -2,6 +2,7 @@
 title: "George Vale Owen"
 nav_order: 18
 parent: "Personagens"
+nav_exclude: true
 ---
 
 https://pt.wikipedia.org/wiki/George_Vale_Owen

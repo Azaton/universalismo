@@ -2,6 +2,7 @@
 title: "Mahatma Gandhi"
 nav_order: 24
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Parece haver um erro de digitação na sua questão. Acredito que você esteja se referindo a Mahatma Gandhi.

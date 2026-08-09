@@ -2,6 +2,7 @@
 title: "Sanat Kumara"
 nav_order: 40
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Sanat Kumara é uma figura espiritual mencionada em várias tradições teosóficas, bem como em algumas tradições do esoterismo e da Nova Era. Suas origens e descrições variam, mas há algumas características comuns associadas a ele em muitas tradições:

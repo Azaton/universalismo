@@ -2,6 +2,7 @@
 title: "Jerônimo Mendonça Ribeiro"
 nav_order: 21
 parent: "Personagens"
+nav_exclude: true
 ---
 
 # Jerônimo Mendonça Ribeiro

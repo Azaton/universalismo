@@ -2,6 +2,7 @@
 title: "Ashtar Sheran"
 nav_order: 3
 parent: "Personagens"
+nav_exclude: true
 ---
 
 "[Ashtar Sheran](https://pt.wikipedia.org/wiki/Ashtar_Sheran)" ou "Comando Ashtar" é um nome associado à crença em seres extraterrestres e espiritualidade. De acordo com alguns grupos e indivíduos, Ashtar Sheran é o nome do comandante de uma frota de naves espaciais que orbita a Terra, com a missão de proteger a humanidade e ajudar na sua evolução espiritual. Este conceito combina crenças ufológicas com espiritualidade e tem suas raízes no movimento de contato com extraterrestres que começou na década de 1950.

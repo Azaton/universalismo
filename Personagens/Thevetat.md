@@ -2,6 +2,7 @@
 title: "Thevetat"
 nav_order: 44
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Thevetat (às vezes escrito Thevetat, Thévetat ou Tevetat) é um nome que surge em algumas tradições esotéricas, particularmente aquelas associadas à Teosofia, uma doutrina espiritualista estabelecida no final do século 19 por Helena Blavatsky e outros. No contexto teosófico, Thevetat é frequentemente descrito como um ser ou entidade associado à "queda" espiritual ou à degeneração.

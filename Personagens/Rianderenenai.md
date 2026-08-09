@@ -2,6 +2,7 @@
 title: "Rianderenenai"
 nav_order: 38
 parent: "Personagens"
+nav_exclude: true
 ---
 
 **Linhagem espiritual:** primeira encarnação registrada na linhagem de Pedro Augusto, seguida por Enki.

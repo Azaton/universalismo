@@ -2,6 +2,7 @@
 title: "Sidarta Gautama"
 nav_order: 43
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Sidarta Gautama, mais conhecido como Buda, foi o fundador do budismo. Sua vida é tradicionalmente datada de cerca de 563 a.C. a 483 a.C., embora datas exatas variem conforme as fontes. A narrativa tradicional de sua vida é repleta de lendas e simbolismo, mas abaixo estão os pontos-chave frequentemente aceitos sobre sua trajetória:

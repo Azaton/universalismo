@@ -2,6 +2,7 @@
 title: "Sansão"
 nav_order: 41
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Sansão é uma figura bíblica encontrada no Livro de Juízes, nos capítulos 13 a 16. Ele é conhecido por sua força sobre-humana, concedida por Deus, e pelas narrativas em que batalha contra os filisteus, um dos inimigos dos israelitas. Aqui estão os pontos principais sobre Sansão:

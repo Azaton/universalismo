@@ -2,6 +2,7 @@
 title: "Hercílio Maes"
 nav_order: 20
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Hercílio Maes foi um importante médium brasileiro, mais conhecido por seus trabalhos psicografados sob a orientação do espírito Ramatís. Aqui estão alguns pontos chaves sobre sua vida e trabalho:

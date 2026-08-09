@@ -2,6 +2,7 @@
 title: "Ezequiel"
 nav_order: 17
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Ezequiel é um profeta bíblico, autor do Livro de Ezequiel no Antigo Testamento. Sacerdote judeu levado ao cativeiro na Babilônia, é conhecido por visões marcantes — como a "roda dentro da roda" e o vale dos ossos secos — e por mensagens de julgamento e restauração dirigidas ao povo de Israel durante o exílio.

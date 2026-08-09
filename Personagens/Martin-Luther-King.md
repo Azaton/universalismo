@@ -2,6 +2,7 @@
 title: "Martin Luther King"
 nav_order: 27
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Martin Luther King Jr. (1929-1968) foi um pastor batista e líder de direitos civis americano que desempenhou um papel crucial na luta contra a segregação racial nos Estados Unidos, principalmente nos anos 1950 e 1960. Ele é mais conhecido por sua defesa da não violência e da resistência civil inspirada pelas crenças cristãs e pela filosofia de desobediência civil não violenta de Mahatma Gandhi.

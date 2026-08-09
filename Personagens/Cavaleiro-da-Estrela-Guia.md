@@ -2,6 +2,7 @@
 title: "Cavaleiro da Estrela Guia"
 nav_order: 8
 parent: "Personagens"
+nav_exclude: true
 ---
 
 **Linhagem espiritual:** oitava encarnação registrada na linhagem de Pedro Augusto — sucede Sansão e precede Alan Kardec.

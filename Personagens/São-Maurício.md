@@ -2,6 +2,7 @@
 title: "São Maurício"
 nav_order: 42
 parent: "Personagens"
+nav_exclude: true
 ---
 
 # Introdução

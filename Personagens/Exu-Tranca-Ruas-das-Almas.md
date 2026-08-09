@@ -2,6 +2,7 @@
 title: "Exu Tranca Ruas das Almas"
 nav_order: 16
 parent: "Personagens"
+nav_exclude: true
 ---
 
 # Exu Tranca Ruas das Almas

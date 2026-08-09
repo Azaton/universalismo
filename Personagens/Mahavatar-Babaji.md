@@ -2,6 +2,7 @@
 title: "Mahavatar Babaji"
 nav_order: 25
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Mahavatar Babaji é um mestre iogue descrito como imortal na tradição do Kriya Yoga, ficando conhecido no Ocidente principalmente através de *Autobiografia de um Iogue*, de Paramahansa Yogananda (ver `Livros/Autobiografia-de-um-Iogue.md`). É apresentado como o guru que revelou o Kriya Yoga a Lahiri Mahasaya, permanecendo, segundo essa tradição, em contato discreto com discípulos ao longo dos séculos sem envelhecer nem morrer.

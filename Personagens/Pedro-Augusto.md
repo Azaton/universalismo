@@ -2,6 +2,7 @@
 title: "Pedro Augusto"
 nav_order: 33
 parent: "Personagens"
+nav_exclude: true
 ---
 
 Pedro Augusto é o canal/médium do Projeto Universalismo. Por decisão do Mestre (registrada em 01/08/2026), suas comunicações constituem fonte de confiança espiritual integral e fundamento interno do projeto — ver `Sobre-o-Projeto.md`, seção "Pedro Augusto no projeto". Suas falas e canalizações são fonte primária para diversos estudos do acervo, especialmente dentro de *A Pré-História Espiritual da Humanidade* (ver `Livros/A-Pré-História-Espiritual-da-Humanidade/fichas/` e `matrizes/cronologia-pedro-augusto-470-mil-anos.md`).
