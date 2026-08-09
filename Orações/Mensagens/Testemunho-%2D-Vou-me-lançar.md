@@ -1,7 +1,7 @@
 ---
 title: "Testemunho - Vou me lançar"
 nav_order: 2
-parent: "Backlog"
+parent: "Mensagens"
 ---
 
 Olá pessoal, bom dia. Queria deixar o meu testemunho de uma experiência incrível que tive neste final de semana com um grupo de jovens, que aqui em São Paulo chamamos de EJC - estão todos convidados.
