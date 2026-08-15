@@ -19,7 +19,8 @@ aux_links_new_tab: true
 
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
-footer_content: "Projeto Universalismo — pesquisa comparativa, discernimento e desenvolvimento interior."
+# footer_content está deprecado no Just the Docs; o texto do rodapé e o bloco
+# de colaboração agora vivem em _includes/footer_custom.html.
 
 exclude:
   - tools

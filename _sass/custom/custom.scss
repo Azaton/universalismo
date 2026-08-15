@@ -1,4 +1,6 @@
-// Homepage-only components (eixos, pills, cards, refs, footnote).
+// Homepage components (eixos, pills, cards, refs, footnote) and the
+// site-wide footer (contribute, site-footer-text — used on every page via
+// _includes/footer_custom.html).
 // Colors are hardcoded to mirror _sass/color_schemes/dark.scss from
 // just-the-docs/just-the-docs, since this site is pinned to color_scheme: dark
 // in _config.yml and these values must not depend on SCSS variable scope/order.
@@ -168,7 +170,56 @@ $u-accent-2: #4f96fb; // blue-000, lightened (matches $link-color in dark.scss)
 }
 
 // Hide the theme's own "This site uses Just the Docs..." attribution line;
-// footer_content in _config.yml already provides our own footer text.
+// footer_custom.html already provides our own footer text.
 footer .d-md-none {
   display: none;
+}
+
+.contribute {
+  margin-top: 32px;
+  padding: 16px 18px;
+  border-radius: 10px;
+  background: $u-card-bg;
+  border: 1px solid $u-border;
+
+  .contribute-title {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: $u-heading;
+    margin: 0 0 4px;
+  }
+
+  p {
+    font-size: 0.82rem;
+    line-height: 1.55;
+    color: $u-muted;
+    margin: 0 0 10px;
+  }
+}
+
+.contribute-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: $u-accent;
+  text-decoration: none;
+  border: 1px solid $u-accent;
+  border-radius: 8px;
+  padding: 6px 14px;
+
+  &:hover {
+    background: $u-accent-soft;
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $u-accent;
+    outline-offset: 2px;
+  }
+}
+
+.site-footer-text {
+  margin-top: 14px;
+  font-size: 0.78rem;
+  color: $u-muted;
 }

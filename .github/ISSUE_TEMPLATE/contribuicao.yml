@@ -1,0 +1,44 @@
+name: Pergunta ou contribuição
+description: Faça uma pergunta, sugira uma fonte ou aponte algo para a pesquisa do Projeto Universalismo.
+title: "[Contribuição] "
+labels: ["contribuicao"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por contribuir com o Projeto Universalismo. Esta contribuição vira uma entrada para pesquisa e curadoria — ela não altera o site automaticamente.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que você deseja fazer?
+      options:
+        - Fazer uma pergunta
+        - Sugerir uma fonte
+        - Complementar um estudo
+        - Sugerir uma correção
+        - Sugerir um novo tema
+    validations:
+      required: true
+  - type: textarea
+    id: contribuicao
+    attributes:
+      label: Sua pergunta ou contribuição
+      description: Escreva com o máximo de contexto que puder.
+      placeholder: "Por exemplo: encontrei uma fonte que menciona..."
+    validations:
+      required: true
+  - type: input
+    id: pagina
+    attributes:
+      label: Página relacionada
+      description: Preenchido automaticamente quando você chega pelo botão "Perguntar ou contribuir" de uma página do site.
+      placeholder: "https://azaton.github.io/universalismo/..."
+    validations:
+      required: false
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte ou referência (opcional)
+      placeholder: "Livro, autor, vídeo, artigo, link..."
+    validations:
+      required: false
