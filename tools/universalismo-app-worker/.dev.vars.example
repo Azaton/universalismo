@@ -1,0 +1,10 @@
+# Copie para .dev.vars (arquivo IGNORADO pelo git) e preencha com os valores
+# reais antes de rodar `npm run dev`. Nunca commitar .dev.vars nem a chave
+# .pem original. Ver README.md deste diretório para como obter cada valor.
+
+GITHUB_APP_ID=""
+GITHUB_INSTALLATION_ID=""
+# Cole o conteúdo INTEIRO do .pem (formato PKCS#8, "BEGIN PRIVATE KEY"),
+# com \n literais entre as linhas se colar como uma linha só.
+GITHUB_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----"
+TURNSTILE_SECRET=""

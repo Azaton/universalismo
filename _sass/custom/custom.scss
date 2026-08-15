@@ -223,3 +223,76 @@ footer .d-md-none {
   font-size: 0.78rem;
   color: $u-muted;
 }
+
+// Formulário público de contribuição (contribuir.md).
+.contribute-context {
+  font-size: 0.9rem;
+  color: $u-muted;
+  margin: -4px 0 20px;
+}
+
+#form-contribuir {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 40rem;
+
+  .campo {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: $u-heading;
+  }
+
+  input[type="text"],
+  select,
+  textarea {
+    background: $u-card-bg;
+    border: 1px solid $u-border;
+    border-radius: 8px;
+    padding: 9px 12px;
+    color: $u-body;
+    font-size: 0.9rem;
+    font-family: inherit;
+
+    &:focus-visible {
+      outline: 2px solid $u-accent;
+      outline-offset: 1px;
+    }
+  }
+
+  textarea {
+    resize: vertical;
+    min-height: 120px;
+  }
+
+  button[type="submit"] {
+    align-self: flex-start;
+    font: inherit;
+    cursor: pointer;
+    background: $u-accent-soft;
+
+    &:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+  }
+
+  #contribuir-status {
+    font-size: 0.85rem;
+    margin: 0;
+
+    &.sucesso {
+      color: $u-accent-2;
+    }
+
+    &.erro {
+      color: #f47174;
+    }
+  }
+}

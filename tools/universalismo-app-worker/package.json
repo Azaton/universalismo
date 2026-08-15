@@ -1,0 +1,14 @@
+{
+  "name": "universalismo-app-worker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ponte serverless entre o formulário público de contribuição do Projeto Universalismo e a GitHub App que cria Issues em Azaton/universalismo.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3"
+  }
+}

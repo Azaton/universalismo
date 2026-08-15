@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "universalismo-app-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2025-01-01",
+  "vars": {
+    "ALLOWED_ORIGIN": "https://azaton.github.io",
+    "GITHUB_REPO": "Azaton/universalismo"
+  }
+  // Secrets (GITHUB_APP_ID, GITHUB_INSTALLATION_ID, GITHUB_PRIVATE_KEY,
+  // TURNSTILE_SECRET) NÃO ficam aqui — ver README.md para configurá-los
+  // com `wrangler secret put` (produção) ou .dev.vars (desenvolvimento).
+}

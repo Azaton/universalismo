@@ -4,3 +4,10 @@ _site/
 .jekyll-metadata
 .bundle/
 vendor/
+
+# tools/universalismo-app-worker/ (Cloudflare Worker) — nunca versionar
+# segredos nem dependências instaladas.
+tools/universalismo-app-worker/node_modules/
+tools/universalismo-app-worker/.wrangler/
+tools/universalismo-app-worker/.dev.vars
+tools/universalismo-app-worker/*.pem
