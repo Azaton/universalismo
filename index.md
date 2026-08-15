@@ -96,7 +96,7 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
     <div class="card-title">Umbanda</div>
     <p>Estudos sobre tradições, entidades e práticas afro-brasileiras.</p>
   </a>
-  <a class="card" href="{% link Perguntas-e-Respostas.md %}">
+  <a class="card" href="{% link Outros/Perguntas-e-Respostas.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M9.5 9.3c.3-1.5 1.5-2.3 2.7-2.3 1.4 0 2.6.9 2.6 2.3 0 1.7-2.6 1.9-2.6 4.2" stroke-linecap="round"/><circle cx="12" cy="16.3" r=".25" fill="currentColor"/></svg></span>
     <div class="card-title">Perguntas e Respostas</div>
     <p>Questões pontuais registradas ao longo da pesquisa.</p>

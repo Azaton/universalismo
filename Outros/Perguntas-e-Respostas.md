@@ -1,5 +1,5 @@
 ---
-title: "Perguntas e Respostas — Universalismo"
+title: "Perguntas e Respostas"
 nav_order: 10
 ---
 
