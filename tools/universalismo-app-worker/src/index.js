@@ -148,8 +148,12 @@ async function verifyTurnstile(token, env, request) {
     return false;
   }
   const result = await res.json();
-  if (!result.success) console.error("Turnstile falhou", JSON.stringify(result));
-  return result.success === true;
+  const expectedHostname = new URL(env.ALLOWED_ORIGIN || "https://azaton.github.io").hostname;
+  if (!result.success || result.hostname !== expectedHostname) {
+    console.error("Turnstile falhou", JSON.stringify(result));
+    return false;
+  }
+  return true;
 }
 
 // ---------------------------------------------------------------------------
@@ -277,13 +281,16 @@ function buildTitle(data) {
 }
 
 function buildBody(data) {
+  const paginaRelacionada = data.pagina && data.paginaUrl
+    ? `[${data.pagina}](${data.paginaUrl})`
+    : data.pagina || "não informada";
+
   const linhas = [
     "Origem: formulário público do Projeto Universalismo",
     "",
     `Tipo: ${data.tipo}`,
     "",
-    `Página relacionada: ${data.pagina || "não informada"}`,
-    `URL da página: ${data.paginaUrl || "não informada"}`,
+    `**Página relacionada:** ${paginaRelacionada}`,
     "",
     "Contribuição:",
     data.contribuicao,

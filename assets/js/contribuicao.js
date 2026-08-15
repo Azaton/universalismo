@@ -18,9 +18,19 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("paginaUrl").value = paginaUrl;
 
   const contexto = document.getElementById("contribuir-contexto");
-  contexto.textContent = pagina
-    ? `Você está contribuindo com: ${pagina}`
-    : "Sua contribuição não está associada a uma página específica.";
+  if (pagina) {
+    contexto.textContent = "Você está contribuindo com: ";
+    if (paginaUrl) {
+      const link = document.createElement("a");
+      link.href = paginaUrl;
+      link.textContent = pagina;
+      contexto.appendChild(link);
+    } else {
+      contexto.appendChild(document.createTextNode(pagina));
+    }
+  } else {
+    contexto.textContent = "Sua contribuição não está associada a uma página específica.";
+  }
 
   const form = document.getElementById("form-contribuir");
   const status = document.getElementById("contribuir-status");

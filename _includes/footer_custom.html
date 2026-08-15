@@ -5,14 +5,16 @@
   via Worker + GitHub App — o visitante não precisa de conta no GitHub. A
   página de origem é passada por query string e pré-preenchida pelo formulário.
 -->
-{% assign pagina_encoded = page.title | url_encode %}
-{% assign url_encoded = page.url | absolute_url | url_encode %}
-{% assign contribuir_href = "/contribuir.html?pagina=" | append: pagina_encoded | append: "&url=" | append: url_encoded | relative_url %}
+{% unless page.url == "/contribuir.html" %}
+  {% assign pagina_encoded = page.title | url_encode %}
+  {% assign url_encoded = page.url | absolute_url | url_encode %}
+  {% assign contribuir_href = "/contribuir.html?pagina=" | append: pagina_encoded | append: "&url=" | append: url_encoded | relative_url %}
 
-<div class="contribute">
-  <p class="contribute-title">Contribua com este estudo</p>
-  <p>Tem uma pergunta, encontrou outra fonte ou percebeu algo que merece ser investigado?</p>
-  <a class="contribute-link" href="{{ contribuir_href }}">Perguntar ou contribuir</a>
-</div>
+  <div class="contribute">
+    <p class="contribute-title">Contribua com este estudo</p>
+    <p>Tem uma pergunta, encontrou outra fonte ou percebeu algo que merece ser investigado?</p>
+    <a class="contribute-link" href="{{ contribuir_href }}">Perguntar ou contribuir</a>
+  </div>
+{% endunless %}
 
 <div class="site-footer-text">Projeto Universalismo — pesquisa comparativa, discernimento e desenvolvimento interior.</div>
