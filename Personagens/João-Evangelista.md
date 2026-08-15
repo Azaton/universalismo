@@ -1,6 +1,6 @@
 ---
 title: "João Evangelista"
-nav_order: 22
+nav_order: 28
 parent: "Personagens"
 nav_exclude: true
 ---

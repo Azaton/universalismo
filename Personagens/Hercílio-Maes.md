@@ -1,6 +1,6 @@
 ---
 title: "Hercílio Maes"
-nav_order: 20
+nav_order: 25
 parent: "Personagens"
 nav_exclude: true
 ---

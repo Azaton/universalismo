@@ -1,6 +1,6 @@
 ---
 title: "Enki"
-nav_order: 13
+nav_order: 18
 parent: "Personagens"
 nav_exclude: true
 ---

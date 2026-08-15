@@ -1,6 +1,6 @@
 ---
 title: "Sansão"
-nav_order: 41
+nav_order: 51
 parent: "Personagens"
 nav_exclude: true
 ---

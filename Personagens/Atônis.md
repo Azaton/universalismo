@@ -1,6 +1,6 @@
 ---
 title: "Atônis"
-nav_order: 5
+nav_order: 8
 parent: "Personagens"
 nav_exclude: true
 ---

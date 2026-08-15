@@ -2,8 +2,8 @@
 title: "Sodoma e Gomorra"
 nav_order: 5
 parent: "Povos, Cidades e Civilizações"
-grand_parent: "Estudos"
 ---
+
 # Sodoma e Gomorra
 
 ## 1. Identificação e localização

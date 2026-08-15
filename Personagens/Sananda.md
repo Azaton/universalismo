@@ -1,6 +1,6 @@
 ---
 title: "Sananda"
-nav_order: 39
+nav_order: 49
 parent: "Personagens"
 nav_exclude: true
 ---

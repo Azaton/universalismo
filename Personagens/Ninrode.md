@@ -1,6 +1,6 @@
 ---
 title: "Ninrode"
-nav_order: 55
+nav_order: 38
 parent: "Personagens"
 nav_exclude: true
 ---

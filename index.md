@@ -46,7 +46,7 @@ Para evitar que crença, interpretação e evidência sejam confundidas, os estu
   <span class="pill"><b>Conclusão provisória</b></span>
 </div>
 
-[Conheça a proposta e a metodologia do projeto]({% link Sobre-o-Projeto.md %}).
+[Conheça a proposta e a metodologia do projeto]({{ site.baseurl }}{% link Sobre-o-Projeto.md %}).
 
 ## Visão espiritual
 
@@ -61,42 +61,42 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
 ## Comece por aqui
 
 <div class="cards">
-  <a class="card" href="{% link Sobre-o-Projeto.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Sobre-o-Projeto.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M14.5 9.5l-2 5-5 2 2-5z"/></svg></span>
     <div class="card-title">Sobre o Projeto</div>
     <p>Propósito, obras principais e disciplina epistemológica do acervo.</p>
   </a>
-  <a class="card" href="{% link Livros/Jesus-e-Sua-Trajetória-de-Vida/Ensinamentos-de-Jesus/Ensinamentos-de-Jesus.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Livros/Jesus-e-Sua-Trajetória-de-Vida/Ensinamentos-de-Jesus/Ensinamentos-de-Jesus.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="2.6"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/></svg></span>
     <div class="card-title">Ensinamentos de Jesus</div>
     <p>Textos e reflexões sobre a vida, a fala e o exemplo moral de Jesus.</p>
   </a>
-  <a class="card" href="{% link Estudos/Estudos.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Estudos/Estudos.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 6.5c-1.8-1.3-4.3-1.8-6.5-1.3v12c2.2-.5 4.7 0 6.5 1.3 1.8-1.3 4.3-1.8 6.5-1.3v-12c-2.2-.5-4.7 0-6.5 1.3z"/><path d="M12 6.5v12"/></svg></span>
     <div class="card-title">Estudos</div>
     <p>Cosmologia, mitologia, ciência e espiritualidade comparada que alimentam as obras e o acervo.</p>
   </a>
-  <a class="card" href="{% link Livros/Livros.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Livros/Livros.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="5" y="4" width="3.4" height="16" rx=".6"/><rect x="9.3" y="4" width="3.4" height="16" rx=".6"/><path d="M14.6 5.2l3.2-.9 3.4 15.4-3.2.9z"/></svg></span>
     <div class="card-title">Livros</div>
     <p>Obras autorais em construção, fichas de leitura e fontes bibliográficas do projeto.</p>
   </a>
-  <a class="card" href="{% link Personagens/Personagens.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Personagens/Personagens.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="8" r="3.3"/><path d="M5.5 20c0-3.6 3-6 6.5-6s6.5 2.4 6.5 6"/></svg></span>
     <div class="card-title">Personagens</div>
     <p>Perfis de entidades, mestres e figuras estudadas dentro do acervo.</p>
   </a>
-  <a class="card" href="{% link Orações/Orações.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Orações/Orações.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 21c-2.5 0-4.2-1.7-4.2-4 0-2.4 2.3-4 2.9-6.8.4 1 1.3 1.7 1.3 1.7s.5-3.2-1-5.9c2.6 1 4.9 4 4.9 7.4 0 2.2-1 3.2-1 3.2s2.3-.4 2.3-3c1.1 1.4 1.7 2.6 1.7 3.9 0 2.6-2.5 3.5-4.9 3.5"/></svg></span>
     <div class="card-title">Orações</div>
     <p>Preces e mensagens organizadas por mês e por prática.</p>
   </a>
-  <a class="card" href="{% link Umbanda/Umbanda.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Umbanda/Umbanda.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3c2 3 2 4.5.5 6.5C11 11.3 9 12.6 9 15c0 2.2 1.8 4 4 4"/><path d="M12 3c-2 3-2 4.5-.5 6.5C13 11.3 15 12.6 15 15c0 2.2-1.8 4-4 4"/></svg></span>
     <div class="card-title">Umbanda</div>
     <p>Estudos sobre tradições, entidades e práticas afro-brasileiras.</p>
   </a>
-  <a class="card" href="{% link Outros/Perguntas-e-Respostas.md %}">
+  <a class="card" href="{{ site.baseurl }}{% link Outros/Perguntas-e-Respostas.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M9.5 9.3c.3-1.5 1.5-2.3 2.7-2.3 1.4 0 2.6.9 2.6 2.3 0 1.7-2.6 1.9-2.6 4.2" stroke-linecap="round"/><circle cx="12" cy="16.3" r=".25" fill="currentColor"/></svg></span>
     <div class="card-title">Perguntas e Respostas</div>
     <p>Questões pontuais registradas ao longo da pesquisa.</p>
@@ -106,9 +106,10 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
 ## Em destaque
 
 <div class="refs">
-  <a href="{% link Estudos/Identidades-de-Gênero-e-Homoafetividade/Identidades-de-Gênero-e-Homoafetividade.md %}">Identidades de Gênero e Homoafetividade</a>
-  <a href="{% link Estudos/Povos,-Cidades-e-Civilizações/Povos,-Cidades-e-Civilizações.md %}">Povos, Cidades e Civilizações</a>
-  <a href="{% link Livros/A-Pré-História-Espiritual-da-Humanidade/A-Pré-História-Espiritual-da-Humanidade.md %}">A Pré-História Espiritual da Humanidade</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Identidades-de-Gênero-e-Homoafetividade/Identidades-de-Gênero-e-Homoafetividade.md %}">Identidades de Gênero e Homoafetividade</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Povos,-Cidades-e-Civilizações/Povos,-Cidades-e-Civilizações.md %}">Povos, Cidades e Civilizações</a>
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/A-Pré-História-Espiritual-da-Humanidade.md %}">A Pré-História Espiritual da Humanidade</a>
+  <a href="{{ site.baseurl }}{% link Livros/A-História-Sem-Fim.md %}">A História Sem Fim — Michael Ende</a>
 </div>
 
 ## Referências, comunidades e canais

@@ -1,6 +1,6 @@
 ---
 title: "Detsu"
-nav_order: 11
+nav_order: 16
 parent: "Personagens"
 nav_exclude: true
 ---

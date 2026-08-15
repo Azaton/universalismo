@@ -1,6 +1,6 @@
 ---
 title: "O Monge e o Executivo"
-nav_order: 36
+nav_order: 38
 parent: "Estudos"
 has_children: true
 ---

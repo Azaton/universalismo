@@ -1,6 +1,6 @@
 ---
 title: "Augusto Cury"
-nav_order: 6
+nav_order: 9
 parent: "Personagens"
 nav_exclude: true
 ---

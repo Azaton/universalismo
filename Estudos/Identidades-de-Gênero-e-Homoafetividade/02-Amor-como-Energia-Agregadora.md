@@ -1,8 +1,7 @@
 ---
-title: "Amor como energia agregadora"
+title: "02 Amor como Energia Agregadora"
 nav_order: 2
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Amor como energia agregadora

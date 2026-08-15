@@ -1,6 +1,6 @@
 ---
 title: "Javé"
-nav_order: 51
+nav_order: 26
 parent: "Personagens"
 nav_exclude: true
 ---

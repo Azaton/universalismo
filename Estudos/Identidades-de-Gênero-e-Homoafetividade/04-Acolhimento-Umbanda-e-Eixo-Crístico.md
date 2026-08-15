@@ -1,8 +1,7 @@
 ---
-title: "Acolhimento, Umbanda e eixo crístico"
+title: "04 Acolhimento Umbanda e Eixo Crístico"
 nav_order: 4
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Acolhimento, Umbanda e eixo crístico

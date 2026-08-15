@@ -1,6 +1,6 @@
 ---
 title: "Helena Blavatsky"
-nav_order: 19
+nav_order: 24
 parent: "Personagens"
 nav_exclude: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Noé"
-nav_order: 52
+nav_order: 39
 parent: "Personagens"
 nav_exclude: true
 ---

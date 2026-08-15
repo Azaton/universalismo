@@ -1,6 +1,6 @@
 ---
-title: "Pretos Velhos: amor, caridade e acolhimento"
-nav_order: 6
+title: "Pretos Velhos Amor Caridade e Acolhimento"
+nav_order: 4
 parent: "Umbanda"
 ---
 

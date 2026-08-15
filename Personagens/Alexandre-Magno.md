@@ -1,6 +1,6 @@
 ---
 title: "Alexandre Magno"
-nav_order: 53
+nav_order: 4
 parent: "Personagens"
 nav_exclude: true
 ---

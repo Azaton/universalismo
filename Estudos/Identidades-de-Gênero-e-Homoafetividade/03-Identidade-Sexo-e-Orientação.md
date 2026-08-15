@@ -1,8 +1,7 @@
 ---
-title: "Identidade, sexo e orientação"
+title: "03 Identidade Sexo e Orientação"
 nav_order: 3
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Identidade, sexo e orientação

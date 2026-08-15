@@ -2,7 +2,6 @@
 title: "A Descendência de Noé e a Tabela das Nações"
 nav_order: 1
 parent: "Povos, Cidades e Civilizações"
-grand_parent: "Estudos"
 ---
 
 # A descendência de Noé e a Tabela das Nações

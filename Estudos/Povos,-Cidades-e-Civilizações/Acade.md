@@ -2,7 +2,6 @@
 title: "Acade"
 nav_order: 2
 parent: "Povos, Cidades e Civilizações"
-grand_parent: "Estudos"
 ---
 
 # Acade

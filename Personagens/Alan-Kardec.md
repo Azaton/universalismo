@@ -1,6 +1,6 @@
 ---
 title: "Alan Kardec"
-nav_order: 2
+nav_order: 3
 parent: "Personagens"
 nav_exclude: true
 ---

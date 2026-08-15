@@ -1,8 +1,7 @@
 ---
-title: "Exemplos históricos apresentados"
+title: "05 Exemplos Históricos"
 nav_order: 5
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Exemplos históricos apresentados

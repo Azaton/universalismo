@@ -1,8 +1,7 @@
 ---
-title: "Fontes, limites e questões abertas"
+title: "07 Fontes Limites e Questões Abertas"
 nav_order: 7
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Fontes, limites e questões abertas

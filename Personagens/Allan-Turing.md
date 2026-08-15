@@ -1,6 +1,6 @@
 ---
 title: "Allan Turing"
-nav_order: 54
+nav_order: 5
 parent: "Personagens"
 nav_exclude: true
 ---

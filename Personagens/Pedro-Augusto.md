@@ -1,6 +1,6 @@
 ---
 title: "Pedro Augusto"
-nav_order: 33
+nav_order: 43
 parent: "Personagens"
 nav_exclude: true
 ---

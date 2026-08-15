@@ -1,6 +1,6 @@
 ---
 title: "Atlas"
-nav_order: 4
+nav_order: 7
 parent: "Personagens"
 nav_exclude: true
 ---

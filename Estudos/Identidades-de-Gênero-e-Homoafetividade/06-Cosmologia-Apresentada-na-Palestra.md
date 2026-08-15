@@ -1,8 +1,7 @@
 ---
-title: "Cosmologia apresentada na palestra"
+title: "06 Cosmologia Apresentada na Palestra"
 nav_order: 6
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Cosmologia apresentada na palestra

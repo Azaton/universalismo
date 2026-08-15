@@ -2,7 +2,6 @@
 title: "A Guerra dos Deuses e o Holocausto Nuclear"
 nav_order: 1
 parent: "Guerras, Cataclismos e Intervenções"
-grand_parent: "Estudos"
 ---
 
 # A Guerra dos Deuses e o Holocausto Nuclear

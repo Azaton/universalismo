@@ -1,6 +1,6 @@
 ---
 title: "Pandora"
-nav_order: 49
+nav_order: 41
 parent: "Personagens"
 nav_exclude: true
 ---

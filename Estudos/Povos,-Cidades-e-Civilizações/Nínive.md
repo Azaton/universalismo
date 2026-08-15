@@ -2,7 +2,6 @@
 title: "Nínive"
 nav_order: 4
 parent: "Povos, Cidades e Civilizações"
-grand_parent: "Estudos"
 ---
 
 # Nínive

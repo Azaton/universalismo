@@ -2,7 +2,6 @@
 title: "Acádios, Assírios, Babilônicos e Caldeus"
 nav_order: 6
 parent: "Povos, Cidades e Civilizações"
-grand_parent: "Estudos"
 ---
 
 # Acádios, Assírios, Babilônicos e Caldeus

@@ -2,7 +2,6 @@
 title: "Babel e Babilônia"
 nav_order: 3
 parent: "Povos, Cidades e Civilizações"
-grand_parent: "Estudos"
 ---
 
 # Babel e Babilônia

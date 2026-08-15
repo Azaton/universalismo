@@ -1,8 +1,7 @@
 ---
-title: "Diversidade como expressão espiritual"
+title: "01 Diversidade como Expressão Espiritual"
 nav_order: 1
 parent: "Identidades de Gênero e Homoafetividade"
-grand_parent: "Estudos"
 ---
 
 # Diversidade como expressão espiritual

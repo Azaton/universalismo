@@ -1,7 +1,7 @@
 ---
 title: "Abel"
 description: "Abel, filho de Adão e Eva segundo Gênesis 4, e a leitura espiritual apresentada na obra de Jan Val Ellam."
-nav_order: 57
+nav_order: 1
 parent: "Personagens"
 nav_exclude: true
 ---

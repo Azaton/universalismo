@@ -1,6 +1,6 @@
 ---
 title: "Martin Luther King"
-nav_order: 27
+nav_order: 33
 parent: "Personagens"
 nav_exclude: true
 ---

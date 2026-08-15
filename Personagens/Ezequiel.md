@@ -1,6 +1,6 @@
 ---
 title: "Ezequiel"
-nav_order: 17
+nav_order: 22
 parent: "Personagens"
 nav_exclude: true
 ---

@@ -5,6 +5,24 @@ _site/
 .bundle/
 vendor/
 
+# O repositório público contém apenas conteúdo do site. Acervos e livros
+# protegidos por direitos autorais permanecem fora do Git.
+*.pdf
+*.PDF
+*.epub
+*.EPUB
+*.mobi
+*.MOBI
+*.azw
+*.AZW
+*.azw3
+*.AZW3
+*.zip
+*.ZIP
+*.rar
+*.RAR
+*.7z
+
 # tools/universalismo-app-worker/ (Cloudflare Worker) — nunca versionar
 # segredos nem dependências instaladas.
 tools/universalismo-app-worker/node_modules/

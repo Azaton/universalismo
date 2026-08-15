@@ -1,6 +1,6 @@
 ---
 title: "Emanuel"
-nav_order: 12
+nav_order: 17
 parent: "Personagens"
 nav_exclude: true
 ---

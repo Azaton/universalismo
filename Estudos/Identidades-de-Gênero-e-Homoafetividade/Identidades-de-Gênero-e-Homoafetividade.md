@@ -1,6 +1,6 @@
 ---
 title: "Identidades de Gênero e Homoafetividade"
-nav_order: 49
+nav_order: 29
 parent: "Estudos"
 has_children: true
 ---
