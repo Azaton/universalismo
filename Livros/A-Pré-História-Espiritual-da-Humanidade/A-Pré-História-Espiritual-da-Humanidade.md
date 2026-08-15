@@ -144,7 +144,7 @@ Essas camadas podem dialogar, mas não devem ser confundidas ou fundidas sem jus
 
 A criação e revisão dos capítulos seguem:
 
-1. `../../../commands/producao-capitulos.md`;
+1. `../../../commands/playbooks/producao-capitulos.md`;
 2. `../../../.agents/skills/escrita-historico-espiritual-comparativa/SKILL.md`;
 3. `sumario-editorial.md`;
 4. `criterios-de-pronto-capitulo.md`;

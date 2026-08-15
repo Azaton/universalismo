@@ -69,7 +69,7 @@ Copie sua estrutura, crie o novo arquivo numerado nesta pasta e desenvolva nele 
 
 ## Fluxo obrigatório
 
-1. consultar `../../../../commands/producao-capitulos.md`;
+1. consultar `../../../../commands/playbooks/producao-capitulos.md`;
 2. aplicar `../../../../.agents/skills/escrita-historico-espiritual-comparativa/SKILL.md`;
 3. usar o template de `../../../../doc/templates/`;
 4. validar com `../criterios-de-pronto-capitulo.md`;
