@@ -10,76 +10,72 @@ O visitante nunca precisa de conta no GitHub. A Issue aparece criada pela App (e
 
 ## Status
 
-**Código pronto. Ainda não implantado.** Faltam os passos manuais abaixo — nenhum deles pode ser feito por aqui, porque exigem login no GitHub e na Cloudflare com sua conta.
+**Implantado.** GitHub App criada e instalada, secrets configurados, Worker publicado em `https://universalismo-app-worker.mendesx84.workers.dev`, Turnstile configurado e `contribuir.md`/`contribuicao.js` já apontam para os valores reais.
 
-**Enquanto isso não for feito, o botão "Perguntar ou contribuir" do site continua apontando para o GitHub Issue Form antigo** (`_includes/footer_custom.html` não foi alterado) — ele funciona hoje, exige conta GitHub, e só será substituído depois que este Worker estiver implantado e testado.
+**Falta apenas testar de ponta a ponta e então trocar o link em `_includes/footer_custom.html`** — hoje ele ainda aponta para o GitHub Issue Form antigo, que continua funcionando como fallback até a troca ser confirmada.
 
 ## Passo a passo — o que só você pode fazer
 
-### 1. Criar a GitHub App
-
-1. Acesse **github.com → sua foto → Settings → Developer settings → GitHub Apps → New GitHub App**.
-2. Nome sugerido: `Universalismo Contributor` (ou outro nome único no GitHub — precisa ser globalmente único).
-3. Homepage URL: `https://azaton.github.io/universalismo/`.
-4. Webhook: **desmarque "Active"** — não precisamos de webhook nesta primeira versão.
-5. Em **Repository permissions**, defina:
-   - **Issues: Read and write**
-   - Todas as outras permissões: **No access** (a App não deve poder tocar em código, Actions, Pull Requests etc.)
-6. Em "Where can this GitHub App be installed?", escolha **Only on this account**.
-7. Clique em **Create GitHub App**.
-
-### 2. Gerar a chave privada
-
-1. Na página da App recém-criada, role até **Private keys** → **Generate a private key**.
-2. O GitHub baixa um arquivo `.pem` (ex.: `universalismo-contributor.2026-08-15.private-key.pem`). **Esse download só acontece uma vez** — o GitHub não guarda cópia recuperável.
-3. Guarde esse arquivo **fora do repositório**, num lugar seguro do seu computador (nunca dentro de `uc-osasco/` nem de nenhum repositório git).
-4. Anote também o **App ID**, que aparece no topo da página da App.
-
-### 3. Instalar a App no repositório
-
-1. Na página da App, vá em **Install App** (menu lateral).
-2. Instale na conta `Azaton`, escolhendo **Only select repositories** → `universalismo`.
-3. Depois de instalado, pegue o **Installation ID**: abra `https://github.com/settings/installations`, clique na instalação, e veja o número na URL (`.../installations/12345678`) — esse número é o `GITHUB_INSTALLATION_ID`.
-
-### 4. Verificar o formato da chave (PKCS#8)
-
-O código deste Worker espera uma chave no formato **PKCS#8** (`-----BEGIN PRIVATE KEY-----`). Se o `.pem` baixado do GitHub começar com `-----BEGIN RSA PRIVATE KEY-----` (PKCS#1), converta antes:
-
-```bash
-openssl pkcs8 -topk8 -nocrypt -in chave-original.pem -out chave-pkcs8.pem
-```
-
-Use o conteúdo de `chave-pkcs8.pem` no passo seguinte.
-
-### 5. Criar uma conta/site no Cloudflare Turnstile
-
-1. Acesse o painel da Cloudflare → **Turnstile** → **Add site**.
-2. Domínio: `azaton.github.io`.
-3. Copie a **Site Key** (vai para `contribuir.md`, não é secreta) e a **Secret Key** (vai para o Worker como secret, é secreta).
-
-### 6. Configurar os secrets do Worker
-
-Dentro desta pasta (`tools/universalismo-app-worker/`), com [Node.js](https://nodejs.org) e `npm install` já rodados:
-
-```bash
-npx wrangler login
-
-npx wrangler secret put GITHUB_APP_ID
-npx wrangler secret put GITHUB_INSTALLATION_ID
-npx wrangler secret put GITHUB_PRIVATE_KEY   # cole o conteúdo INTEIRO do .pem PKCS#8
-npx wrangler secret put TURNSTILE_SECRET
-```
-
-Para desenvolvimento local, copie `.dev.vars.example` para `.dev.vars` (já ignorado pelo git) e preencha os mesmos quatro valores lá, sem usar `wrangler secret put`.
-
-### 7. Implantar
+O processo foi automatizado ao máximo (scripts em `scripts/`). Você só precisa clicar em duas telas — o resto é feito pelos scripts. Requer [Node.js](https://nodejs.org).
 
 ```bash
 npm install
+npx wrangler login
+```
+
+### 1. Criar a GitHub App (1 clique seu)
+
+```bash
+node scripts/create-github-app.mjs
+```
+
+Isso abre o navegador com o formulário da App já preenchido (nome, permissão única `Issues: Read and write`, webhook desativado). Você só confirma clicando em **Create GitHub App**. O script captura o retorno sozinho, gera o App ID e a chave privada, converte para o formato PKCS#8 exigido pelo Worker e salva tudo em `app-credentials.local.json` (arquivo local, nunca versionado — ver `.gitignore`).
+
+Ao final ele imprime o link para instalar a App no repositório.
+
+### 2. Instalar a App no repositório (1 clique seu)
+
+Abra o link impresso pelo passo anterior (formato `https://github.com/apps/<slug>/installations/new`) e instale em **Only select repositories → universalismo**.
+
+### 3. Terminar a configuração (automático)
+
+```bash
+node scripts/finish-setup.mjs
+```
+
+Esse script encontra sozinho o Installation ID (pergunta ao GitHub em qual instalação a App está) e grava `GITHUB_APP_ID`, `GITHUB_INSTALLATION_ID` e `GITHUB_PRIVATE_KEY` como secrets do Worker via `wrangler secret put`.
+
+Se você tiver um token da Cloudflare com escopo **Turnstile Sites Write** e o Account ID à mão, exporte antes de rodar para também automatizar o Turnstile:
+
+```bash
+export CLOUDFLARE_API_TOKEN="..."
+export CLOUDFLARE_ACCOUNT_ID="..."
+node scripts/finish-setup.mjs
+```
+
+Sem essas variáveis, o script grava os secrets do GitHub normalmente e só imprime o passo manual do Turnstile (painel Cloudflare → Turnstile → Add site → domínio `azaton.github.io` → copiar Secret Key e rodar `npx wrangler secret put TURNSTILE_SECRET`).
+
+Para desenvolvimento local, copie `.dev.vars.example` para `.dev.vars` (já ignorado pelo git) e preencha os mesmos valores lá, sem usar `wrangler secret put`.
+
+### 4. Implantar
+
+```bash
 npx wrangler deploy
 ```
 
 O comando imprime a URL pública do Worker (algo como `https://universalismo-app-worker.<seu-subdomínio>.workers.dev`). Essa URL precisa entrar em `assets/js/contribuicao.js` (constante `WORKER_ENDPOINT`) e a Site Key do Turnstile em `contribuir.md`.
+
+<details>
+<summary>Fluxo manual (caso os scripts não funcionem no seu ambiente)</summary>
+
+1. **github.com → sua foto → Settings → Developer settings → GitHub Apps → New GitHub App**. Nome único, Homepage `https://azaton.github.io/universalismo/`, webhook desmarcado, permissão `Issues: Read and write` (resto `No access`), instalável só nesta conta.
+2. Na página da App: **Private keys → Generate a private key** (baixa um `.pem` uma única vez) e anote o **App ID** no topo da página.
+3. **Install App** → conta `Azaton` → `Only select repositories` → `universalismo`. Depois pegue o Installation ID em `https://github.com/settings/installations` (número no final da URL da instalação).
+4. Se o `.pem` começar com `-----BEGIN RSA PRIVATE KEY-----` (PKCS#1), converta: `openssl pkcs8 -topk8 -nocrypt -in chave-original.pem -out chave-pkcs8.pem`.
+5. Painel Cloudflare → Turnstile → Add site → domínio `azaton.github.io` → copiar Site Key e Secret Key.
+6. `npx wrangler secret put GITHUB_APP_ID` / `GITHUB_INSTALLATION_ID` / `GITHUB_PRIVATE_KEY` / `TURNSTILE_SECRET`.
+
+</details>
 
 ## Depois de implantado
 

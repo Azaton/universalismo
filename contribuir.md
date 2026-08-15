@@ -38,7 +38,7 @@ search_exclude: true
     <input type="text" id="nome" name="nome" maxlength="100" placeholder="Seu nome, ou deixe em branco">
   </div>
 
-  <div id="turnstile-widget" class="cf-turnstile" data-sitekey="TURNSTILE_SITE_KEY_AQUI"></div>
+  <div id="turnstile-widget" class="cf-turnstile" data-sitekey="0x4AAAAAAERFp4c0n76qXBx7"></div>
 
   <input type="hidden" id="pagina" name="pagina">
   <input type="hidden" id="paginaUrl" name="paginaUrl">

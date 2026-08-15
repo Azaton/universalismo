@@ -6,12 +6,8 @@
  * site (ver _includes/footer_custom.html). Envia a contribuição para o
  * Cloudflare Worker (tools/universalismo-app-worker/), que cria a Issue em
  * nome da GitHub App — o visitante nunca precisa de conta no GitHub.
- *
- * PENDENTE DE IMPLANTAÇÃO: WORKER_ENDPOINT abaixo é um placeholder até o
- * Worker ser implantado (ver tools/universalismo-app-worker/README.md).
- * Até lá, este formulário não deve ser linkado a partir do rodapé global.
  */
-const WORKER_ENDPOINT = "WORKER_ENDPOINT_AQUI"; // ex.: https://universalismo-app-worker.<subdominio>.workers.dev
+const WORKER_ENDPOINT = "https://universalismo-app-worker.mendesx84.workers.dev";
 
 document.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
@@ -34,13 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
     event.preventDefault();
     status.textContent = "";
     status.className = "";
-
-    if (WORKER_ENDPOINT.includes("WORKER_ENDPOINT_AQUI")) {
-      status.textContent =
-        "O envio ainda não está disponível: o serviço que recebe as contribuições ainda não foi implantado.";
-      status.className = "erro";
-      return;
-    }
 
     const turnstileToken = getTurnstileToken();
     if (!turnstileToken) {

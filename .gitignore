@@ -11,3 +11,4 @@ tools/universalismo-app-worker/node_modules/
 tools/universalismo-app-worker/.wrangler/
 tools/universalismo-app-worker/.dev.vars
 tools/universalismo-app-worker/*.pem
+tools/universalismo-app-worker/app-credentials.local.json
