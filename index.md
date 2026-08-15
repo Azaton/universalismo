@@ -66,7 +66,7 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
     <div class="card-title">Sobre o Projeto</div>
     <p>Propósito, obras principais e disciplina epistemológica do acervo.</p>
   </a>
-  <a class="card" href="{% link Ensinamentos-de-Jesus/Ensinamentos-de-Jesus.md %}">
+  <a class="card" href="{% link Livros/Jesus-e-Sua-Trajetória-de-Vida/Ensinamentos-de-Jesus/Ensinamentos-de-Jesus.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="2.6"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/></svg></span>
     <div class="card-title">Ensinamentos de Jesus</div>
     <p>Textos e reflexões sobre a vida, a fala e o exemplo moral de Jesus.</p>
