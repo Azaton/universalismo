@@ -82,6 +82,22 @@ Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeam
     <td style="text-align: center;"><a href="./Thevetat.html">Thevetat</a></td>
     <td style="text-align: center;"><a href="./Van-e-Amadon.html">Van e Amadon</a></td>
     <td style="text-align: center;"><a href="./Zoroastro.html">Zoroastro</a></td>
+    <td style="text-align: center;"><a href="./Pai-João-de-Angola.html">Pai João de Angola</a></td>
+    <td style="text-align: center;"><a href="./Despina.html">Despina</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="./Pandora.html">Pandora</a></td>
+    <td style="text-align: center;"><a href="./Zeus.html">Zeus</a></td>
+    <td style="text-align: center;"><a href="./Javé.html">Javé</a></td>
+    <td style="text-align: center;"><a href="./Noé.html">Noé</a></td>
+    <td style="text-align: center;"><a href="./Alexandre-Magno.html">Alexandre Magno</a></td>
+    <td style="text-align: center;"><a href="./Allan-Turing.html">Allan Turing</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="./Ninrode.html">Ninrode</a></td>
+    <td style="text-align: center;"><a href="./Caim.html">Caim</a></td>
+    <td style="text-align: center;"><a href="./Abel.html">Abel</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>

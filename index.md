@@ -103,6 +103,14 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
   </a>
 </div>
 
+## Em destaque
+
+<div class="refs">
+  <a href="{% link Estudos/Identidades-de-Gênero-e-Homoafetividade/Identidades-de-Gênero-e-Homoafetividade.md %}">Identidades de Gênero e Homoafetividade</a>
+  <a href="{% link Estudos/Povos,-Cidades-e-Civilizações/Povos,-Cidades-e-Civilizações.md %}">Povos, Cidades e Civilizações</a>
+  <a href="{% link Livros/A-Pré-História-Espiritual-da-Humanidade/A-Pré-História-Espiritual-da-Humanidade.md %}">A Pré-História Espiritual da Humanidade</a>
+</div>
+
 ## Referências, comunidades e canais
 
 <div class="refs">
