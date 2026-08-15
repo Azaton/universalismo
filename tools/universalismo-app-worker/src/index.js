@@ -143,8 +143,12 @@ async function verifyTurnstile(token, env, request) {
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
     body
   });
-  if (!res.ok) return false;
+  if (!res.ok) {
+    console.error("Turnstile siteverify HTTP falhou", res.status, await res.text());
+    return false;
+  }
   const result = await res.json();
+  if (!result.success) console.error("Turnstile falhou", JSON.stringify(result));
   return result.success === true;
 }
 

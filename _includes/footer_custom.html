@@ -1,19 +1,18 @@
 <!--
   Rodapé de todas as páginas de conteúdo. Substitui footer_content (deprecado
   pelo Just the Docs) e acrescenta o convite de colaboração: um link contextual
-  que abre um GitHub Issue Form (.github/ISSUE_TEMPLATE/contribuicao.yml) já
-  com a página de origem preenchida. Nenhuma contribuição altera o site
-  automaticamente — vira uma Issue para pesquisa e curadoria posterior.
+  para o formulário público de contribuição (contribuir.md), que cria a Issue
+  via Worker + GitHub App — o visitante não precisa de conta no GitHub. A
+  página de origem é passada por query string e pré-preenchida pelo formulário.
 -->
-{% assign page_url_encoded = page.url | absolute_url | url_encode %}
-{% assign issue_title = "[Contribuição] " | append: page.title %}
-{% assign issue_title_encoded = issue_title | url_encode %}
-{% assign issue_url = "https://github.com/Azaton/universalismo/issues/new?template=contribuicao.yml&labels=contribuicao&pagina=" | append: page_url_encoded | append: "&title=" | append: issue_title_encoded %}
+{% assign pagina_encoded = page.title | url_encode %}
+{% assign url_encoded = page.url | absolute_url | url_encode %}
+{% assign contribuir_href = "/contribuir.html?pagina=" | append: pagina_encoded | append: "&url=" | append: url_encoded | relative_url %}
 
 <div class="contribute">
   <p class="contribute-title">Contribua com este estudo</p>
   <p>Tem uma pergunta, encontrou outra fonte ou percebeu algo que merece ser investigado?</p>
-  <a class="contribute-link" href="{{ issue_url }}" target="_blank" rel="noopener">Perguntar ou contribuir</a>
+  <a class="contribute-link" href="{{ contribuir_href }}">Perguntar ou contribuir</a>
 </div>
 
 <div class="site-footer-text">Projeto Universalismo — pesquisa comparativa, discernimento e desenvolvimento interior.</div>

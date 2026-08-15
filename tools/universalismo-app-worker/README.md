@@ -10,9 +10,7 @@ O visitante nunca precisa de conta no GitHub. A Issue aparece criada pela App (e
 
 ## Status
 
-**Implantado.** GitHub App criada e instalada, secrets configurados, Worker publicado em `https://universalismo-app-worker.mendesx84.workers.dev`, Turnstile configurado e `contribuir.md`/`contribuicao.js` já apontam para os valores reais.
-
-**Falta apenas testar de ponta a ponta e então trocar o link em `_includes/footer_custom.html`** — hoje ele ainda aponta para o GitHub Issue Form antigo, que continua funcionando como fallback até a troca ser confirmada.
+**Em produção.** GitHub App criada e instalada, secrets configurados, Worker publicado em `https://universalismo-app-worker.mendesx84.workers.dev`, Turnstile configurado, `contribuir.md`/`contribuicao.js` apontam para os valores reais, e testado de ponta a ponta (Issues #1 e #2 criadas pela App e depois removidas). `_includes/footer_custom.html` já aponta para `/contribuir.html` em todas as páginas do site.
 
 ## Passo a passo — o que só você pode fazer
 
