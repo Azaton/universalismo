@@ -4,55 +4,19 @@ nav_order: 10
 parent: "Orações"
 ---
 
-[Tempo Comum - Vou Cantar Teu Amor](https://www.youtube.com/watch?v=Ozfk52JZuG8)
+Esta canção convida a transformar o amor em presença, serviço, justiça e paz. O vídeo pode ser reproduzido diretamente nesta página.
 
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/Ozfk52JZuG8"
+    title="Tempo Comum - Vou Cantar Teu Amor"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
-Vou cantar Teu amor
-Ser no mundo um farol
-Eis-me aqui, Senhor
-Vem abrir as janelas do meu coração
+[Abrir o vídeo diretamente no YouTube](https://www.youtube.com/watch?v=Ozfk52JZuG8)
 
-E então falarei imitando tua voz
-Creio em Ti, Senhor
-Nas pegadas deixadas por Ti
-Vou andar
-
-_Vou falar do Teu coração
-Com ternura nas mãos e na voz
-Proclamar que a vida é bem mais
-Do que aquilo que o mundo ensina
-E cantar..._
-
-**Cantar um canto ensinado por Deus
-Com poesia ensinar nossa fé
-Plantar o chão, cultivar o amor
-Como poetas que querem sonhar
-Pra realizar o que o mestre ensinou
-Viemos cear, restaurar o coração
-Fonte de vida no altar a brotar
-A nos alimentar**
-
-Celebrar meu viver
-Pra no mundo ser mais
-Faz de mim, Senhor,
-Aprendiz da verdade, justiça e da paz
-
-Comungar Teu viver
-Neste Vinho, neste Pão
-Quero ser, Senhor
-Novo homem nascido do Teu coração
-
-_Vou falar do Teu coração
-Com ternura nas mãos e na voz
-Proclamar que a vida é bem mais
-Do que aquilo que o mundo ensina
-E cantar..._
-
-**Cantar um canto ensinado por Deus
-Com poesia ensinar nossa fé
-Plantar o chão, cultivar o amor
-Como poetas que querem sonhar
-Pra realizar o que o mestre ensinou
-Viemos cear, restaurar o coração
-Fonte de vida no altar a brotar
-A nos alimentar**
+> A letra integral não é reproduzida nesta página. O vídeo permanece como fonte da obra musical e de sua interpretação.
