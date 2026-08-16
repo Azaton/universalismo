@@ -2,6 +2,13 @@
 title: "00 prologo por que investigar"
 nav_order: 1
 parent: "capitulos"
+capitulo: 00
+titulo: "Por que investigar a história profunda?"
+estado: revisão
+versao: 0.3
+ultima_atualizacao: 2026-08-16
+pergunta_central: "Por que e como investigar uma história espiritual da humanidade anterior à história documentada, sem cair nem no reducionismo científico nem na aceitação acrítica de qualquer tradição?"
+objetivo: "Apresentar o método multicamada e o eixo cronológico da obra, preparando o leitor para as divergências de datas e fontes que aparecerão nos capítulos seguintes."
 ---
 
 # Prólogo — Por que investigar a história profunda?
@@ -13,7 +20,8 @@ parent: "capitulos"
 - apresentar a motivação da obra;
 - explicar por que a história humana pode ser investigada em múltiplas camadas;
 - introduzir o equilíbrio entre abertura espiritual e rigor;
-- preparar o leitor para diferenças entre fontes e cronologias.
+- preparar o leitor para diferenças entre fontes e cronologias;
+- preparar a leitura cronológica que começa antes da formação da Terra.
 
 ### Fora de escopo
 
@@ -24,8 +32,8 @@ parent: "capitulos"
 ### Relação com a obra
 
 - Capítulo anterior: nenhum;
-- Capítulo seguinte: `01-o-que-chamamos-humanidade.md`;
-- Conceitos que prepara: história profunda, camadas de evidência, narrativa comparada, hipótese orientadora.
+- Capítulo seguinte: `01-antes-da-terra-origem-do-universo.md`;
+- Conceitos que prepara: história profunda, camadas de evidência, narrativa comparada, cronologia multicamada.
 
 ## Abertura narrativa
 
@@ -35,13 +43,17 @@ Mitos, escrituras, tradições espirituais e obras revelatórias preservam outra
 
 Esta obra nasce da decisão de colocar essas camadas lado a lado sem tratá-las como se fossem iguais — e sem descartar antecipadamente o que ainda não cabe nos modelos aceitos.
 
-## 1. Uma pergunta maior que a cronologia
+## 1. Uma história que começa antes da humanidade
 
-A questão central não é apenas saber em que data surgiu o ser humano. Antes disso, é necessário perguntar o que estamos chamando de humanidade.
+A questão central não é apenas saber em que data surgiu o ser humano. Antes disso, é necessário perguntar o que estamos chamando de humanidade e até onde devemos recuar para compreender sua trajetória.
 
 Podemos falar do aparecimento de determinada anatomia, da capacidade de produzir símbolos, do nascimento da civilização ou da entrada de uma consciência espiritual em corpos preparados para recebê-la. Cada resposta constrói uma cronologia diferente.
 
-[PENDÊNCIA: desenvolver exemplos concretos que mostrem como a definição altera a data de origem.]
+Por isso, o livro adotará uma escolha narrativa clara: **seguir o tempo**.
+
+A viagem começa nos marcos cosmológicos mais antigos reunidos nesta obra, passa pela formação da Terra, pela origem da vida, pelos primeiros humanos, pelas narrativas de exílio e intervenção, pelas civilizações perdidas e pelos povos históricos, e termina quando Jesus entra na história terrestre.
+
+O antigo estudo conceitual `O que chamamos de humanidade?` foi preservado como material de apoio e será incorporado no momento em que a cronologia chegar aos primeiros humanos.
 
 ## 2. O risco dos dois reducionismos
 
@@ -67,18 +79,24 @@ A pesquisa será organizada em camadas:
 
 Essas camadas podem dialogar, mas não devem ser fundidas sem justificativa. Uma narrativa pode possuir valor espiritual e filosófico mesmo sem funcionar como evidência arqueológica. Da mesma forma, uma descoberta científica pode esclarecer o corpo humano sem responder integralmente à questão da consciência.
 
+A cronologia também será multicamada. Uma mesma época pode receber datas diferentes em fontes distintas. Nesses casos, o livro mostrará as versões e sua proveniência, em vez de escolher silenciosamente uma delas.
+
+O Capítulo 1 já testou esse método na prática, e o resultado confirma a proposta deste prólogo: o marco de ~13,7 bilhões de anos aproxima a cosmologia científica (idade do universo) de uma narrativa espiritual contemporânea (queda de Prajapati), sem que uma confirme a outra — e a consulta direta ao Livro de Urântia mostrou que parte desse vocabulário (Orvonton, Nebadon, Micael) é consistente com sua fonte declarada, enquanto outra parte (Prajapati, os três Logos caídos, Sophia como avatar de Vishnu) não tem proveniência localizada em nenhuma tradição consultada. O método, portanto, já demonstrou sua utilidade: permite tratar cada afirmação por seu próprio mérito, sem aceitar nem descartar em bloco.
+
+Dois exemplos ilustram o que será uma constante no livro:
+
+- **O primeiro afundamento atlante** aparece em cronologias teosóficas por volta de **~800 mil anos**, enquanto a **Era de Ouro de Atlântida e Lemúria**, nas mesmas fontes, é situada por volta de **~300 mil anos** — ou seja, um afundamento anterior ao florescimento que ele supostamente interromperia. O livro preservará essa tensão em vez de reordenar silenciosamente os eventos para que façam sentido cronológico.
+- **Eva**, em *A Divina Colmeia* de Jan Val Ellam, é situada por volta de **~23 mil anos**, no mesmo período em que outra fonte registra um evento distinto de devastação. Datas próximas não implicam o mesmo acontecimento; o livro apresentará as duas versões lado a lado, com suas fontes, sem fundir os dois marcos em um único evento.
+
+Esses exemplos não esgotam os conflitos de cronologia que a obra vai encontrar, mas bastam para mostrar ao leitor, já no prólogo, como o livro vai lidar com eles quando aparecerem nos capítulos seguintes.
+
 ## 4. A hipótese de uma história ampliada
 
-O projeto parte de uma hipótese orientadora: a história humana relevante pode alcançar aproximadamente um milhão de anos, dependendo da definição de humanidade e das fontes consideradas.
+Esta obra já reúne marcos que vão muito além da história escrita: aproximadamente 13,7 bilhões de anos para a origem do universo; bilhões de anos para a formação planetária e a origem da vida; centenas de milhões para o mundo pré-humano; cerca de um milhão de anos para os primeiros humanos em algumas fontes; e centenas de milhares de anos para exílios, intervenções e civilizações perdidas em diferentes tradições.
 
-Essa hipótese não será assumida como conclusão. Ela funcionará como pergunta de pesquisa. Será necessário verificar:
+Esses números não possuem todos o mesmo estatuto. Alguns pertencem às ciências naturais; outros a obras espiritualistas; outros a hipóteses modernas ou a sínteses contemporâneas ainda sem proveniência estabelecida.
 
-- quando surge o gênero `Homo`;
-- quando aparecem características humanas reconhecíveis;
-- quando se manifesta comportamento simbólico complexo;
-- quando começam sociedades organizadas;
-- como tradições espirituais descrevem a preparação dos corpos e a chegada de consciências;
-- se as cronologias dessas tradições são independentes ou derivadas de autores anteriores.
+O objetivo não será igualá-los, mas colocá-los numa mesma sequência de investigação.
 
 ## 5. O fio moral da investigação
 
@@ -96,26 +114,33 @@ A obra procurará construir uma visão ampla e integrativa, mas não uma síntes
 
 ## Ponte para o próximo capítulo
 
-Antes de perguntar quando a humanidade começou, precisamos definir o que exatamente começou. O próximo capítulo examinará as diferentes formas de compreender o termo “humanidade”.
+Se a história será contada cronologicamente, precisamos começar antes mesmo da Terra.
+
+O próximo capítulo retorna ao marco mais antigo já reunido nesta obra — aproximadamente **13,7 bilhões de anos** — e pergunta o que a ciência e as cosmologias espiritualistas comparadas neste livro dizem sobre o cenário que antecede a formação do planeta.
 
 ## Fontes utilizadas
 
-- `../README.md`;
-- `../linha-do-tempo-multicamada.md`;
-- `../sumario-editorial.md`;
-- `../../../AGENTS.md`.
+- `01-antes-da-terra-origem-do-universo.md`, usado como teste prático do método descrito neste prólogo.
+
+## Pesquisa do capítulo
+
+[Dossiê de fontes do Prólogo](../fontes-capitulos/00-fontes-prologo.md).
+
+## Decisão editorial — padrão de notas (2026-08-16)
+
+O prólogo e os capítulos **não usarão notas de rodapé numeradas**. Cada capítulo mantém apenas duas seções finais — "Fontes utilizadas" e, quando houver, "Fontes previstas para validação e expansão" — como já praticado no Capítulo 1. Referências a fontes específicas dentro do texto (datas, documentos, autores) aparecem citadas em linha, no corpo da prosa, sem aparato de notas. Essa escolha mantém a leitura fluida e concentra toda a rastreabilidade nas seções finais e nos dossiês (`fontes-capitulos/`).
 
 ## Pendências de pesquisa
 
-- selecionar exemplos científicos para as diferentes definições de humanidade;
-- identificar fontes espirituais centrais que distinguem corpo, mente e espírito;
-- decidir se o prólogo receberá notas ou apenas referências finais;
-- revisar a abertura após a conclusão dos três primeiros capítulos.
+- [RESOLVIDO 2026-08-16] revisar o método após os primeiros capítulos cronológicos estarem mais desenvolvidos — feito com base no Capítulo 1, já em estado `revisão`; ver seção 3;
+- [RESOLVIDO 2026-08-16] selecionar exemplos claros de conflitos de cronologia — dois exemplos incorporados à seção 3 (afundamento atlante vs. Era de Ouro; Eva vs. devastação em fonte distinta);
+- [RESOLVIDO 2026-08-16] decidir se o prólogo receberá notas ou apenas referências finais — decidido: apenas referências finais, sem notas de rodapé (ver seção acima);
+- [RESOLVIDO 2026-08-16] revisar a prosa do prólogo para remover linguagem de bastidor da pesquisa ("mural", "projeto", "repositório") do corpo narrativo, conforme o novo princípio registrado na skill de escrita e no playbook.
 
 ## Parecer de prontidão
 
-- Estado recomendado: esboço
-- Pontos fortes: propósito, método e eixo moral definidos.
-- Lacunas impeditivas: exemplos e referências ainda insuficientes para estado `pronto`.
-- Pendências secundárias: decidir padrão de notas.
-- Próxima ação: consolidar o corpus do Capítulo 1 e usar suas definições para revisar este prólogo.
+- Estado recomendado: revisão (evoluiu de `esboço`)
+- Pontos fortes: propósito, método, eixo cronológico e eixo moral definidos; método já testado e confirmado contra o Capítulo 1; exemplos concretos de conflito de cronologia incorporados; padrão de notas decidido; prosa revisada para a voz de livro.
+- Lacunas impeditivas: nenhuma para avançar aos próximos capítulos.
+- Pendências secundárias: revisar novamente o prólogo depois que mais 2–3 capítulos cronológicos estiverem em estado `revisão`, para confirmar que os exemplos escolhidos continuam representativos.
+- Próxima ação: seguir para o Capítulo 2 — `Formação da Terra e semeadura da vida`, já escrito com a voz narrativa corrigida desde o início.

@@ -17,7 +17,19 @@ Ela reúne três camadas diferentes:
 2. o **corpus bibliográfico**, localizado em `corpus-bibliografico/`;
 3. os **bastidores da obra**, como fichas, cronologias, matrizes, revisões e decisões editoriais.
 
-Portanto, esta pasta inteira sustenta o livro, mas somente `capitulos/` constitui o manuscrito que será lido em sequência. As demais subpastas ficam publicadas no repositório, mas fora do menu do site.
+Somente `capitulos/` constitui o manuscrito a ser lido em sequência.
+
+## Eixo narrativo da obra
+
+A obra passa a seguir uma **cronologia contínua**, partindo dos marcos anteriores à formação da Terra e avançando até a chegada de Jesus à história humana.
+
+A pergunta principal deixa de ser apenas "quais temas precisamos estudar?" e passa a ser também:
+
+> **Em que momento da longa história cósmica, planetária, biológica e espiritual cada tema entra na narrativa?**
+
+Assim, Dragões, Anunnaki, Capela, Atlântida, Lemúria, Nefilins, genética, dilúvios e civilizações antigas são tratados dentro do período em que as respectivas fontes os situam.
+
+Quando houver datas incompatíveis entre fontes, elas serão preservadas e comparadas, sem produzir uma cronologia artificial.
 
 ## Onde começar a leitura do livro
 
@@ -25,13 +37,48 @@ Abra a pasta:
 
 `capitulos/`
 
-Leia os arquivos pela numeração:
+Leia pela numeração:
 
 1. `capitulos/00-prologo-por-que-investigar.md`;
-2. `capitulos/01-o-que-chamamos-humanidade.md`;
-3. depois os capítulos `02`, `03`, `04` e seguintes, conforme forem produzidos.
+2. `capitulos/01-antes-da-terra-origem-do-universo.md`;
+3. depois os capítulos `02`, `03`, `04` e seguintes, conforme `sumario-editorial.md`.
 
 O arquivo `capitulos/README.md` explica a organização do manuscrito, mas **não faz parte do texto do livro**.
+
+## Estrutura cronológica planejada
+
+O arco atual é:
+
+1. antes da Terra e origem do universo;
+2. formação da Terra e origem da vida;
+3. mundo pré-humano;
+4. primeiros humanos;
+5. guerras, exílios e transmigrações;
+6. Anunnaki, Enki e Enlil;
+7. preparação ou intervenção nos corpos humanos;
+8. Atlântida, Lemúria e Era de Ouro;
+9. Nefilins e culturas pré-históricas;
+10. Pandora e Eva;
+11. grandes devastações;
+12. queda de Atlântida e reinício;
+13. Dilúvio e Noé;
+14. Suméria, Babel, Acad e Nínive;
+15. Egito e Akhenaton;
+16. Javé, hebreus e monoteísmo;
+17. preparação do cenário histórico e espiritual do século I;
+18. chegada de Jesus à história humana.
+
+A descrição completa de cada capítulo está em `sumario-editorial.md`.
+
+## Material conceitual preservado
+
+O antigo primeiro capítulo, `O que chamamos de humanidade?`, possuía função metodológica importante, mas interrompia a sequência cronológica desejada para a obra.
+
+Ele foi preservado em:
+
+`planejamento/base-conceitual-o-que-chamamos-humanidade.md`
+
+Seu conteúdo será reutilizado no prólogo e especialmente no capítulo sobre os primeiros humanos, para distinguir hominínios, gênero `Homo`, Homo sapiens, civilização e humanidade espiritual.
 
 ## Onde estão os livros que compõem a obra
 
@@ -41,13 +88,11 @@ A seleção de livros utilizada para construir o manuscrito está em:
 
 Comece por:
 
-1. `corpus-bibliografico/README.md` — explica o conceito de corpus;
-2. `corpus-bibliografico/catalogo-geral.md` — relaciona as obras selecionadas;
-3. `corpus-bibliografico/mapa-livros-temas.md` — mostra quais livros sustentam cada tema;
-4. `corpus-bibliografico/estado-de-leitura.md` — acompanha leitura e fichamento;
-5. `corpus-bibliografico/obras-semelhantes-e-diferenciacao.md` — compara o projeto com obras próximas.
-
-O corpus não é todo o acervo. É a seleção editorial das obras que participam efetivamente da construção do livro.
+1. `corpus-bibliografico/README.md`;
+2. `corpus-bibliografico/catalogo-geral.md`;
+3. `corpus-bibliografico/mapa-livros-temas.md`;
+4. `corpus-bibliografico/estado-de-leitura.md`;
+5. `corpus-bibliografico/obras-semelhantes-e-diferenciacao.md`.
 
 ## Onde os capítulos são construídos
 
@@ -61,72 +106,41 @@ Convenção de nome:
 
 Exemplo:
 
-`02-como-ler-as-camadas.md`
+`02-formacao-da-terra-e-semeadura-da-vida.md`
 
-O modelo de criação não fica dentro do manuscrito. Ele está em:
+O modelo de criação está em:
 
 `../../../doc/templates/template-capitulo-historia-profunda.md`
+
+Cada capítulo deve possuir também um dossiê em `fontes-capitulos/`, reunindo as fontes que sustentam sua narrativa.
 
 ## Estrutura da pasta
 
 | Caminho | Função | Faz parte da leitura do livro? |
 | --- | --- | --- |
-| `capitulos/` | Manuscrito da obra, em ordem numérica | Sim |
+| `capitulos/` | Manuscrito da obra, em ordem cronológica | Sim |
 | `corpus-bibliografico/` | Livros selecionados, funções, temas e estado de leitura | Não; sustenta a escrita |
-| `sumario-editorial.md` | Arquitetura planejada da obra | Não |
+| `sumario-editorial.md` | Arquitetura cronológica planejada da obra | Não |
 | `criterios-de-pronto-capitulo.md` | Critérios de qualidade e conclusão | Não |
 | `linha-do-tempo-multicamada.md` | Cronologias comparadas | Não |
 | `fichas/` | Registro de alegações e fontes específicas | Não |
-| `fontes-capitulos/` | Mapas de fontes por capítulo | Não |
+| `fontes-capitulos/` | Dossiês de fontes por capítulo | Não |
 | `matrizes/` | Comparações entre tradições e conceitos | Não |
 | `glossario/` | Definições e ambiguidades terminológicas | Não |
 | `mapas/` | Relações entre povos, seres, autores e ideias | Não |
 | `revisoes/` | Pareceres editoriais e epistemológicos | Não |
 | `decisoes-editoriais/` | Registro das decisões sobre a obra | Não |
 | `estado-da-obra/` | Acompanhamento da evolução do manuscrito | Não |
-| `planejamento/` | Planos futuros de produção | Não |
-| `publicacao/` | Materiais para uma edição consolidada | Não |
+| `planejamento/` | Planos e materiais conceituais preservados | Não |
+| `publicacao/` | Materiais para edição consolidada | Não |
 | `referencias/` | Bibliografia final e padrões de citação | Não |
 | `anexos/` | Materiais complementares da futura obra | Somente se incorporados à edição final |
 
-Caminhos acima são relativos a esta pasta. Todas as subpastas exceto `capitulos/` ficam fora do menu do site (publicadas no repositório, sem página própria).
-
 ## Objetivo da obra
 
-Investigar a história remota da humanidade e as narrativas sobre suas origens, ciclos, migrações e possíveis relações com outros mundos ou grupos.
+Construir uma narrativa comparativa das origens e da trajetória humana desde suas possíveis raízes cósmicas até o momento em que Jesus entra na história terrestre.
 
-O objetivo não é apenas resumir os livros lidos. É **compilar, comparar e reorganizar criticamente suas contribuições** para construir uma narrativa própria sobre a pré-história espiritual da humanidade.
-
-O estudo dá atenção especial a:
-
-- cronologia paleoantropológica e arqueológica;
-- tradições mesopotâmicas e Anunnaki;
-- Dragões como seres, linhagens, símbolos ou civilizações;
-- Capelinos e narrativas de exílio;
-- transmigrações entre mundos;
-- Atlântida, Lemúria e civilizações desaparecidas;
-- catástrofes e reinícios civilizacionais;
-- intervenção externa na humanidade;
-- evolução da consciência;
-- implicações morais e espirituais do conhecimento.
-
-## Pergunta central
-
-Que narrativa comparada das origens e da trajetória humana emerge quando cronologias científicas, históricas, mitológicas, religiosas, espiritualistas e especulativas são colocadas lado a lado sem serem confundidas?
-
-## Hipótese orientadora
-
-Há uma linha de investigação segundo a qual a história humana relevante poderia alcançar aproximadamente um milhão de anos.
-
-Antes de avaliar essa hipótese, a obra distingue:
-
-- ancestralidade dos hominínios;
-- gênero `Homo`;
-- humanidade anatomicamente moderna;
-- humanidade comportamentalmente moderna;
-- civilização organizada;
-- humanidade espiritual ou consciência;
-- ciclos, intervenções ou transmigrações descritos por tradições.
+A obra não pretende apenas resumir livros. Ela busca **compilar, comparar, ordenar cronologicamente e interpretar criticamente** suas contribuições.
 
 ## Camadas de análise
 
@@ -138,31 +152,32 @@ Antes de avaliar essa hipótese, a obra distingue:
 - `espiritualista`;
 - `especulativa`.
 
-Essas camadas podem dialogar, mas não devem ser confundidas ou fundidas sem justificativa.
+Essas camadas podem dialogar, mas não devem ser confundidas.
 
 ## Processo de produção
 
 A criação e revisão dos capítulos seguem:
 
-1. `../../../commands/playbooks/producao-capitulos.md`;
-2. `../../../.agents/skills/escrita-historico-espiritual-comparativa/SKILL.md`;
-3. `sumario-editorial.md`;
-4. `criterios-de-pronto-capitulo.md`;
-5. `corpus-bibliografico/`;
-6. `../../../doc/templates/template-capitulo-historia-profunda.md`.
+1. `sumario-editorial.md` — posição cronológica e função do capítulo;
+2. `fontes-capitulos/` — dossiê específico;
+3. `fichas/`, `linha-do-tempo-multicamada.md`, `glossario/` e `matrizes/`;
+4. `../../../commands/playbooks/producao-capitulos.md`;
+5. `../../../.agents/skills/escrita-historico-espiritual-comparativa/SKILL.md`;
+6. `criterios-de-pronto-capitulo.md`;
+7. `../../../doc/templates/template-capitulo-historia-profunda.md`.
 
 ## Estado atual da obra
 
-Capítulos existentes:
+**A obra está completa: Prólogo e Capítulos 1 a 18, cada um com dossiê correspondente em `fontes-capitulos/`:**
 
-- `00-prologo-por-que-investigar.md` — estado `esboço`;
-- `01-o-que-chamamos-humanidade.md` — estado `esboço`.
+- `00-prologo-por-que-investigar.md` e `01-antes-da-terra-origem-do-universo.md` — estado `revisão`;
+- `02` a `18` — estado `rascunho`.
 
-Eles já compõem o início do livro, mas ainda contêm pendências editoriais e de pesquisa.
+Todas as cinco partes (Antes da humanidade; Nascimento da humanidade e exílios; Civilizações anteriores à história escrita; Da memória dos sobreviventes às civilizações históricas; O ponto de chegada) estão redigidas. Próxima etapa: revisão geral de consistência de toda a obra antes de qualquer publicação externa, e decisão sobre o início do eixo `Jesus e sua trajetória de vida`. Ver `sumario-editorial.md` para o detalhamento capítulo a capítulo.
 
 ## Regra prática
 
 - Para **ler o livro**: entre em `capitulos/` e siga a numeração.
+- Para **entender a sequência completa**: consulte `sumario-editorial.md`.
 - Para **ver quais livros constroem a obra**: entre em `corpus-bibliografico/`.
-- Para **criar um capítulo**: copie o template de `doc/templates/` e salve o novo arquivo em `capitulos/`.
-- Para **consultar a pesquisa**: use as demais pastas deste workspace.
+- Para **consultar a pesquisa**: use fichas, linha do tempo, matrizes, glossário e dossiês de fontes.

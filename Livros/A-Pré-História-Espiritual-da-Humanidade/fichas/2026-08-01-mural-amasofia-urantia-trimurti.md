@@ -55,7 +55,7 @@ O texto do mural inclui uma nota grande e destacada questionando o próprio conc
 
 O autor tenta reconciliar três tradições distintas numa cosmologia única:
 
-- **Livro de Urântia:** o superuniverso "Ovorton"; o universo local "Nebadon", organizado por "Micael" — identificado no texto como Jesus.
+- **Livro de Urântia:** o superuniverso "Ovorton" [nota editorial 2026-08-16: a grafia correta, confirmada diretamente em 32:2.9, é `Orvonton`; a fonte do mural registra uma variante/erro de transcrição, preservado aqui como citação literal]; o universo local "Nebadon", organizado por "Micael" — identificado no texto como Jesus.
 - **Gnosticismo:** a figura de "Sophia", associada a um "drama de queda", descrita no texto como avatar tanto de Vishnu quanto "avatar que gera Jesus".
 - **Hinduísmo:** a Trimurti (Brahma, Vishnu, Shiva), usada como referência estrutural para o esquema.
 
@@ -87,7 +87,7 @@ Preservadas na formulação original, pois indicam que a fonte é uma investiga�
 - universo de antimatéria (nesta cosmologia);
 - Javé (como agente semeador de vida, nesta cosmologia);
 - molécula-mãe (DNA);
-- Ovorton (superuniverso, Livro de Urântia);
+- Orvonton (superuniverso, Livro de Urântia; grafia corrigida de "Ovorton" — ver nota editorial acima);
 - Nebadon (universo local, Livro de Urântia);
 - Micael (Livro de Urântia; identificado como Jesus);
 - Sophia (gnosticismo; nesta fonte, também avatar de Vishnu);

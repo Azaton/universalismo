@@ -2,282 +2,252 @@
 
 ## Identidade provisória da obra
 
-**Título de trabalho:** História Profunda da Humanidade  
-**Subtítulo provisório:** Ciência, mitos, revelações e hipóteses sobre nossas origens cósmicas e espirituais
+**Título de trabalho:** A Pré-História Espiritual da Humanidade  
+**Subtítulo provisório:** Das origens cósmicas à chegada de Jesus
 
 ## Propósito
 
-Construir uma narrativa comparativa sobre as origens, os ciclos e a trajetória da humanidade, colocando lado a lado:
+Construir uma narrativa cronológica da história profunda e espiritual da humanidade, partindo dos marcos mais antigos registrados no projeto e avançando até Jesus.
 
-- paleoantropologia e arqueologia;
-- textos mesopotâmicos e bíblicos;
-- mitos de criação e catástrofe;
-- tradições espiritualistas e revelatórias;
-- Capela, Atlântida, Dragões, Anunnaki e transmigrações;
-- hipóteses modernas de intervenção externa;
-- implicações espirituais e morais da evolução humana.
+A cronologia é a espinha dorsal da obra. Em cada período, serão colocadas lado a lado as diferentes camadas disponíveis:
 
-A obra não pretende fundir essas camadas em uma única cronologia artificial. Seu objetivo é mostrar o que cada uma afirma, onde se encontram, onde se contradizem e quais hipóteses integrativas podem ser construídas.
+- ciência e história natural;
+- arqueologia e história documentada;
+- mitos e textos antigos;
+- tradições religiosas;
+- fontes espiritualistas e mediúnicas;
+- comunicações de Pedro Augusto;
+- hipóteses modernas sobre intervenção, exílio, genética e civilizações desaparecidas.
 
-## Público
+A obra não força essas camadas a formar uma cronologia única. Quando as fontes apresentarem datas ou sequências incompatíveis, as versões serão preservadas e comparadas.
 
-Leitores interessados em espiritualidade, história antiga, consciência, cosmologia, espiritismo, mitologia e hipóteses sobre a origem humana, sem exigir formação acadêmica especializada.
+## Regra editorial principal
 
-## Arco editorial
+O leitor deve sentir que está **viajando no tempo**.
 
-A obra parte da pergunta **“o que é humanidade?”**, atravessa o tempo profundo científico, apresenta as grandes narrativas de criação, intervenção, exílio e catástrofe e termina propondo uma síntese centrada na evolução da consciência e na responsabilidade moral.
+Cada capítulo responde prioritariamente a quatro perguntas:
+
+1. Em que período estamos?
+2. O que as fontes afirmam que estava acontecendo?
+3. Quais personagens, povos ou consciências entram na história nesse momento?
+4. O que muda na trajetória da humanidade a partir desse marco?
+
+O material conceitual anteriormente desenvolvido em `01-o-que-chamamos-humanidade.md` foi preservado em `planejamento/base-conceitual-o-que-chamamos-humanidade.md` e será utilizado no prólogo e ao longo dos capítulos quando necessário. Ele deixa de ocupar o primeiro capítulo da narrativa para não interromper o eixo cronológico.
 
 ---
 
-# Estrutura da obra
+# Estrutura cronológica da obra
 
-## Prólogo — Por que investigar a história profunda?
+## Prólogo — Por que investigar uma história anterior à história?
 
 **Arquivo:** `capitulos/00-prologo-por-que-investigar.md`  
-**Estado:** esboço
+**Estado:** revisão
 
-Apresenta a motivação do estudo, a coexistência de diferentes camadas de narrativa e a necessidade de uma investigação que seja aberta sem abandonar o discernimento.
-
----
-
-## PARTE I — O problema das origens
-
-### Capítulo 1 — O que chamamos de humanidade?
-
-**Arquivo:** `capitulos/01-o-que-chamamos-humanidade.md`  
-**Estado:** esboço
-
-Distingue hominínios, gênero `Homo`, humanidade anatomicamente moderna, comportamento simbólico, civilização organizada e humanidade espiritual. Estabelece por que cronologias diferentes podem parecer contraditórias sem estarem falando exatamente da mesma coisa.
-
-### Capítulo 2 — Como ler ciência, mito e revelação sem confundi-los
-
-**Arquivo:** `capitulos/02-como-ler-as-camadas.md`  
-**Estado:** planejado
-
-Define as camadas científica, histórico-documental, arqueológica, mitológica, religiosa, espiritualista e especulativa. Explica os critérios de comparação utilizados na obra.
-
-### Capítulo 3 — Um milhão de anos de história humana?
-
-**Arquivo:** `capitulos/03-um-milhao-de-anos.md`  
-**Estado:** planejado
-
-Examina a hipótese orientadora de uma história humana ampliada e pergunta quais definições, evidências e narrativas seriam necessárias para sustentá-la.
+Apresenta a proposta da obra, o método de leitura das diferentes camadas e a distinção entre história documentada, ciência, mito, tradição espiritual, revelação e hipótese.
 
 ---
 
-## PARTE II — A humanidade no tempo profundo
+## PARTE I — Antes da humanidade
 
-### Capítulo 4 — Antes do Homo sapiens
+### Capítulo 1 — Antes da Terra: a origem do universo
 
-**Arquivo:** `capitulos/04-antes-do-homo-sapiens.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/01-antes-da-terra-origem-do-universo.md`  
+**Período orientador:** ~13,7 bilhões a ~4,5 bilhões de anos  
+**Estado:** revisão
 
-Apresenta a longa história dos hominínios, as principais transições biológicas e as limitações do registro fóssil.
+Parte do primeiro marco cosmológico documentado no projeto. Apresenta a origem do cosmos físico e, separadamente, as narrativas espirituais sobre Prajapati, Logos caídos, universo de matéria e universo de antimatéria. Introduz também Orvonton, Nebadon e Micael, já validados diretamente no Livro de Urântia, na medida em que essas cosmologias ajudam a situar a história que posteriormente chegará à Terra.
 
-### Capítulo 5 — O nascimento da mente simbólica
+### Capítulo 2 — A formação da Terra e a semeadura da vida
 
-**Arquivo:** `capitulos/05-nascimento-da-mente-simbolica.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/02-formacao-da-terra-e-semeadura-da-vida.md`  
+**Período orientador:** ~4,5 bilhões a ~3,8 bilhões de anos  
+**Estado:** rascunho
 
-Discute linguagem, arte, ritual, sepultamento, imaginação e consciência reflexiva como marcos possíveis da humanidade comportamental e espiritual.
+Situa a formação da Terra e compara a origem natural da vida com a narrativa segundo a qual Javé teria semeado uma "molécula-mãe" de DNA. O capítulo mantém claramente separadas a camada científica e a narrativa espiritualista de intervenção, sem citar a origem interna da pesquisa no corpo do texto.
 
-### Capítulo 6 — Civilização, agricultura e o enigma dos começos
+### Capítulo 3 — O mundo antes do homem
 
-**Arquivo:** `capitulos/06-civilizacao-e-os-comecos.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/03-o-mundo-antes-do-homem.md`  
+**Período orientador:** ~233 milhões a ~66 milhões de anos  
+**Estado:** rascunho
 
-Examina a transição para sociedades complexas, o surgimento das cidades, da escrita e do Estado, incluindo a percepção de “saltos” civilizacionais presente em releituras modernas.
-
----
-
-## PARTE III — Os deuses que criam, ordenam e descem
-
-### Capítulo 7 — Mesopotâmia: criação, deuses e humanidade
-
-**Arquivo:** `capitulos/07-mesopotamia-criacao-e-humanidade.md`  
-**Estado:** planejado
-
-Analisa Enuma Elish, Atrahasis, Gilgamesh e outras tradições mesopotâmicas, preservando o contexto próprio dos textos antes de compará-los com interpretações posteriores.
-
-### Capítulo 8 — Anunnaki: dos textos antigos aos deuses astronautas
-
-**Arquivo:** `capitulos/08-anunnaki-dos-textos-aos-astronautas.md`  
-**Estado:** planejado
-
-Distingue o papel dos Anunnaki nas fontes mesopotâmicas das reconstruções de Zecharia Sitchin, obras espiritualistas e narrativas ufológicas modernas.
-
-### Capítulo 9 — Gênesis, Elohim, Nefilins e a criação do homem
-
-**Arquivo:** `capitulos/09-genesis-elohim-e-nefilins.md`  
-**Estado:** planejado
-
-Compara a criação bíblica, os “filhos de Deus”, os Nefilins e releituras que interpretam o texto como memória de intervenção externa.
-
-### Capítulo 10 — Os criadores imperfeitos: Demiurgo e Arcontes
-
-**Arquivo:** `capitulos/10-demiurgo-e-arcontes.md`  
-**Estado:** planejado
-
-Apresenta a cosmologia gnóstica, a criação do homem pelos regentes e a presença do Espírito superior, comparando-a cuidadosamente com outras narrativas de engenharia ou aprisionamento da consciência.
+Pangeia, a era dos dinossauros e a extinção Cretáceo-Paleógeno (~66 milhões de anos, cratera de Chicxulub). Funciona como passagem entre a história planetária e o aparecimento das linhagens humanas. É, até aqui, o marco do sumário com menor divergência entre a fonte espiritualista original e o consenso científico.
 
 ---
 
-## PARTE IV — Exílios, migrações e linhagens espirituais
+## PARTE II — O nascimento da humanidade e os exílios
 
-### Capítulo 11 — Capela e a pedagogia dos exílios planetários
+### Capítulo 4 — Os primeiros humanos
 
-**Arquivo:** `capitulos/11-capela-e-exilios-planetarios.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/04-os-primeiros-humanos.md`  
+**Período orientador:** dezenas de milhões de anos (primatas) a ~993.419 anos (Andon e Fonta)  
+**Estado:** rascunho
 
-Examina `Os Exilados da Capela`, suas fontes declaradas, a ideia de transmigração e o papel moral dos exilados no desenvolvimento das civilizações terrestres.
+Compara a longa evolução dos primatas e do gênero Homo com a cronologia do Livro de Urântia para Andon e Fonta (~993.419 anos, validado diretamente em 62:5.1 e no Documento 63). Usa o antigo estudo "O que chamamos de humanidade?" (preservado em `planejamento/base-conceitual-o-que-chamamos-humanidade.md`) como base conceitual para distinguir corpo, gênero Homo, Homo sapiens, mente simbólica e humanidade espiritual.
 
-### Capítulo 12 — Dragões: símbolo, linhagem ou organização espiritual?
+### Capítulo 5 — A guerra nos céus e a chegada dos exilados
 
-**Arquivo:** `capitulos/12-dragoes-simbolo-linhagem-organizacao.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/05-guerra-nos-ceus-e-chegada-dos-exilados.md`  
+**Período orientador:** ~800 mil a ~470 mil anos  
+**Estado:** rascunho
 
-Investiga dragões em mitos, tradições espirituais e obras mediúnicas, distinguindo símbolo arquetípico, grupo espiritual, linhagem e releitura extraterrestre.
+Reúne as narrativas sobre Guardiões, Magos Negros, Dragões, Erg, Morg, Maldek, Capela e a cronologia de Pedro Augusto para a transmigração ocorrida há aproximadamente 470 mil anos, tratada como eixo espiritual principal do capítulo. Datas e identidades diferentes entre as fontes são apresentadas como versões paralelas, não harmonizadas artificialmente — inclusive a possível relação, ainda não confirmada, entre o "Dragão número um" de Pedro Augusto e os "Dragões exilados de Maldek" da tradição teosófica.
 
-### Capítulo 13 — Transmigrações entre mundos
+### Capítulo 6 — Anunnaki, Enki, Enlil e os novos habitantes da Terra
 
-**Arquivo:** `capitulos/13-transmigracoes-entre-mundos.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/06-anunnaki-enki-enlil-e-a-terra.md`  
+**Período orientador:** ~480 a ~450 mil anos  
+**Estado:** rascunho
 
-Compara exílios, degredos, encarnação em outros orbes e migrações espirituais em diferentes fontes, incluindo seus mecanismos e finalidades evolutivas.
+Apresenta a chegada dos Nibiruanos/Anunnaki em três camadas distintas — mitologia mesopotâmica documentada, hipótese moderna de Sitchin (~450 mil anos) e cronologia espiritual de Pedro Augusto (~470 mil anos) —, registrando a convergência cronológica entre elas sem tratá-la como prova de identidade. Aplica a regra já recomendada no acervo de não fundir o Enki mesopotâmico/Sitchin com o Enki de Pedro Augusto.
 
----
+### Capítulo 7 — A preparação dos corpos humanos
 
-## PARTE V — Mundos perdidos e reinícios civilizacionais
+**Arquivo:** `capitulos/07-preparacao-dos-corpos-humanos.md`  
+**Período orientador:** centenas de milhares a ~100 mil anos  
+**Estado:** rascunho
 
-### Capítulo 14 — Atlântida: de Platão à memória espiritual
-
-**Arquivo:** `capitulos/14-atlantida-de-platao-a-memoria-espiritual.md`  
-**Estado:** planejado
-
-Parte de `Timeu` e `Crítias` e acompanha a transformação de Atlântida em hipótese histórica, símbolo filosófico e cenário espiritualista de alta tecnologia e queda moral.
-
-### Capítulo 15 — Lemúria, raças-raiz e continentes desaparecidos
-
-**Arquivo:** `capitulos/15-lemuria-racas-raiz-e-continentes.md`  
-**Estado:** planejado
-
-Analisa teosofia, espiritualismo e tradições modernas sobre continentes perdidos e ciclos raciais, comparando-as com geologia e história das ideias.
-
-### Capítulo 16 — Dilúvios, catástrofes e memórias de reinício
-
-**Arquivo:** `capitulos/16-diluvios-catastrofes-e-reinicios.md`  
-**Estado:** planejado
-
-Compara Gilgamesh, Gênesis, mitos de dilúvio e hipóteses de catástrofes reais, distinguindo memória cultural, narrativa teológica e reconstrução geológica.
+Reúne as narrativas de intervenção ou aceleração genética — preparação de corpos para encarnação (Pedro Augusto), os Lulus (Enki e Ninhursag) e Adapa (Sitchin) — e as confronta com o que a genética populacional documenta sobre a admixture real entre Homo sapiens, neandertais e denisovanos, sem confundir hipótese espiritual com evidência científica.
 
 ---
 
-## PARTE VI — Intervenção, genética e consciência
+## PARTE III — Civilizações anteriores à história escrita
 
-### Capítulo 17 — A hipótese da intervenção genética
+### Capítulo 8 — A Era de Ouro: Atlântida, Lemúria e Mu
 
-**Arquivo:** `capitulos/17-hipotese-da-intervencao-genetica.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/08-era-de-ouro-atlantida-lemuria-mu.md` — **estado: rascunho** (revisado em 2026-08-16)  
+**Período orientador:** duas escalas de tempo preservadas sem harmonização: ~300 mil anos (mural "O Novo Mundo") e ~4,5 milhões de anos, encerrando-se com o início do conflito há ~25 mil anos (Celso Rey / trilogia de Telos)
 
-Reúne alegações sobre criação ou modificação do corpo humano, desde mitos de modelagem até narrativas anunnaki, atlantes e espiritualistas, confrontando-as com genética e evolução.
+Apresenta as civilizações perdidas em sua fase de florescimento, preservando as diferentes cronologias. Inclui tecnologia, organização social, conhecimento, pirâmides, mapas de Mu/Lemúria e a presença de Vril nas fontes espiritualistas posteriores. Dossiê de fontes em `fontes-capitulos/08-fontes-era-de-ouro-atlantida-lemuria-mu.md`.
 
-### Capítulo 18 — Corpo, alma e a entrada da consciência
+### Capítulo 9 — Nefilins e a cultura superior pré-histórica
 
-**Arquivo:** `capitulos/18-corpo-alma-e-consciencia.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/09-nefilins-e-cultura-superior.md`  
+**Período orientador:** ~100 mil anos em diante  
+**Estado:** rascunho
 
-Explora a distinção entre evolução do organismo e desenvolvimento da consciência, comparando espiritismo, gnosticismo, Livro de Urântia e outras cosmologias.
+Compara Gênesis 6:4, Números 13:33 e Sabedoria de Salomão 14:6 (consultados diretamente) com a narrativa moderna Anunnaki + Lulus → Nefilins. A alegação de uma cultura superior entre ~100 mil e ~25/12 mil anos é apresentada como hipótese das fontes, confrontada com o registro arqueológico do Paleolítico Superior.
 
-### Capítulo 19 — Tecnologia, energia e poder moral
+### Capítulo 10 — Pandora, Eva e o rompimento do modelo colmeia
 
-**Arquivo:** `capitulos/19-tecnologia-energia-e-poder-moral.md`  
-**Estado:** planejado
+**Arquivo:** `capitulos/10-pandora-eva-e-modelo-colmeia.md`  
+**Marcos:** Pandora ~48 mil anos; Eva ~23 mil anos  
+**Estado:** rascunho
 
-Analisa Vril, tecnologia atlante, naves, manipulação de energia e conhecimento avançado como temas recorrentes, perguntando por que progresso técnico não implica evolução moral.
+Usa `A Divina Colmeia`, de Jan Val Ellam, como fonte literária confirmada para esses dois marcos, e `O Sorriso de Pandora` como narrativa complementar sobre Pandora. Explora a narrativa de condicionamento mental/genético e libertação progressiva da humanidade, sem transformar a narrativa espiritual em conclusão científica, e alerta explicitamente para não confundir "Eva, ~23 mil anos" com a devastação de mesma data tratada no Capítulo 11.
 
----
+### Capítulo 11 — As grandes devastações
 
-## PARTE VII — Uma síntese da trajetória humana
+**Arquivo:** `capitulos/11-as-grandes-devastacoes.md`  
+**Marcos:** ~23 mil e ~12,5 mil anos  
+**Estado:** rascunho
 
-### Capítulo 20 — A linha do tempo multicamada
+Apresenta as duas devastações mencionadas por Despina em `Homoafetividade: O Segredo Perdido do Éden`, distinguindo a fala da personagem das datas e identificações fornecidas em nota editorial por Jan Val Ellam. Compara essas datas ao Último Máximo Glacial (~21-19 mil anos) e ao evento Younger Dryas (~12,9-11,7 mil anos), com as devidas ressalvas sobre os limites dessa comparação.
 
-**Arquivo:** `capitulos/20-linha-do-tempo-multicamada.md`  
-**Estado:** planejado
+### Capítulo 12 — A queda de Atlântida e o grande reinício
 
-Apresenta lado a lado cronologias científicas, históricas, mitológicas, religiosas e espirituais, sem forçar equivalências.
+**Arquivo:** `capitulos/12-queda-de-atlantida-e-o-grande-reinicio.md`  
+**Período orientador:** ~12,5 mil a ~10 mil anos  
+**Estado:** rascunho
 
-### Capítulo 21 — Convergências reais, aparentes e herdadas
-
-**Arquivo:** `capitulos/21-convergencias-reais-aparentes-herdadas.md`  
-**Estado:** planejado
-
-Classifica semelhanças entre narrativas: coincidência, estrutura arquetípica, transmissão cultural, dependência textual, reinterpretação moderna ou possível memória comum.
-
-### Capítulo 22 — A evolução humana como drama da consciência
-
-**Arquivo:** `capitulos/22-evolucao-como-drama-da-consciencia.md`  
-**Estado:** planejado
-
-Integra queda, exílio, rebelião, aprendizado, karma, serviço e regeneração como padrões espirituais recorrentes na história comparada.
-
-### Capítulo 23 — O eixo crístico da história
-
-**Arquivo:** `capitulos/23-eixo-cristico-da-historia.md`  
-**Estado:** planejado
-
-Apresenta Jesus como referência moral para avaliar conhecimento, poder, liberdade, verdade, serviço e evolução, sem transformar o livro em tratado confessional.
-
-### Capítulo 24 — O que podemos concluir — e o que permanece aberto
-
-**Arquivo:** `capitulos/24-conclusoes-e-questoes-abertas.md`  
-**Estado:** planejado
-
-Consolida conclusões provisórias, limites do conhecimento, hipóteses mais promissoras e agenda de pesquisa futura.
+Concentra o colapso final das civilizações atlantes (guerra Lemúria x Atlântida, submersão, fundação de Telos, segundo Celso Rey), o relato de Platão (*Timeu*/*Crítias*, ~11.600 anos atrás) e a ponte para as tradições de dilúvio (Ziusudra), cada fonte apresentada segundo sua proveniência própria.
 
 ---
 
-## Epílogo — A verdadeira antiguidade do ser humano
+## PARTE IV — Da memória dos sobreviventes às civilizações históricas
 
-**Arquivo:** `capitulos/25-epilogo-a-antiguidade-do-ser.md`  
-**Estado:** planejado
+### Capítulo 13 — Dilúvio, Noé e o recomeço dos povos
 
-Retoma a pergunta inicial e propõe que a profundidade da humanidade talvez não seja medida apenas pela idade do corpo ou da civilização, mas pela trajetória da consciência.
+**Arquivo:** `capitulos/13-diluvio-noe-e-recomeco-dos-povos.md`  
+**Estado:** rascunho
+
+Compara Noé, Ziusudra, Utnapishtim e Atrahasis, distinguindo o alto grau de certeza acadêmica da continuidade textual mesopotâmica (Ziusudra-Atrahasis-Utnapishtim) da relação apenas comparativa com Noé. Inclui a cronologia interna de Noé em Jan Val Ellam (726 anos), sem convertê-la em cronologia bíblica ou arqueológica.
+
+### Capítulo 14 — Suméria, Babel, Acad e Nínive
+
+**Arquivo:** `capitulos/14-sumeria-babel-acad-e-ninive.md`  
+**Período orientador:** ~5400 a.C. (Eridu) a 612 a.C. (queda de Nínive)  
+**Estado:** rascunho
+
+Passa da pré-história para a história documentada: Suméria (Eridu, Uruk, Ur, escrita ~3600 a.C.), Enki/Ea como culto histórico atestado, Sargon de Acad (~2334 a.C.) e Nínive/Assíria. Compara Nimrod (Gênesis 10-11, com a hipótese acadêmica Nimrod=Sargon/Naram-Sin) à cronologia interna de Jan Val Ellam para a ascensão de Babel (~4.900 anos).
+
+### Capítulo 15 — Egito: heranças antigas e Akhenaton
+
+**Arquivo:** `capitulos/15-egito-herancas-e-akhenaton.md`  
+**Estado:** rascunho
+
+Examina a tradição de sobreviventes atlantes associada ao Egito, depois entra no Egito histórico. O marco `4.000 a.C.` do mural é registrado como imprecisão, corrigido para a cronologia histórica real de Akhenaton (1353-1336 a.C.). A narrativa pessoal de reencarnação associada a Akhenaton (fala de Pedro Augusto) é mantida fora do corpo do capítulo, por decisão editorial registrada no dossiê.
+
+### Capítulo 16 — Javé, os hebreus e a construção do monoteísmo
+
+**Arquivo:** `capitulos/16-jave-hebreus-e-monoteismo.md`  
+**Estado:** rascunho
+
+Acompanha a passagem das antigas cosmologias e deuses regionais para a tradição hebraica (henoteísmo ~1200 a.C. → monolatria séc. IX-VII a.C. → monoteísmo pleno, exílio babilônico séc. VI a.C.). Distingue o Javé do Capítulo 2 do YHWH bíblico, e compara três versões da destruição de Sodoma e Gomorra (Gênesis, Sitchin, Jan Val Ellam).
+
+### Capítulo 17 — Do mundo antigo ao cenário em que Jesus nasce
+
+**Arquivo:** `capitulos/17-do-mundo-antigo-ao-cenario-de-jesus.md`  
+**Estado:** rascunho
+
+Organiza o legado religioso, cultural e espiritual que chega ao século I a.C.: Mesopotâmia, Egito, hebreus, helenismo (Alexandre, 332-330 a.C.) e expectativas messiânicas do Segundo Templo sob ocupação romana. Revisita, sem resolver, as três pontes já construídas pela obra entre suas tradições e Jesus: Micael, Enki (hipótese sensível não confirmada) e Antúo/Antúlio. Funciona como ponte direta para o Capítulo 18.
+
+---
+
+## PARTE V — O ponto de chegada
+
+### Capítulo 18 — Jesus entra na história humana
+
+**Arquivo:** `capitulos/18-jesus-entra-na-historia-humana.md`  
+**Período orientador:** ~6-4 a.C.  
+**Estado:** rascunho
+
+Fecha esta obra no momento em que Jesus entra na história terrestre (nascimento situado por consenso histórico entre ~6 e 4 a.C., fim do reinado de Herodes, o Grande). Não narra sua vida — esse desenvolvimento pertence ao eixo/livro `Jesus e sua trajetória de vida`. Sintetiza o padrão crístico construído desde o Capítulo 1 e revisita, sem resolver, as três pontes hipotéticas (Micael, Enki, Antúo/Antúlio).
+
+O capítulo final deverá responder: depois de bilhões de anos de evolução planetária, ciclos civilizacionais, exílios, conflitos, quedas e reconstruções, **em que mundo humano Jesus chega e qual é o significado dessa chegada dentro da história espiritual construída ao longo do livro?**
+
+---
+
+# Marcos cronológicos já existentes no repositório
+
+| Marco aproximado | Tema já documentado |
+| --- | --- |
+| ~13,7 bilhões de anos | origem do universo / Prajapati / matéria e antimatéria |
+| ~4,5 bilhões de anos | limite da primeira faixa cosmológica / formação planetária a desenvolver |
+| ~3,8 bilhões de anos | semeadura da vida por Javé, segundo o mural |
+| ~233–66 milhões de anos | Pangeia / dinossauros / extinção |
+| ~1 milhão de anos | primeiros primatas na cronologia do mural |
+| ~993.419 anos | Andon e Fonta, segundo o material baseado em Urântia |
+| ~800 mil anos | primeiro afundamento atlante em cronologias teosóficas do mural |
+| ~600 mil anos | Guardiões, Magos Negros, Dragões; Erg/Morg em parte das fontes |
+| ~480–470 mil anos | Nibiruanos/Anunnaki e cronologia de transmigração de Pedro Augusto |
+| ~300 mil anos | Era de Ouro de Atlântida/Lemúria no mural |
+| ~120–100 mil anos | Homo sapiens / Lulus / Nefilins nas diferentes camadas |
+| ~80 mil anos | alinhamento Alcyone/estrela polar na hipótese do mural |
+| ~53.800 anos | pirâmides na cronologia alternativa registrada no mural |
+| ~48 mil anos | Pandora — `A Divina Colmeia` |
+| ~23 mil anos | Eva — `A Divina Colmeia`; também outro marco de devastação em fonte distinta |
+| ~12,5 mil anos | segunda grande devastação na nota editorial de Jan Val Ellam |
+| ~12 mil anos | fase final de Atlântida nas fontes do mural |
+| primeiros milênios a.C. | Suméria, Babel, Acad, Nínive, Egito |
+| século XIV a.C. | Akhenaton na cronologia histórica |
+| século I a.C./I d.C. | chegada de Jesus à história humana |
+
+## Observação sobre datas
+
+Essa tabela é um **mapa editorial**, não uma cronologia factual consolidada. Cada data continuará vinculada à sua fonte e à sua camada epistemológica.
 
 ---
 
 # Ordem de produção recomendada
 
-## Ciclo 1 — Fundação narrativa
+1. [concluído, estado `revisão`] Prólogo;
+2. [concluído, estado `revisão`] Capítulo 1 — `Antes da Terra`;
+3. [concluído] avançar cronologicamente pelos capítulos 2 a 4 — Capítulos 2 (`Formação da Terra e semeadura da vida`), 3 (`O mundo antes do homem`) e 4 (`Os primeiros humanos`) em estado `rascunho`; Parte I encerrada;
+4. [concluído] usar as fichas já existentes para escrever os capítulos 5 a 12 — todos em `rascunho`; Parte III encerrada;
+5. [concluído] consolidar a passagem para a história documentada nos capítulos 13 a 17 — todos em `rascunho`;
+6. [concluído] escrever o capítulo de Jesus por último — Capítulo 18, `Jesus entra na história humana` — já com toda a trajetória anterior estabelecida.
 
-1. Prólogo;
-2. Capítulo 1;
-3. Capítulo 2;
-4. Capítulo 3.
+**A obra está completa: Prólogo + 18 capítulos, todos em estado `revisão` ou `rascunho`.** Próxima etapa: revisão geral de consistência antes de qualquer publicação, e decisão sobre o início do eixo `Jesus e sua trajetória de vida`.
 
-Objetivo: estabelecer vocabulário, método e hipótese central.
-
-## Ciclo 2 — Base comparativa
-
-5. Capítulos 4 a 10.
-
-Objetivo: construir o contraste entre ciência, Mesopotâmia, Bíblia e gnosticismo.
-
-## Ciclo 3 — Tradições espirituais centrais
-
-6. Capítulos 11 a 19.
-
-Objetivo: desenvolver Capela, Dragões, Atlântida, transmigrações, genética e tecnologia.
-
-## Ciclo 4 — Síntese
-
-7. Capítulos 20 a 25.
-
-Objetivo: integrar cronologias, padrões e implicações morais.
-
-# Observações editoriais
-
-- O sumário é versionável e poderá mudar conforme a pesquisa avançar.
-- Novos capítulos devem cumprir função própria; evitar fragmentar temas apenas para aumentar quantidade.
-- Temas repetidos em várias fontes devem ter um capítulo principal e referências cruzadas nos demais.
-- A linha do tempo é um artefato estrutural e também dará origem ao Capítulo 20.
-- Os primeiros capítulos devem ser escritos antes da pesquisa completa de todas as partes, pois eles definem o método da obra.
+A prioridade editorial passa a ser **cronologia primeiro, temas dentro da cronologia**.
