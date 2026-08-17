@@ -2,54 +2,39 @@
 
 ## Estado
 
-Dossiê criado em 2026-08-16, junto com a primeira versão contínua do capítulo.
+Atualizado em 2026-08-16 após leitura direta de *Os Exilados da Capela* e definição interna Anfion/Antúlio → Jesus.
 
 ## Pergunta central
 
-Que legado religioso, cultural e espiritual convergiu, ao longo de milênios, no mundo específico em que Jesus vai nascer — e o que as tradições espiritualistas reunidas nesta obra já anteciparam sobre essa chegada?
+Que legado religioso, cultural e espiritual convergiu no mundo em que Jesus nasce, e como as tradições já examinadas situam sua atuação antes da encarnação histórica na Palestina?
 
-## Fontes e artefatos já relacionados
+## Fontes principais
 
-| Fonte ou artefato | Natureza | Contribuição para o capítulo | Estado |
+| Fonte | Natureza | Contribuição | Estado |
 | --- | --- | --- | --- |
-| fontes históricas sobre Alexandre e o helenismo | ciência histórica | conquistas de 332-330 a.C., fusão cultural greco-oriental | consultada e incorporada |
-| fontes históricas sobre o domínio romano na Judeia | ciência histórica | ocupação a partir de 63 a.C. | consultada e incorporada |
-| literatura acadêmica sobre messianismo do Segundo Templo | história das religiões | expectativas messiânicas judaicas sob ocupação estrangeira | consultada e incorporada |
-| `../capitulos/01-antes-da-terra-origem-do-universo.md` | capítulo anterior desta obra | Micael/Jesus (Livro de Urântia) | retomado |
-| `../capitulos/06-anunnaki-enki-enlil-e-a-terra.md` | capítulo anterior desta obra | hipótese não confirmada Enki/Deus do Novo Testamento | retomada, ainda não resolvida |
-| `../capitulos/12-queda-de-atlantida-e-o-grande-reinicio.md` | capítulo anterior desta obra | Antúo/Antúlio (tradição de Telos) | retomado, ainda não resolvido |
+| história do helenismo e domínio romano | história | cenário político-cultural do século I | consultada |
+| estudos sobre judaísmo do Segundo Templo | história das religiões | diversidade de expectativas messiânicas | consultada; aprofundamento futuro recomendado |
+| *O Livro de Urântia* | revelatória | Micael de Nebadon identificado com Jesus | validada diretamente no Capítulo 1 |
+| Edgard Armond, *Os Exilados da Capela* | histórico-espiritual | promessa de Jesus aos exilados; Cristo Planetário encarnado como Anfion e Antúlio e, depois, Jesus | **lida diretamente** |
+| Amasofia / tradição de *Harpas Eternas* | espiritualista | sequência de encarnações do Governador Espiritual/Sananda | registrada no acervo |
+| `decisoes-editoriais/2026-08-16-anfion-antulio-jesus.md` | governança interna | define Anfion e Antúlio como encarnações anteriores do espírito de Jesus | vigente |
 
-## Alegações centrais a rastrear
+## Definições vigentes
 
-| Alegação | Proveniência atual | Uso pretendido |
-| --- | --- | --- |
-| conquistas de Alexandre criam o helenismo, 332-330 a.C. | história consolidada | seção 2 |
-| Judeia sob domínio romano a partir de 63 a.C. | história consolidada | seção 3 |
-| expectativas messiânicas intensas no judaísmo do Segundo Templo | consenso de história das religiões | seção 3 |
-| Micael = Jesus | Livro de Urântia — já validado diretamente no Capítulo 1 | seção 4, revisitada, não resolvida |
-| Enki = Deus do Novo Testamento | fonte sensível, sem autoria confirmada — Capítulo 6 | seção 4, revisitada, não resolvida |
-| Antúo/Antúlio = Jesus na Atlântida | tradição de Telos — Capítulo 12 | seção 4, revisitada, não resolvida |
+- **Micael = Jesus**: afirmação própria de *O Livro de Urântia*.
+- **Anfion e Antúlio = encarnações anteriores do espírito de Jesus**: definição interna vigente do Projeto Universalismo, sustentada principalmente por Armond e pela tradição de *Harpas Eternas*.
+- **Enki = Deus do Novo Testamento**: permanece apenas como pista de investigação, sem proveniência substantiva suficiente; não integra o corpo do capítulo.
 
-## Fichas relacionadas
+## Contribuição nova de Armond
 
-- `../fichas/2026-08-01-mural-amasofia-urantia-trimurti.md` (Micael);
-- `../fichas/2026-08-01-mural-enki-catarros-300dc.md` (hipótese sensível Enki/Novo Testamento);
-- `../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md` (Antúo);
-- `../../Personagens/Antúlio.md`.
+Armond cria uma ponte direta entre Capela e Jesus: antes da transferência para a Terra, os exilados são apresentados diante do Cristo Planetário, recebem orientação e a promessa de sua futura vinda. O fechamento do livro apresenta a encarnação histórica de Jesus como cumprimento dessa promessa.
 
-## Termos de glossário relacionados
+Esse arco pode ser resumido como:
 
-- helenismo;
-- messianismo do Segundo Templo;
-- as três pontes com Jesus (Micael; Enki/NT — não resolvida; Antúo/Antúlio — não resolvida).
+**Capela → exílio → reencarnação → civilizações → promessa → Jesus**.
 
-## Divergências e cuidados
+## Pendências
 
-- **regra central deste capítulo**: nenhuma das três pontes com Jesus é resolvida ou fundida com as outras — permanecem hipóteses de proveniência e grau de confiança muito diferentes entre si (Micael tem validação direta na fonte primária; Enki/NT é afirmação isolada sem autoria confirmada; Antúo/Antúlio é tradição contemporânea não confirmada por outras fontes do acervo);
-- a hipótese Enki/Deus do Novo Testamento continua fora do corpo narrativo detalhado — mencionada apenas como pendência registrada, sem desenvolvimento, consistente com a decisão do Capítulo 6;
-- a hipótese Antúo/Antúlio não deve ser apresentada como identidade estabelecida — a própria página `Personagens/Antúlio.md` a trata como hipótese do projeto, não confirmada.
-
-## Próxima ação
-
-1. decidir, em revisão futura ou no eixo "Jesus e sua trajetória de vida", como desenvolver as três pontes revisitadas neste capítulo;
-2. avançar para o dossiê do Capítulo 18 — `Jesus entra na história humana`, capítulo final da obra.
+- aprofundar a diversidade das expectativas messiânicas judaicas;
+- aprofundar Anfion e Antúlio no eixo `Jesus e sua trajetória de vida`;
+- pesquisar a proveniência da afirmação Enki/Deus do Novo Testamento antes de qualquer uso narrativo.

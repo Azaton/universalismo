@@ -1,6 +1,6 @@
 ---
 title: "Enki"
-nav_order: 18
+nav_order: 21
 parent: "Personagens"
 nav_exclude: true
 ---
@@ -19,3 +19,17 @@ Enki é uma das principais entidades da tradição mesopotâmica (sumério-acád
 Em *As Guerras de Deuses e Homens* (Sitchin, Crônicas da Terra, livro 3), Enki aparece como pai de Marduk e de Nergal: convoca o Conselho dos Deuses, opõe-se ao uso das "Armas do Terror" e defende Marduk na disputa que leva à destruição de Sodoma e Gomorra e do espaçoporto do Sinai. Ver [A Guerra dos Deuses e o Holocausto Nuclear](../Estudos/Guerras,-Cataclismos-e-Intervenções/A-Guerra-dos-Deuses-e-o-Holocausto-Nuclear.html).
 
 Este é um registro **especulativo-historiográfico** (leitura de Sitchin sobre mitologia mesopotâmica antiga), de natureza diferente do registro espiritual/canalizado acima (cronologia de encarnações de Pedro Augusto). Os dois não devem ser fundidos como se fossem a mesma fonte ou o mesmo tipo de afirmação só por compartilharem o nome "Enki" — permanece em aberto se há qualquer relação real entre eles.
+
+## Hipótese do projeto — Enki e os Vigilantes
+
+`[HIPÓTESE DO PROJETO]` A investigação sobre [Azazyel](Azazyel.html) e o *Livro dos Vigilantes* abriu uma hipótese adicional: **Enki pode pertencer ao mesmo conjunto de seres ou intervenções associado aos Anunnaki e, em outra tradição, aos Vigilantes**.
+
+Dentro da leitura de Sitchin, Enki já é apresentado como figura central entre os Anunnaki. O passo adicional — identificá-lo como um dos **duzentos Vigilantes** de Enoque ou como correspondente direto de algum deles — não está estabelecido pelas fontes consultadas.
+
+Por enquanto, registrar apenas a possibilidade de que:
+
+> Enki possa ter participado do mesmo universo de intervenções atribuídas aos Anunnaki e preservadas, em linguagem angelológica, na tradição dos Vigilantes.
+
+Não identificar, neste estágio, **Enki = Azazyel**, **Enki = Samyaza** ou outro Vigilante específico. Essa correspondência nominal permanece sem fonte direta.
+
+A hipótese cronológica correlata — duzentos Vigilantes como possível grupo de intervenção Anunnaki em torno de **455 mil anos atrás** — também permanece aberta e precisa ser confrontada com as cronologias internas das diferentes fontes.

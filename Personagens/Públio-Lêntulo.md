@@ -1,6 +1,6 @@
 ---
 title: "Públio Lêntulo"
-nav_order: 45
+nav_order: 48
 parent: "Personagens"
 nav_exclude: true
 ---

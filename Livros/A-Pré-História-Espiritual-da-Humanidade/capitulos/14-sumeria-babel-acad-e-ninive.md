@@ -2,13 +2,6 @@
 title: "14 sumeria babel acad e ninive"
 nav_order: 15
 parent: "capitulos"
-capitulo: 14
-titulo: "Suméria, Babel, Acad e Nínive"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Como a humanidade passa da pré-história reconstruída por tradição e comparação para a história documentada por escrita, e o que muda no estatuto de figuras como Enki quando ele deixa de ser apenas narrativa e passa a ser também culto histórico atestado?"
-objetivo: "Situar o nascimento da civilização documentada na Suméria, o primeiro império de Sargon de Acad, Nínive e a Assíria, e comparar essas civilizações históricas com o Nimrod de Gênesis e com a cronologia interna de Jan Val Ellam para a ascensão de Babel."
 ---
 
 # Capítulo 14 — Suméria, Babel, Acad e Nínive
@@ -62,7 +55,7 @@ O império de Sargon e de seus sucessores — entre eles seu neto Naram-Sin — 
 
 ## 4. Nínive e a ascensão da Assíria
 
-Mais ao norte, a cidade de Nínive, com origens que remontam ao sétimo milênio antes de Cristo como um pequeno assentamento neolítico, torna-se capital da Assíria por volta de 1300 a.C., e alcança seu apogeu monumental por volta de 700 a.C., sob o rei Senaqueribe, que a transforma numa das maiores e mais magníficas cidades do mundo antigo — até sua conquista e destruição, em 612 a.C., por uma coalizão de babilônios, medos e citas.
+Mais ao norte, a cidade de Nínive, com origens que remontam ao sétimo milênio antes de Cristo como um pequeno assentamento neolítico, já era um centro urbano relevante da Assíria por vários séculos, mas só se torna capital depois de 705 a.C., quando o rei Senaqueribe transfere a sede do império para lá e a transforma numa das maiores e mais magníficas cidades do mundo antigo — até sua conquista e destruição, em 612 a.C., por uma coalizão de babilônios, medos e citas.
 
 ## 5. Nimrod, em Gênesis
 

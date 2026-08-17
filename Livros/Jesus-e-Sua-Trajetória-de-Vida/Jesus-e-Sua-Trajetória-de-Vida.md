@@ -58,6 +58,10 @@ Essas famílias não têm o mesmo valor para todas as perguntas. A classificaç�
 
 O manuscrito em construção começa por `primeiro-ano/`.
 
+## Estudos preparatórios
+
+- [Identidade espiritual de Jesus e encarnações atribuídas](identidade-espiritual-e-encarnacoes.html) — investigação comparativa sobre Jesus/Sananda, Antúlio e outras encarnações atribuídas, com *Harpas Eternas* como fonte espiritualista prioritária a ser consultada diretamente.
+
 ## Fontes
 
 Registrar novas referências no [Source Context](../../../doc/source-context.md), na seção `Jesus histórico`, antes de incorporá-las a uma síntese.

@@ -1,6 +1,6 @@
 ---
 title: "Ashtar Sheran"
-nav_order: 6
+nav_order: 8
 parent: "Personagens"
 nav_exclude: true
 ---

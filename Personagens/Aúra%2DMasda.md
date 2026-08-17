@@ -1,6 +1,6 @@
 ---
 title: "Aúra Masda"
-nav_order: 10
+nav_order: 12
 parent: "Personagens"
 nav_exclude: true
 ---

@@ -97,10 +97,16 @@ Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeam
     <td style="text-align: center;"><a href="./Ninrode.html">Ninrode</a></td>
     <td style="text-align: center;"><a href="./Caim.html">Caim</a></td>
     <td style="text-align: center;"><a href="./Abel.html">Abel</a></td>
+    <td style="text-align: center;"><a href="./Antúlio.html">Antúlio</a></td>
+    <td style="text-align: center;"><a href="./Azazyel.html">Azazyel</a></td>
+    <td style="text-align: center;"><a href="./Anfión.html">Anfión</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="./Samyaza.html">Samyaza</a></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
-
-

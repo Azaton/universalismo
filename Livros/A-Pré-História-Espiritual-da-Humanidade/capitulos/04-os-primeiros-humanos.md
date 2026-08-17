@@ -2,13 +2,6 @@
 title: "04 os primeiros humanos"
 nav_order: 5
 parent: "capitulos"
-capitulo: 04
-titulo: "Os primeiros humanos"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "O que significa dizer que a humanidade 'começou' em determinado momento, quando ciência e tradição espiritual apontam para marcos tão diferentes — e por que essa pergunta precisa ser respondida antes de a obra avançar para as narrativas de exílio e intervenção?"
-objetivo: "Comparar a origem biológica da linhagem humana com a narrativa espiritual de Andon e Fonta, estabelecendo o vocabulário de 'humanidade' que sustentará o restante da obra."
 ---
 
 # Capítulo 4 — Os primeiros humanos

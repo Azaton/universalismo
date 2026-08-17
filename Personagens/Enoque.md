@@ -1,6 +1,6 @@
 ---
 title: "Enoque"
-nav_order: 19
+nav_order: 22
 parent: "Personagens"
 nav_exclude: true
 ---

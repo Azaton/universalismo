@@ -1,6 +1,6 @@
 ---
 title: "Zoroastro"
-nav_order: 57
+nav_order: 61
 parent: "Personagens"
 nav_exclude: true
 ---

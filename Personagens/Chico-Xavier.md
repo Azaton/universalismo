@@ -1,6 +1,6 @@
 ---
 title: "Chico Xavier"
-nav_order: 13
+nav_order: 16
 parent: "Personagens"
 nav_exclude: true
 ---

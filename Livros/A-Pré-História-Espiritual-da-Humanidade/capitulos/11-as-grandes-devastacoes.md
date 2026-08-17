@@ -2,13 +2,6 @@
 title: "11 as grandes devastacoes"
 nav_order: 12
 parent: "capitulos"
-capitulo: 11
-titulo: "As grandes devastações"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "O que a personagem Despina afirma sobre duas grandes devastações anteriores ao dilúvio, o que é nota editorial do próprio autor, e como essas datas se comparam ao que a paleoclimatologia documenta para o mesmo período?"
-objetivo: "Apresentar as duas devastações narradas em Homoafetividade: O Segredo Perdido do Éden, separando com rigor a fala da personagem da datação editorial, e comparar essas datas com o Último Máximo Glacial e o evento Younger Dryas."
 ---
 
 # Capítulo 11 — As grandes devastações

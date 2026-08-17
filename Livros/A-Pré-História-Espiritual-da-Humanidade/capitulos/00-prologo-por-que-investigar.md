@@ -2,13 +2,6 @@
 title: "00 prologo por que investigar"
 nav_order: 1
 parent: "capitulos"
-capitulo: 00
-titulo: "Por que investigar a história profunda?"
-estado: revisão
-versao: 0.3
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Por que e como investigar uma história espiritual da humanidade anterior à história documentada, sem cair nem no reducionismo científico nem na aceitação acrítica de qualquer tradição?"
-objetivo: "Apresentar o método multicamada e o eixo cronológico da obra, preparando o leitor para as divergências de datas e fontes que aparecerão nos capítulos seguintes."
 ---
 
 # Prólogo — Por que investigar a história profunda?

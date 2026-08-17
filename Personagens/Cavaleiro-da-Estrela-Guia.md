@@ -1,6 +1,6 @@
 ---
 title: "Cavaleiro da Estrela Guia"
-nav_order: 12
+nav_order: 15
 parent: "Personagens"
 nav_exclude: true
 ---

@@ -2,13 +2,6 @@
 title: "01 antes da terra origem do universo"
 nav_order: 2
 parent: "capitulos"
-capitulo: 01
-titulo: "Antes da Terra: a origem do universo"
-estado: revisão
-versao: 0.3
-ultima_atualizacao: 2026-08-16
-pergunta_central: "O que as fontes desta obra afirmam existir antes da formação da Terra e como esse cenário prepara o início da história espiritual da humanidade?"
-objetivo: "Abrir a narrativa cronológica no marco mais antigo já registrado nesta obra, distinguindo cosmologia científica, narrativa espiritual e síntese interpretativa."
 ---
 
 # Capítulo 1 — Antes da Terra: a origem do universo

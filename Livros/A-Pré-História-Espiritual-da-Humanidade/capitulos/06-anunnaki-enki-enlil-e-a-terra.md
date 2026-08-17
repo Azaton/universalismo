@@ -2,13 +2,6 @@
 title: "06 anunnaki enki enlil e a terra"
 nav_order: 7
 parent: "capitulos"
-capitulo: 06
-titulo: "Anunnaki, Enki, Enlil e os novos habitantes da Terra"
-estado: rascunho
-versao: 0.2
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Quem são os Anunnaki que chegam à Terra há aproximadamente 480 mil anos, e como se relacionam entre si três camadas muito diferentes que usam esse nome: a mitologia mesopotâmica antiga, a releitura moderna de Zecharia Sitchin e a comunicação espiritual de Pedro Augusto?"
-objetivo: "Situar ~480 mil anos como marco cronológico principal da chegada de Enki, Enlil e dos Anunnaki à Terra, comparando-o às cronologias secundárias de Pedro Augusto (~470 mil) e Sitchin (~450 mil), sem fundir as camadas de autoridade muito diferentes que sustentam cada uma."
 ---
 
 # Capítulo 6 — Anunnaki, Enki, Enlil e os novos habitantes da Terra

@@ -2,51 +2,42 @@
 
 ## Estado
 
-Dossiê criado em 2026-08-16, junto com a primeira versão contínua do capítulo — capítulo final da obra.
+Atualizado em 2026-08-16 após leitura direta de *Os Exilados da Capela* e definição interna Anfion/Antúlio → Jesus.
 
 ## Pergunta central
 
-Depois de bilhões de anos de evolução planetária, ciclos civilizacionais, exílios, conflitos, quedas e reconstruções, em que mundo humano Jesus chega, e qual é o significado dessa chegada dentro da história espiritual construída ao longo desta obra?
+Depois de bilhões de anos de história cósmica, planetária e humana, em que mundo Jesus chega e como sua entrada histórica se relaciona às tradições espirituais que situam esse mesmo espírito em períodos anteriores?
 
-## Fontes e artefatos já relacionados
+## Fontes principais
 
-| Fonte ou artefato | Natureza | Contribuição para o capítulo | Estado |
+| Fonte | Natureza | Contribuição | Estado |
 | --- | --- | --- | --- |
-| fontes históricas acadêmicas sobre a datação do nascimento de Jesus | ciência histórica | consenso de ~6-4 a.C., reinado de Herodes, principado de Augusto | consultada e incorporada |
-| toda a obra (Capítulos 1-17) | síntese interna | padrão crístico construído ao longo da obra; retomada das três pontes hipotéticas do Capítulo 17 | retomada integralmente |
+| fontes históricas sobre Jesus, Herodes e Judeia | história | nascimento situado aproximadamente entre 6 e 4 a.C. | consultadas |
+| *O Livro de Urântia* | revelatória | Micael de Nebadon identificado com Jesus | validada diretamente |
+| Edgard Armond, *Os Exilados da Capela* | histórico-espiritual | Anfion e Antúlio como encarnações atlantes do Cristo Planetário; promessa aos exilados; Jesus como cumprimento dessa promessa | **lida diretamente** |
+| Amasofia / tradição de *Harpas Eternas* | espiritualista | sequência ampliada de encarnações associadas ao mesmo espírito | registrada no acervo |
+| `decisoes-editoriais/2026-08-16-anfion-antulio-jesus.md` | governança interna | define Anfion e Antúlio como encarnações anteriores de Jesus | vigente |
 
-## Alegações centrais a rastrear
+## Eixo espiritual consolidado para o fechamento
 
-| Alegação | Proveniência atual | Uso pretendido |
-| --- | --- | --- |
-| nascimento de Jesus entre ~6-4 a.C. | consenso histórico acadêmico | seção 1 |
-| padrão de poder sem maturidade moral, repetido ao longo da obra | síntese interna dos Capítulos 1, 2, 5, 6, 8, 12 | seção 2, contrastada com a entrada de Jesus |
-| três pontes hipotéticas (Micael, Enki, Antúo/Antúlio) | Capítulos 1, 6, 12 — já registradas, não resolvidas | seção 3, revisitadas uma última vez, ainda não resolvidas |
+A obra pode fechar com três níveis claramente distintos:
 
-## Fichas relacionadas
+1. **história** — Jesus entra na história humana no final do século I a.C.;
+2. **Urântia** — Micael é identificado com Jesus numa cosmologia anterior à Terra;
+3. **tradição espiritual atlante** — Anfion e Antúlio são tratados como encarnações anteriores do mesmo espírito.
 
-- Toda a cadeia de dossiês de `fontes-capitulos/01` a `fontes-capitulos/17`, especialmente 01, 06 e 12 (as três pontes hipotéticas).
+A hipótese Enki/Deus do Novo Testamento deixa de integrar o fechamento narrativo enquanto não houver fonte substantiva suficiente.
 
-## Termos de glossário relacionados
+## Arco de Armond
 
-- eixo crístico (conceito que atravessa toda a obra, sintetizado aqui);
-- as três pontes com Jesus (não resolvidas ao final da obra).
+A contribuição mais importante de *Os Exilados da Capela* para este capítulo é estrutural:
 
-## Divergências e cuidados
+**exílio capelino → promessa do Cristo → desenvolvimento histórico e espiritual dos povos → encarnação de Jesus → cumprimento da promessa**.
 
-- este capítulo **não narra a vida de Jesus** — qualquer expansão futura sobre seu ministério, ensinamentos ou morte pertence ao eixo `Jesus e sua trajetória de vida`, fora do escopo desta obra;
-- as três pontes hipotéticas (Micael, Enki, Antúo/Antúlio) permanecem, deliberadamente, sem resolução — a leitura oferecida na seção 3 do capítulo é interpretativa ("se houver qualquer verdade nelas"), não uma afirmação de que qualquer uma delas está correta;
-- a "síntese final" do capítulo é uma leitura teológica/filosófica proposta por esta obra (o contraste entre poder documentado e a chegada modesta de Jesus), não uma conclusão histórica ou científica.
+Esse arco fortalece a ligação entre a primeira metade do livro e seu capítulo final.
 
-## Nota de fechamento da obra
+## Pendências
 
-Com este capítulo, o manuscrito completo do Prólogo ao Capítulo 18 está redigido, cada capítulo com seu dossiê correspondente em `fontes-capitulos/`. Antes de qualquer etapa de publicação externa, recomenda-se:
-
-1. revisão de consistência cronológica entre todos os capítulos (datas, grafias, referências cruzadas);
-2. migração de pendências já resolvidas ao longo da escrita para os dossiês, deixando os capítulos publicáveis mais limpos, conforme o padrão já iniciado nos Capítulos 8-18;
-3. decisão editorial sobre o desenvolvimento futuro das três pontes hipotéticas com Jesus, possivelmente no eixo `Jesus e sua trajetória de vida`.
-
-## Próxima ação
-
-1. revisão geral da obra completa antes de qualquer publicação;
-2. decidir o início do eixo `Jesus e sua trajetória de vida`, que dá continuidade a partir deste ponto.
+- revisão final de consistência da obra completa;
+- desenvolvimento biográfico de Anfion e Antúlio no eixo `Jesus e sua trajetória de vida`;
+- revisão futura da sequência ampliada de encarnações quando *Harpas Eternas* for lido diretamente.

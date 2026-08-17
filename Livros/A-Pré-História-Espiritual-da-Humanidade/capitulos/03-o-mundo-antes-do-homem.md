@@ -2,13 +2,6 @@
 title: "03 o mundo antes do homem"
 nav_order: 4
 parent: "capitulos"
-capitulo: 03
-titulo: "O mundo antes do homem"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Que mundo precedeu a chegada de qualquer linhagem humana, e por que a era dos grandes répteis e sua extinção formam a última grande passagem antes que a Terra se torne, enfim, palco para a humanidade?"
-objetivo: "Atravessar as centenas de milhões de anos entre a origem da vida e o aparecimento dos primeiros hominíneos, concentrando-se em Pangeia, na era dos dinossauros e na extinção que abriu caminho para os mamíferos."
 ---
 
 # Capítulo 3 — O mundo antes do homem

@@ -2,13 +2,6 @@
 title: "13 diluvio noe e recomeco dos povos"
 nav_order: 14
 parent: "capitulos"
-capitulo: 13
-titulo: "Dilúvio, Noé e o recomeço dos povos"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Como se relacionam Ziusudra, Atrahasis, Utnapishtim e Noé — a mesma tradição mesopotâmica reformulada ao longo dos séculos, ou tradições distintas que convergem por coincidência estrutural? E o que uma narrativa espiritualista contemporânea acrescenta à figura de Noé, sem se confundir com o relato bíblico?"
-objetivo: "Desenvolver a hipótese de continuidade entre Ziusudra, Atrahasis e Utnapishtim, distinguir com precisão essa continuidade da relação, mais especulativa, com Noé, e apresentar a cronologia interna de Noé numa obra espiritualista contemporânea sem confundi-la com a cronologia bíblica."
 ---
 
 # Capítulo 13 — Dilúvio, Noé e o recomeço dos povos

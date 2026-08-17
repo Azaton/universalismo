@@ -2,54 +2,54 @@
 
 ## Estado
 
-Dossiê criado em 2026-08-16, junto com a primeira versão contínua do capítulo.
+Atualizado em 2026-08-16 após leitura direta de *Os Exilados da Capela*.
 
 ## Pergunta central
 
-Como diferentes tradições — uma canalização contemporânea sobre Telos, o relato de Platão, e as tradições de dilúvio da Mesopotâmia — narram o colapso final das civilizações perdidas, e o que elas preservam sobre o que sobrevive a uma catástrofe desse porte?
+Como diferentes tradições narram o colapso final de Lemúria e Atlântida, e que memórias preservam sobre sobreviventes, dispersão de povos e continuidade do conhecimento?
 
-## Fontes e artefatos já relacionados
+## Fontes principais
 
-| Fonte ou artefato | Natureza | Contribuição para o capítulo | Estado |
+| Fonte | Natureza | Contribuição | Estado |
 | --- | --- | --- | --- |
-| `../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md` | vídeo/aula; fonte primária fichada (transcrição integral lida) | guerra Lemúria x Atlântida, submersão, fundação de Telos | consultada |
-| Platão, *Timeu* e *Crítias* | fonte filosófica antiga | relato original de Atlântida; datação ~9.000 anos antes de Sólon (~11.600 anos atrás); submersão "num dia e numa noite" | consultada diretamente (verificação externa) |
-| `../fichas/2026-08-01-mural-era-atlantida-12000ac.md` | ficha de pesquisa do mural | Ziusudra, Platão citado pela fonte, vril (origem literária/ocultista), "raça adâmica" | consultada |
-| paleoclimatologia (Younger Dryas) | ciência, já incorporada no Capítulo 11 | comparação com a datação platônica e com a idade do gelo da tradição de Telos | retomada |
+| Celso Rey / tradição de Telos | canalização contemporânea | guerra Lemúria × Atlântida, submersão lemuriana, Telos | consultada por transcrição |
+| Platão, *Timeu* e *Crítias* | fonte antiga | Atlântida, datação de ~9.000 anos antes de Sólon, submersão súbita | consultada diretamente |
+| Edgard Armond, *Os Exilados da Capela* | histórico-espiritual | ~700 mil anos entre Lemúria e Grande Atlântida; apogeu atlante ~70 mil anos; Poseidônis ~11.446 anos; sobreviventes para Américas e norte da África | **lida diretamente** |
+| paleoclimatologia | ciência | Younger Dryas e contexto climático | consultada |
+| tradição mesopotâmica de dilúvio | mito antigo | ponte para Ziusudra/Utnapishtim/Noé | desenvolvida no Capítulo 13 |
 
-## Alegações centrais a rastrear
+## Contribuição nova de Armond
 
-| Alegação | Proveniência atual | Uso pretendido |
-| --- | --- | --- |
-| guerra Lemúria x Atlântida por divergência sobre exilados de Capela | Celso Rey / trilogia de Telos — fonte primária fichada, sem exceção epistemológica de Pedro Augusto | seção 1 |
-| submersão súbita da Lemúria; queda lenta da Atlântida (~200 anos) | Celso Rey / trilogia de Telos | seção 2 |
-| idade do gelo associada ao fim desse ciclo, ~12-10 mil anos | Celso Rey, associação própria do comunicante com registro geológico | seção 2, comparada ao Younger Dryas já estabelecido |
-| fundação de Telos por ~25.000 sobreviventes (de 200.000 autorizados) | trilogia de Telos / Celso Rey | seção 3 |
-| Atlântida submersa ~9.000 anos antes de Sólon, "num dia e numa noite" | Platão, *Timeu* e *Crítias* — fonte antiga direta | seção 4 |
-| Ziusudra como figura suméria do dilúvio | mitologia suméria real, citada pela ficha do mural | seção 5, ponte para o Capítulo 13 |
+*Os Exilados da Capela* acrescenta uma cronologia atlante própria:
 
-## Fichas relacionadas
+- cerca de **700 mil anos** entre o desaparecimento da Lemúria e a Grande Atlântida;
+- aproximadamente **70 mil anos** para o apogeu da civilização atlante;
+- última ilha atlante, **Poseidônis**, desaparecendo há cerca de **11.446 anos**, segundo a tradição espiritual citada por Armond;
+- sobreviventes seguindo para regiões das Américas e para o norte da África, contribuindo especialmente para os egípcios.
 
-- `../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md`;
-- `../fichas/2026-08-01-mural-era-atlantida-12000ac.md`.
+Essa cronologia deve ser preservada como versão espiritual específica. Ela não corrige Platão nem a tradição de Telos.
 
-## Termos de glossário relacionados
+## Convergência relevante com Platão
 
-- Telos / Agartha;
-- exilados de Capela / "raça adâmica" (ligação com o Capítulo 5);
-- Timeu / Crítias (Platão);
-- Ziusudra.
+A data espiritual de Poseidônis em Armond fica muito próxima da ordem de grandeza resultante da cronologia de Platão (~11,6 mil anos atrás na conversão moderna). A proximidade merece registro comparativo, mas não deve ser apresentada como comprovação independente sem análise de dependência entre tradições.
 
-## Divergências e cuidados
+Armond conhece e cita Platão e tradições egípcias; portanto, a proximidade cronológica **pode refletir transmissão textual**, não necessariamente testemunhos independentes.
 
-- **pendência crítica não resolvida**: a ficha de origem registra uma fala de Celso Rey que situa a submersão da Lemúria "há praticamente 2000 anos", incompatível com o restante do próprio relato (que a situa logo após a guerra de ~25 mil anos e antes da idade do gelo de ~12-10 mil anos). Pode ser erro de transcrição automática (confusão "12.000"/"2.000") ou fala literal a verificar diretamente no vídeo. **Nenhuma data exata de submersão deve ser fixada em capítulos futuros ou na linha do tempo até essa checagem ser feita**;
-- a inversão entre a submersão súbita de Atlântida em Platão e a submersão súbita da Lemúria em Celso Rey (com Atlântida caindo lentamente) é registrada como observação estrutural, não resolvida nem harmonizada;
-- "vril" mantém a mesma origem literária/ocultista do século XIX já registrada nos Capítulos 8 e 9 — não é achado arqueológico;
-- a hipótese "Jesus = Antúo" (citada na ficha de Celso Rey) não entra neste capítulo — pertence ao eixo "Jesus e sua trajetória de vida" e à página `Personagens/Antúlio.md`, permanecendo hipótese não confirmada;
-- os "exilados de Capela" desta tradição ainda não foram confirmados como o mesmo grupo do "Erg/Morg" já tratado no Capítulo 5 — tradições possivelmente paralelas.
+## Divergências
 
-## Próxima ação
+- Platão descreve Atlântida submergindo rapidamente;
+- Telos/Celso Rey atribui a submersão súbita à Lemúria e uma queda mais lenta à Atlântida;
+- Armond trabalha com múltiplos afundamentos e uma ilha final, Poseidônis;
+- as cronologias lemurianas permanecem incompatíveis entre as fontes.
 
-1. `[VALIDAR]` conferir diretamente no vídeo de Celso Rey (~16:35) a fala sobre "2000 anos", antes de fixar qualquer data de submersão da Lemúria;
-2. localizar e consultar a trilogia de Telos e o livro *Akenaton*, de Roger Bottini Paranhos;
-3. avançar para o dossiê do Capítulo 13 — `Dilúvio, Noé e o recomeço dos povos`, desenvolvendo a comparação Ziusudra/Utnapishtim/Noé já registrada como hipótese no Capítulo 6.
+## Pendências prioritárias
+
+1. conferir diretamente a transcrição de Celso Rey sobre a data da submersão lemuriana;
+2. ler *Atlântida — No Reino da Luz* e *Atlântida — No Reino das Trevas*;
+3. ler *Erg — O Décimo Planeta*;
+4. mapear dependência Platão → teosofia → Armond → espiritualismo posterior antes de tratar convergências de data como independentes.
+
+## Impactos
+
+- Capítulo 15: sobreviventes atlantes e formação do Egito;
+- eixo de Jesus: Armond situa Anfion e Antúlio na Atlântida como encarnações do Cristo Planetário.

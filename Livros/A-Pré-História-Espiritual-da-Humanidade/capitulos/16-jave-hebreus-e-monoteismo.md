@@ -2,13 +2,6 @@
 title: "16 jave hebreus e monoteismo"
 nav_order: 17
 parent: "capitulos"
-capitulo: 16
-titulo: "Javé, os hebreus e a construção do monoteísmo"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Como o conceito hebraico de Deus se desenvolveu, ao longo de séculos, de um culto dedicado a uma divindade entre outras até um monoteísmo pleno — e como três tradições muito diferentes narram a destruição de Sodoma e Gomorra, um dos episódios mais citados dessa mesma tradição?"
-objetivo: "Acompanhar a formação histórica do monoteísmo hebraico, distinguir o Javé desta obra (Capítulo 2) do YHWH bíblico, e comparar Gênesis, Sitchin e Jan Val Ellam sobre a destruição de Sodoma e Gomorra, sem fundir as três versões."
 ---
 
 # Capítulo 16 — Javé, os hebreus e a construção do monoteísmo

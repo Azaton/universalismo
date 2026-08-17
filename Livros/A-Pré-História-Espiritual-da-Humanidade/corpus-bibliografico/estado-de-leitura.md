@@ -23,9 +23,9 @@ A situação abaixo é conservadora. A disponibilidade do arquivo não significa
 | ID | Obra | Estado no projeto | Próxima ação |
 | --- | --- | --- | --- |
 | CB-001 | A Caminho da Luz | a localizar | localizar uma edição de trabalho e criar ficha |
-| CB-002 | Os Exilados da Capela | catalogada | fichar capítulos sobre ciclos, Capela, Atlântida, dilúvio e povos |
+| CB-002 | Os Exilados da Capela | utilizada | mapear o que Armond herda de *A Caminho da Luz* (CB-001) vs. o que acrescenta por conta própria |
 | CB-003 | O Livro de Urântia | fichada parcialmente | delimitar documentos da Parte III e relações com os capítulos do manuscrito |
-| CB-004 | Erg — O Décimo Planeta | catalogada | mapear sua linha cronológica e as fontes declaradas |
+| CB-004 | Erg — O Décimo Planeta | fichada parcialmente | consolidar Ergs x Morgs e a sequência Rakasha/Oduarpa/Levin nos Capítulos 5, 7, 8 e 12 |
 | CB-005 | Expansão da Consciência | catalogada | analisar estrutura, linha do tempo e método de síntese |
 | CB-006 | A Grande Síntese | catalogada | selecionar trechos sobre evolução, consciência, espírito e lei |
 | CB-007 | Os Dragões | catalogada | fichar origem, transmigração, organização espiritual e eixo moral |

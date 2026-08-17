@@ -2,13 +2,6 @@
 title: "09 nefilins e cultura superior"
 nav_order: 10
 parent: "capitulos"
-capitulo: 09
-titulo: "Nefilins e a cultura superior pré-histórica"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "O que os textos bíblicos realmente afirmam sobre os Nefilins, o que uma reinterpretação moderna acrescenta a essa afirmação, e há alguma base arqueológica para a hipótese de uma 'cultura superior' entre ~100 mil e ~12/25 mil anos atrás?"
-objetivo: "Separar com precisão o texto bíblico sobre os Nefilins da reinterpretação moderna que o combina com Anunnaki e Lulus, e confrontar a hipótese de uma cultura superior pré-histórica com o registro arqueológico do Paleolítico Superior."
 ---
 
 # Capítulo 9 — Nefilins e a cultura superior pré-histórica

@@ -1,6 +1,6 @@
 ---
 title: "Mahavatar Babaji"
-nav_order: 31
+nav_order: 34
 parent: "Personagens"
 nav_exclude: true
 ---

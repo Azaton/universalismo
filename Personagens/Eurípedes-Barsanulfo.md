@@ -1,6 +1,6 @@
 ---
 title: "Eurípedes Barsanulfo"
-nav_order: 20
+nav_order: 23
 parent: "Personagens"
 nav_exclude: true
 ---

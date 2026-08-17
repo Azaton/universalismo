@@ -17,6 +17,18 @@ Este site reúne estudos, reflexões, fontes e sínteses construídos a partir d
 
 O Projeto Universalismo procura integrar abertura espiritual, investigação comparativa e aplicação prática. O conhecimento é estudado não apenas pelo que afirma sobre o universo e a humanidade, mas também pelos frutos morais que pode produzir: amor, serviço, humildade, verdade, perdão, coragem, reforma íntima e responsabilidade.
 
+## Uma chave para compreender este projeto
+
+O Projeto Universalismo investiga diferentes tradições religiosas, espirituais, filosóficas, históricas, arqueológicas e científicas com abertura ampla ao conhecimento. Entretanto, existe uma convicção espiritual que funciona como uma das principais chaves de leitura deste acervo: **a consciência não se limita ao corpo físico e a existência não termina com a morte**.
+
+Dentro dessa visão, o ser humano é compreendido como uma consciência em processo de desenvolvimento, que atravessa experiências destinadas ao aprendizado e à evolução. A vida material representa uma etapa dessa jornada, e não necessariamente sua totalidade.
+
+Essa perspectiva permite investigar de maneira integrada temas como reencarnação, espiritualidade, experiências extrafísicas, evolução moral, outros mundos habitados, diferentes níveis de consciência e a relação entre o ser humano, Deus e o Universo.
+
+O projeto não pressupõe que toda narrativa religiosa, espiritualista, histórica ou cosmológica possua o mesmo grau de evidência. Cada fonte é analisada conforme sua natureza, contexto e verificabilidade. A abertura está em **investigar sem excluir previamente**, preservando ao mesmo tempo o discernimento entre convicção espiritual, interpretação, hipótese e evidência.
+
+> **Estar aberto não significa acreditar sem discernimento; significa não rejeitar uma possibilidade antes de investigá-la.**
+
 ## Duas obras principais em construção
 
 <div class="eixos">
@@ -66,6 +78,11 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
     <div class="card-title">Sobre o Projeto</div>
     <p>Propósito, obras principais e disciplina epistemológica do acervo.</p>
   </a>
+  <a class="card" href="{{ site.baseurl }}{% link Estudos/Qual-o-Sentido-da-Vida.md %}">
+    <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="8.5"/><path d="M9.5 9.3c.3-1.5 1.5-2.3 2.7-2.3 1.4 0 2.6.9 2.6 2.3 0 1.7-2.6 1.9-2.6 4.2" stroke-linecap="round"/><circle cx="12" cy="16.3" r=".25" fill="currentColor"/></svg></span>
+    <div class="card-title">Qual o Sentido da Vida?</div>
+    <p>Um estudo sobre consciência, experiência, escolhas, evolução, amor e serviço.</p>
+  </a>
   <a class="card" href="{{ site.baseurl }}{% link Livros/Jesus-e-Sua-Trajetória-de-Vida/Ensinamentos-de-Jesus/Ensinamentos-de-Jesus.md %}">
     <span class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="2.6"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/></svg></span>
     <div class="card-title">Ensinamentos de Jesus</div>
@@ -106,6 +123,7 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
 ## Em destaque
 
 <div class="refs">
+  <a href="{{ site.baseurl }}{% link Estudos/Qual-o-Sentido-da-Vida.md %}">Qual o Sentido da Vida?</a>
   <a href="{{ site.baseurl }}{% link Estudos/Identidades-de-Gênero-e-Homoafetividade/Identidades-de-Gênero-e-Homoafetividade.md %}">Identidades de Gênero e Homoafetividade</a>
   <a href="{{ site.baseurl }}{% link Estudos/Povos,-Cidades-e-Civilizações/Povos,-Cidades-e-Civilizações.md %}">Povos, Cidades e Civilizações</a>
   <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/A-Pré-História-Espiritual-da-Humanidade.md %}">A Pré-História Espiritual da Humanidade</a>

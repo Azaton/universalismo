@@ -2,49 +2,55 @@
 
 ## Estado
 
-Dossiê criado em 2026-08-16, junto com a primeira versão contínua do capítulo.
+Atualizado em 2026-08-16 após leitura direta de *Os Exilados da Capela*.
 
 ## Pergunta central
 
-O que diferentes tradições espiritualistas afirmam sobre uma aceleração ou intervenção genética que teria preparado corpos humanos primitivos, e como isso se compara ao que a genética populacional realmente documenta?
+O que diferentes tradições afirmam sobre preparação, seleção ou modificação dos corpos humanos, e como esses modelos se comparam ao que a genética populacional documenta?
 
-## Fontes e artefatos já relacionados
+## Fontes principais
 
-| Fonte ou artefato | Natureza | Contribuição para o capítulo | Estado |
+| Fonte | Natureza | Contribuição | Estado |
 | --- | --- | --- | --- |
-| `../fichas/2026-08-02-pedro-augusto-chegada-dragoes-enki-enlil.md` | comunicação espiritual de Pedro Augusto; exceção epistemológica | manipulação genética dos corpos primitivos, retomada do Capítulo 5 | consultada |
-| `../fichas/2026-08-01-mural-era-ouro-atlantida-lemuria-mu.md` | ficha de pesquisa do mural | narrativa dos Lulus (Enki, Ninhursag), distinção mito original/reinterpretação moderna | consultada |
-| `../../O-12º-Planeta.md` | síntese de obra de Sitchin | hipótese de Adapa como trabalhador geneticamente modificado | consultada |
-| fontes de genética populacional | ciência | admixture neandertal (~1-2%) e denisovana (~2-5% Melanésia/Austrália, ~0,1% leste asiático) | consultada e incorporada |
+| Pedro Augusto — `../fichas/2026-08-02-pedro-augusto-chegada-dragoes-enki-enlil.md` | comunicação espiritual | aceleração/manipulação genética de corpos primitivos | consultada |
+| Edgard Armond, *Os Exilados da Capela* | ensaio histórico-espiritual | seleção de núcleos humanos e aperfeiçoamento biológico antes da reencarnação dos capelinos | **lida diretamente** |
+| Zecharia Sitchin, *O 12º Planeta* | hipótese moderna | Adapa/Adão como trabalhador modificado | síntese disponível; leitura direta pendente |
+| releitura moderna dos Lulus | interpretação moderna de motivos mesopotâmicos | Enki/Ninhursag e reprodução de trabalhadores | exige retorno às fontes substantivas |
+| genética populacional | ciência | admixture entre Homo sapiens, neandertais e denisovanos | consultada |
 
-## Alegações centrais a rastrear
+## Contribuição nova de Armond
 
-| Alegação | Proveniência atual | Uso pretendido |
+Armond descreve que, antes da encarnação dos exilados de Capela, **Prepostos espirituais selecionaram grupos humanos biologicamente mais aperfeiçoados**. Esses núcleos estariam no planalto do Pamir, centro-norte da Ásia, Lemúria e entre atlantes primitivos.
+
+O mecanismo é diferente de engenharia genética moderna:
+
+- não há laboratório;
+- não há linguagem de DNA;
+- não há criação instantânea de uma nova espécie;
+- há seleção e aperfeiçoamento progressivo de organismos já existentes, conduzidos espiritualmente.
+
+Isso deve permanecer separado da manipulação genética descrita por Pedro Augusto e da leitura de Sitchin.
+
+## Matriz de comparação
+
+| Modelo | Mecanismo | Finalidade principal |
 | --- | --- | --- |
-| manipulação genética de corpos primitivos por Dragões/Enki/Enlil/Anunnaki | Pedro Augusto — base sólida e principal | seção 1 |
-| Lulus: ajuste genético por Enki/Ninhursag para reprodução independente | mitologia suméria + reinterpretação moderna (Sitchin e correntes correlatas) — não está no texto sumério original | seção 2 |
-| Adapa/Adão como trabalhador geneticamente modificado | Zecharia Sitchin — hipótese especulativa | seção 3 |
-| admixture real entre H. sapiens, neandertais e denisovanos | ciência consolidada | seção 4 |
+| Pedro Augusto | aceleração/manipulação genética | tornar corpos compatíveis com consciências deportadas |
+| Armond | seleção e aperfeiçoamento biológico | preparar núcleos humanos para reencarnação dos capelinos |
+| Lulus | ajuste biológico em releitura moderna | reprodução independente de trabalhadores |
+| Sitchin | engenharia genética | criação de mão de obra |
+| genética científica | cruzamentos naturais entre linhagens terrestres | sem finalidade externa atribuída |
 
-## Fichas relacionadas
+## Cuidados
 
-- `../fichas/2026-08-02-pedro-augusto-chegada-dragoes-enki-enlil.md`;
-- `../fichas/2026-08-01-mural-era-ouro-atlantida-lemuria-mu.md` (seção "Os Lulus" desta ficha; as seções sobre pirâmides, marcador M343 e mapas de Churchward pertencem ao Capítulo 8).
+- não transformar “seleção e aperfeiçoamento” de Armond em “engenharia genética”;
+- não usar admixture neandertal/denisovana como confirmação de intervenção espiritual;
+- não presumir que Armond, Pedro Augusto e Sitchin descrevem um único evento;
+- retornar a textos mesopotâmicos antes de atribuir DNA ou genética ao mito antigo.
 
-## Termos de glossário relacionados
+## Próximas fontes prioritárias
 
-- Lulus (trabalhadores híbridos, mitologia suméria reinterpretada);
-- Adapa (Sitchin);
-- admixture arcaica / introgressão neandertal e denisovana.
-
-## Divergências e cuidados
-
-- a narrativa dos Lulus mistura mitologia suméria real (Enki, Ninhursag) com uma leitura genética moderna que não está nos textos originais — distinção preservada explicitamente no capítulo;
-- as três narrativas de intervenção genética (Pedro Augusto, Lulus, Sitchin) não são tratadas como descrições do mesmo processo — permanecem comparadas, não fundidas;
-- a semelhança estrutural entre "mistura dirigida" (narrativas espirituais) e "mistura natural" (admixture arcaica documentada) é registrada como observação, não como equivalência.
-
-## Próxima ação
-
-1. localizar textos sumérios primários sobre Enki e Ninhursag para precisar os limites entre mito original e reinterpretação moderna;
-2. ler diretamente *O 12º Planeta* para aprofundar a seção sobre Adapa;
-3. revisar o rascunho já existente do Capítulo 8 (`capitulos/08-era-de-ouro-atlantida-lemuria-mu.md`, estado `esboço`) e seu dossiê correspondente antes de avançar.
+1. *O 12º Planeta* — leitura direta;
+2. *Atlântida — No Reino da Luz* — preparação de corpos e Vril;
+3. *Os Nephilins: A Origem* — intervenção humana e Anunnaki;
+4. textos mesopotâmicos primários sobre criação humana.

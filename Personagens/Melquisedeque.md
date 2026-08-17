@@ -1,6 +1,6 @@
 ---
 title: "Melquisedeque"
-nav_order: 34
+nav_order: 37
 parent: "Personagens"
 nav_exclude: true
 ---

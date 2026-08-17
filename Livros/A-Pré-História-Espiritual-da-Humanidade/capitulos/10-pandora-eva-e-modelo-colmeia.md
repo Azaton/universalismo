@@ -2,13 +2,6 @@
 title: "10 pandora eva e modelo colmeia"
 nav_order: 11
 parent: "capitulos"
-capitulo: 10
-titulo: "Pandora, Eva e o rompimento do modelo colmeia"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "O que uma fonte literária específica afirma sobre Pandora e Eva como marcos de libertação de um condicionamento coletivo chamado 'modelo colmeia', e como esses marcos se relacionam com o resto da cronologia já estabelecida por esta obra?"
-objetivo: "Apresentar Pandora (~48 mil anos) e Eva (~23 mil anos) como marcos de um processo de libertação mental/genética narrado por Jan Val Ellam, distinguindo com precisão o que vem de cada obra do autor."
 ---
 
 # Capítulo 10 — Pandora, Eva e o rompimento do modelo colmeia

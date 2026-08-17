@@ -2,13 +2,6 @@
 title: "02 formacao da terra e semeadura da vida"
 nav_order: 3
 parent: "capitulos"
-capitulo: 02
-titulo: "A formação da Terra e a semeadura da vida"
-estado: rascunho
-versao: 0.1
-ultima_atualizacao: 2026-08-16
-pergunta_central: "Como a Terra se formou a partir dos escombros de estrelas anteriores, e o que a ciência e uma narrativa espiritual contemporânea afirmam, cada uma a seu modo, sobre a origem da vida no planeta?"
-objetivo: "Acompanhar a formação da Terra e a origem da vida, comparando a camada científica (acreção planetária, Terra primitiva, abiogênese) com a narrativa espiritual da 'semeadura' por Javé, sem forçar equivalência entre as duas."
 ---
 
 # Capítulo 2 — A formação da Terra e a semeadura da vida

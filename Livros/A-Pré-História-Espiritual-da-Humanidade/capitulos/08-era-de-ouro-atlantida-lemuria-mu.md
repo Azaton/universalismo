@@ -2,13 +2,6 @@
 title: "08 era de ouro atlantida lemuria mu"
 nav_order: 9
 parent: "capitulos"
-capitulo: 08
-titulo: "A Era de Ouro: Atlântida, Lemúria e Mu"
-estado: rascunho
-versao: 0.2
-ultima_atualizacao: 2026-08-16
-pergunta_central: "O que as fontes reunidas nesta obra afirmam sobre a origem, a sociedade e a tecnologia de Atlântida e Lemúria em seu período de florescimento, e como cronologias tão diferentes podem coexistir no mesmo capítulo?"
-objetivo: "Apresentar a Era de Ouro das civilizações perdidas — origem, extensão, sociedade e tecnologia — preservando as diferentes escalas de tempo propostas pelas fontes, sem antecipar o conflito e a queda, que pertencem aos capítulos 11 e 12."
 ---
 
 # Capítulo 8 — A Era de Ouro: Atlântida, Lemúria e Mu

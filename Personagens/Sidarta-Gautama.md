@@ -1,6 +1,6 @@
 ---
 title: "Sidarta Gautama"
-nav_order: 53
+nav_order: 57
 parent: "Personagens"
 nav_exclude: true
 ---
