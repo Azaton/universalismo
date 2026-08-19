@@ -20,25 +20,38 @@ $u-accent-2: #4f96fb; // blue-000, lightened (matches $link-color in dark.scss)
 // (TOC) à direita — commands/site/01-ajustar-layout-sidebar-esquerda.md e
 // commands/site/02-implementar-table-of-contents.md.
 //
-// O Just the Docs centraliza `.main-content-wrap` com `margin: 0 auto`, o que
-// deixa a área de leitura (e a sidebar fixa ao lado dela) flutuando afastada
-// da borda em telas largas. Sobrescrevemos por seletor direto — não por
-// variável Sass ($content-width etc.) — pelo mesmo motivo do override de
+// Primeira tentativa sobrescreveu só `.main-content-wrap` (margin/max-width),
+// mas os prints mostraram que quem precisa ser fixado é o próprio
+// `.side-bar` — sem isso ele continua na posição centralizada que o tema
+// calcula, e a correção anterior só espremia a coluna de leitura sem mover o
+// menu. Sobrescrevemos por seletor direto — não por variável Sass
+// ($nav-width, $content-width etc.) — pelo mesmo motivo do override de
 // footer logo abaixo: este arquivo é importado por último, depois que os
 // módulos do tema já resolveram as variáveis em regras compiladas; reatribuir
 // a variável aqui não teria efeito nelas.
+$u-nav-width: 260px;
 $u-toc-width: 240px;
 $u-layout-gutter: 28px;
 $u-toc-breakpoint: 87.5em; // ~1400px: espaço suficiente para menu + leitura + TOC
+
+@media (min-width: 64em) {
+  .side-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: $u-nav-width;
+    min-width: $u-nav-width;
+  }
+
+  .main {
+    margin-left: $u-nav-width;
+  }
+}
 
 .main-content-wrap {
   @media (min-width: 50em) {
     margin-left: $u-layout-gutter;
     margin-right: $u-layout-gutter;
-  }
-
-  @media (min-width: $u-toc-breakpoint) {
-    margin-right: $u-toc-width + ($u-layout-gutter * 2);
   }
 }
 

@@ -17,10 +17,9 @@ Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeam
 
 **Rianderenenai** → **Enki** → **Atônis** → **Akhenaton** → **Ezequiel** → **Mahavatar Babaji** → **Sansão** → **Cavaleiro da Estrela Guia** → **Alan Kardec** → **Pedro Augusto**
 
+## Índice de Personagens
+
 <table>
-  <tr>
-    <th colspan="6" style="text-align: center;">Índice de Personagens</th>
-  </tr>
   <tr>
     <td style="text-align: center;"><a href="./Akhenaton.html">Akhenaton</a></td>
     <td style="text-align: center;"><a href="./Alan-Kardec.html">Alan Kardec</a></td>
