@@ -46,6 +46,9 @@
     var toc = buildToc(content);
     if (!toc) return;
 
+    // O CSS só reserva a coluna direita para o TOC quando esta classe está
+    // presente, para páginas sem TOC não ficarem com espaço vazio à direita.
+    document.body.classList.add("has-site-toc");
     document.body.appendChild(toc);
   }
 
