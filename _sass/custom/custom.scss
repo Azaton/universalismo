@@ -15,6 +15,100 @@ $u-accent: #8f7bf2; // purple-000, lightened for contrast on dark bg
 $u-accent-soft: rgba(143, 123, 242, 0.16);
 $u-accent-2: #4f96fb; // blue-000, lightened (matches $link-color in dark.scss)
 
+// ---------------------------------------------------------------------------
+// Layout: sidebar esquerda mais próxima da borda + coluna de "Nesta página"
+// (TOC) à direita — commands/site/01-ajustar-layout-sidebar-esquerda.md e
+// commands/site/02-implementar-table-of-contents.md.
+//
+// O Just the Docs centraliza `.main-content-wrap` com `margin: 0 auto`, o que
+// deixa a área de leitura (e a sidebar fixa ao lado dela) flutuando afastada
+// da borda em telas largas. Sobrescrevemos por seletor direto — não por
+// variável Sass ($content-width etc.) — pelo mesmo motivo do override de
+// footer logo abaixo: este arquivo é importado por último, depois que os
+// módulos do tema já resolveram as variáveis em regras compiladas; reatribuir
+// a variável aqui não teria efeito nelas.
+$u-toc-width: 240px;
+$u-layout-gutter: 28px;
+$u-toc-breakpoint: 87.5em; // ~1400px: espaço suficiente para menu + leitura + TOC
+
+.main-content-wrap {
+  @media (min-width: 50em) {
+    margin-left: $u-layout-gutter;
+    margin-right: $u-layout-gutter;
+  }
+
+  @media (min-width: $u-toc-breakpoint) {
+    margin-right: $u-toc-width + ($u-layout-gutter * 2);
+  }
+}
+
+// "Nesta página" — gerado em assets/js/toc.js a partir dos h2/h3 da página
+// (ver _includes/head_custom.html). Ausente do DOM em páginas com poucas
+// seções, então nenhuma regra de exibição condicional é necessária aqui além
+// do breakpoint de largura.
+#site-toc {
+  position: fixed;
+  top: 40px;
+  right: $u-layout-gutter;
+  display: none;
+  width: $u-toc-width;
+  max-height: calc(100vh - 80px);
+  overflow-y: auto;
+
+  @media (min-width: $u-toc-breakpoint) {
+    display: block;
+  }
+
+  .site-toc-title {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $u-muted;
+    margin: 0 0 10px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: block;
+    padding: 5px 0 5px 10px;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    color: $u-body;
+    text-decoration: none;
+    border-left: 2px solid transparent;
+
+    &:hover,
+    &:focus-visible {
+      color: $u-accent;
+      border-left-color: $u-accent;
+      text-decoration: none;
+    }
+  }
+
+  .site-toc-h3 a {
+    padding-left: 22px;
+    font-size: 0.78rem;
+    color: $u-muted;
+  }
+}
+
+// Evita que o clique numa âncora do TOC deixe o título colado no topo da
+// viewport (relevante sobretudo no menu mobile, que pode sobrepor o topo).
+h2[id],
+h3[id] {
+  scroll-margin-top: 16px;
+}
+
 .eixos {
   display: grid;
   grid-template-columns: 1fr 1fr;
