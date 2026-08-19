@@ -20,18 +20,26 @@ $u-accent-2: #4f96fb; // blue-000, lightened (matches $link-color in dark.scss)
 // (TOC) à direita — commands/site/01-ajustar-layout-sidebar-esquerda.md e
 // commands/site/02-implementar-table-of-contents.md.
 //
-// Primeira tentativa sobrescreveu só `.main-content-wrap` (margin/max-width),
-// mas os prints mostraram que quem precisa ser fixado é o próprio
-// `.side-bar` — sem isso ele continua na posição centralizada que o tema
-// calcula, e a correção anterior só espremia a coluna de leitura sem mover o
-// menu. Sobrescrevemos por seletor direto — não por variável Sass
-// ($nav-width, $content-width etc.) — pelo mesmo motivo do override de
-// footer logo abaixo: este arquivo é importado por último, depois que os
-// módulos do tema já resolveram as variáveis em regras compiladas; reatribuir
-// a variável aqui não teria efeito nelas.
+// Iteração 1 sobrescreveu só `.main-content-wrap` (margin/max-width): a
+// sidebar continuava na posição centralizada que o tema calcula, e a
+// correção só espremia a coluna de leitura.
+// Iteração 2 fixou `.side-bar`/`.main` (funcionou), mas manteve
+// `margin-left/right` fixos em `.main-content-wrap` — insuficiente porque o
+// tema centraliza esse elemento por alinhamento flex (`align-items: center`
+// no pai `.main`), que centraliza a caixa com margem incluída independente
+// do valor de margin-left; um valor fixo só troca o tamanho da caixa
+// centralizada, sem parar de centralizar. `align-self: flex-start` é o que
+// de fato tira o elemento da centralização, cobrindo esse mecanismo; o
+// `margin-right: auto` cobre o mecanismo alternativo (`margin: 0 auto`),
+// caso o tema use esse em vez de/além do flex.
+// Sobrescrevemos por seletor direto — não por variável Sass ($nav-width,
+// $content-width etc.) — pelo mesmo motivo do override de footer logo
+// abaixo: este arquivo é importado por último, depois que os módulos do
+// tema já resolveram as variáveis em regras compiladas; reatribuir a
+// variável aqui não teria efeito nelas.
 $u-nav-width: 260px;
 $u-toc-width: 240px;
-$u-layout-gutter: 28px;
+$u-layout-gutter: 40px;
 $u-toc-breakpoint: 87.5em; // ~1400px: espaço suficiente para menu + leitura + TOC
 
 @media (min-width: 64em) {
@@ -46,12 +54,11 @@ $u-toc-breakpoint: 87.5em; // ~1400px: espaço suficiente para menu + leitura + 
   .main {
     margin-left: $u-nav-width;
   }
-}
 
-.main-content-wrap {
-  @media (min-width: 50em) {
+  .main-content-wrap {
+    align-self: flex-start;
     margin-left: $u-layout-gutter;
-    margin-right: $u-layout-gutter;
+    margin-right: auto;
   }
 }
 
