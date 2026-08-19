@@ -20,45 +20,57 @@ $u-accent-2: #4f96fb; // blue-000, lightened (matches $link-color in dark.scss)
 // (TOC) à direita — commands/site/01-ajustar-layout-sidebar-esquerda.md e
 // commands/site/02-implementar-table-of-contents.md.
 //
-// Iteração 1 sobrescreveu só `.main-content-wrap` (margin/max-width): a
-// sidebar continuava na posição centralizada que o tema calcula, e a
-// correção só espremia a coluna de leitura.
-// Iteração 2 fixou `.side-bar`/`.main` (funcionou), mas manteve
-// `margin-left/right` fixos em `.main-content-wrap` — insuficiente porque o
-// tema centraliza esse elemento por alinhamento flex (`align-items: center`
-// no pai `.main`), que centraliza a caixa com margem incluída independente
-// do valor de margin-left; um valor fixo só troca o tamanho da caixa
-// centralizada, sem parar de centralizar. `align-self: flex-start` é o que
-// de fato tira o elemento da centralização, cobrindo esse mecanismo; o
-// `margin-right: auto` cobre o mecanismo alternativo (`margin: 0 auto`),
-// caso o tema use esse em vez de/além do flex.
-// Sobrescrevemos por seletor direto — não por variável Sass ($nav-width,
-// $content-width etc.) — pelo mesmo motivo do override de footer logo
-// abaixo: este arquivo é importado por último, depois que os módulos do
-// tema já resolveram as variáveis em regras compiladas; reatribuir a
-// variável aqui não teria efeito nelas.
+// Iteração 1 sobrescreveu só `.main-content-wrap`: a sidebar continuava na
+// posição centralizada que o tema calcula, e a correção só espremia a
+// coluna de leitura.
+// Iteração 2 fixou `.side-bar`/`.main` (a sidebar corrigiu), mas o gutter
+// fixo em `.main-content-wrap` não bastou: o conteúdo continuou distante.
+// Iteração 3 tentou `align-self: flex-start` + `margin-right: auto`,
+// também sem efeito visível.
+//
+// Fonte real do tema (just-the-docs/just-the-docs, _sass/layout.scss)
+// confirmada via fetch, porque adivinhar a 3ª vez não fez sentido:
+//   .side-bar { @include mq(lg) { width: calc((100% - (nav+content)) / 2
+//     + nav); } }         // sidebar "larga" de propósito, links alinhados
+//                          // à direita da própria caixa (align-items: flex-end)
+//   .main { margin: auto; @include mq(md) { max-width: $content-width; } }
+// `.main` usa `margin: auto` — centraliza em relação à VIEWPORT INTEIRA,
+// ignorando a sidebar (que é `position: fixed`, fora do fluxo do documento).
+// Esse foi sempre o alvo certo, mas `margin-left` sozinho depende de como o
+// motor de renderização resolve a margem `auto` remanescente quando
+// `max-width` já limita a caixa — ambíguo o bastante para não bater com o
+// resultado visual esperado nas duas tentativas anteriores. Eliminamos a
+// ambiguidade: `width` explícito em vez de depender de max-width + margin
+// auto, e `!important` para garantir precedência independente de qualquer
+// particularidade de especificidade/ordem do tema remoto que não
+// conseguimos inspecionar localmente (sem Ruby/Jekyll para buildar e
+// comparar o CSS final).
 $u-nav-width: 260px;
+$u-content-max: 48rem; // ~768px, próximo do $content-width padrão do tema
 $u-toc-width: 240px;
 $u-layout-gutter: 40px;
 $u-toc-breakpoint: 87.5em; // ~1400px: espaço suficiente para menu + leitura + TOC
 
 @media (min-width: 64em) {
   .side-bar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: $u-nav-width;
-    min-width: $u-nav-width;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: $u-nav-width !important;
+    min-width: $u-nav-width !important;
   }
 
   .main {
-    margin-left: $u-nav-width;
+    margin: 0 !important;
+    margin-left: $u-nav-width !important;
+    width: calc(100% - #{$u-nav-width}) !important;
+    max-width: none !important;
   }
 
   .main-content-wrap {
-    align-self: flex-start;
-    margin-left: $u-layout-gutter;
-    margin-right: auto;
+    margin: 0 !important;
+    max-width: $u-content-max !important;
+    padding-left: $u-layout-gutter !important;
   }
 }
 
