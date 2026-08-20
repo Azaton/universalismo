@@ -17,6 +17,18 @@ Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeam
 
 **Rianderenenai** → **Enki** → **Atônis** → **Akhenaton** → **Ezequiel** → **Mahavatar Babaji** → **Sansão** → **Cavaleiro da Estrela Guia** → **Alan Kardec** → **Pedro Augusto**
 
+### Personagem, grupo, lugar ou conceito?
+
+Nem todo nome importante estudado pelo projeto deve virar personagem. A organização passa a distinguir:
+
+- **personagens e entidades individuais** → ficam neste índice;
+- **povos, raças, linhagens e coletivos** → ficam nas páginas de estudo ou mapas de relações;
+- **mundos, sistemas e lugares cosmológicos** → ficam em Estudos;
+- **eventos** → ficam em Estudos, cronologias e mapas;
+- **autores/comunicadores** → podem possuir página de personagem/persona, mas suas afirmações continuam vinculadas às fontes específicas.
+
+Exemplo: **Kadru** é personagem e possui ficha própria; **Yggdrasil** é conceito cosmológico e foi organizado em [Estudos/Yggdrasil](../Estudos/Yggdrasil.md), não como personagem.
+
 ## Índice de Personagens
 
 <table>
@@ -102,8 +114,8 @@ Exemplo registrado no acervo — linhagem espiritual de Pedro Augusto, do mapeam
   </tr>
   <tr>
     <td style="text-align: center;"><a href="./Samyaza.html">Samyaza</a></td>
-    <td></td>
-    <td></td>
+    <td style="text-align: center;"><a href="./Jan-Val-Ellam.html">Jan Val Ellam</a></td>
+    <td style="text-align: center;"><a href="./Kadru.html">Kadru</a></td>
     <td></td>
     <td></td>
     <td></td>

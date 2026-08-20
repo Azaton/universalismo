@@ -130,6 +130,34 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
   <a href="{{ site.baseurl }}{% link Livros/A-História-Sem-Fim.md %}">A História Sem Fim — Michael Ende</a>
 </div>
 
+## Uma história muito anterior ao ser humano
+
+Um dos eixos mais recentes da pesquisa amplia a pré-história espiritual para **centenas de milhões de anos antes do aparecimento da humanidade**. A partir da palestra *Quando a Terra estava vestida de branco*, de Jan Val Ellam, o acervo passou a relacionar a Terra congelada do Criogeniano, a transição dos vertebrados da água para a terra e uma narrativa espiritual envolvendo **Kadru, os Nagas, Yggdrasil, Marte, a Trimurti e o Ragnarök**.
+
+O estudo não transforma essas tradições em uma única história. A proposta é mostrar **onde elas se encontram, onde divergem e qual fonte sustenta cada ligação**. Parte importante desse novo mapa vem das tradições religiosas da Índia; por isso, o acervo agora possui páginas próprias para distinguir o **hinduísmo**, a **tradição védica/indo-ariana** e as releituras cosmológicas modernas que utilizam esse vocabulário.
+
+<div class="refs">
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/mapas/jan-val-terra-vestida-de-branco-relacoes.md %}">Mapa de relações — Terra vestida de branco</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Yggdrasil.md %}">Yggdrasil — tradição nórdica e leitura de Jan Val Ellam</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Hinduismo.md %}">Hinduísmo — tradições, conceitos e relações no acervo</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Tradicao-Vedica-e-Indo-Ariana.md %}">Tradição Védica e Indo-Ariana — o que significa “ariano” neste contexto</a>
+  <a href="{{ site.baseurl }}{% link Personagens/Kadru.md %}">Kadru — tradição hindu e narrativa de intervenção biológica</a>
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/capitulos/03-o-mundo-antes-do-homem.md %}">Capítulo 3 — O mundo antes do homem</a>
+</div>
+
+## Lemúria, Telos e a queda das grandes civilizações antigas
+
+Outra frente ativa da pesquisa reconstrói o que teria sobrevivido à queda da Lemúria: a fundação da comunidade intraterrena de **Telos**, sob o Monte Shasta, e sua inserção numa rede maior de cidades subterrâneas, a **Rede Agartha**. As fontes citam ainda uma guerra entre Lemúria e Atlântida ligada à chegada de exilados de Capela — tema que dialoga com a hipótese, também em estudo, de que conflitos de poder entre "deuses" mesopotâmicos teriam culminado num **holocausto nuclear** na destruição de Sodoma e Gomorra.
+
+Em ambos os casos, o acervo preserva a origem espiritualista das alegações — sem tratá-las como consenso arqueológico — e mantém explícitas as divergências entre as diferentes cronologias já registradas para a queda da Lemúria.
+
+<div class="refs">
+  <a href="{{ site.baseurl }}{% link Estudos/Telos/Telos.md %}">Telos — a comunidade sobrevivente da Lemúria</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Telos/Capitulo-01-Origens-de-Telos.md %}">Capítulo I — Origens de Telos</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Telos/Capitulo-02-A-Sociedade-de-Telos.md %}">Capítulo II — A Sociedade de Telos</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Guerras,-Cataclismos-e-Intervenções/A-Guerra-dos-Deuses-e-o-Holocausto-Nuclear.md %}">A Guerra dos Deuses e o Holocausto Nuclear</a>
+</div>
+
 ## Referências, comunidades e canais
 
 <div class="refs">

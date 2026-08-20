@@ -20,14 +20,14 @@ parent: "capitulos"
 
 - detalhar a bioquímica completa da abiogênese ou revisar exaustivamente as hipóteses científicas concorrentes;
 - resolver a identidade dessa figura chamada "Javé" ou sua eventual relação com Enki, Enlil ou outras figuras que aparecerão em capítulos posteriores — a comparação será retomada quando essas fontes entrarem na narrativa;
-- tratar da era dos dinossauros, da Pangeia ou da extinção em massa, assunto do Capítulo 3;
+- tratar dos grandes congelamentos do Criogeniano, da expansão da vida multicelular, da transição água–terra, da Pangeia, dos dinossauros ou da extinção em massa — sequência agora desenvolvida no Capítulo 3;
 - discutir a origem dos primeiros humanos, que pertence à Parte II da obra.
 
 ### Relação com a obra
 
 - Capítulo anterior: `01-antes-da-terra-origem-do-universo.md`;
 - Capítulo seguinte: `03-o-mundo-antes-do-homem.md`;
-- Conceitos que prepara: Terra primitiva, abiogênese, origem da vida, narrativa de semeadura/intervenção, biosfera.
+- Conceitos que prepara: Terra primitiva, abiogênese, origem da vida, narrativa de semeadura/intervenção, biosfera e evolução biológica em longa duração.
 
 ## Abertura narrativa
 
@@ -93,9 +93,11 @@ As duas camadas ocupam a mesma posição cronológica sem responder à mesma per
 
 ## Ponte para o próximo capítulo
 
-Uma vez que a vida existe, ainda faltam centenas de milhões de anos até qualquer coisa que se pareça com consciência ou humanidade.
+Uma vez que a vida existe, ainda faltam bilhões de anos de transformação até qualquer coisa que se pareça com consciência humana.
 
-O próximo capítulo atravessa esse longo intervalo: a formação da Pangeia, a era dos grandes répteis, os dinossauros, e a extinção em massa que, há aproximadamente 66 milhões de anos, encerra seu domínio sobre o planeta e abre espaço para os mamíferos — entre os quais, muito mais tarde, surgirão os primeiros ancestrais humanos.
+O próximo capítulo começa muito antes de Pangeia. Ele atravessa os grandes congelamentos do Criogeniano — a **Terra “vestida de branco”** —, a expansão e complexificação da vida, a transição dos vertebrados da água para a terra em torno de 375 milhões de anos e a narrativa espiritual de Jan Val Ellam sobre Cadru, Marte e Yggdrasil. Só depois chega à Pangeia, aos dinossauros e à extinção de aproximadamente 66 milhões de anos que abriu novos nichos para os mamíferos.
+
+Essa passagem torna explícito algo que antes ficava comprimido na obra: a pré-história da consciência começa muito antes da história humana propriamente dita.
 
 ## Fontes utilizadas
 
@@ -123,4 +125,4 @@ O próximo capítulo atravessa esse longo intervalo: a formação da Pangeia, a 
 - Pontos fortes: camada científica bem fundamentada (formação da Terra, Hadeano, Arqueano, abiogênese); narrativa espiritual apresentada com precisão epistemológica, sem citar bastidores de pesquisa; comparação entre as duas camadas feita sem fusão nem descarte; leitura espiritual conectada ao tema de posse/domínio que reaparecerá adiante.
 - Lacunas impeditivas: nenhuma para avançar ao Capítulo 3.
 - Pendências secundárias: verificação mais completa da proveniência do nome "Javé" nessa narrativa; decisão futura sobre conexão com Enki/Anunnaki.
-- Próxima ação: revisão comparativa deste capítulo junto ao Capítulo 1 (consistência de voz e de tratamento das fontes) e avanço para o Capítulo 3 — `O mundo antes do homem`.
+- Próxima ação: revisão comparativa deste capítulo junto ao Capítulo 1 (consistência de voz e de tratamento das fontes) e continuidade pelo Capítulo 3 — `O mundo antes do homem`.

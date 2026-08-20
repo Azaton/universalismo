@@ -31,6 +31,22 @@ Assim, Dragões, Anunnaki, Capela, Atlântida, Lemúria, Nefilins, genética, di
 
 Quando houver datas incompatíveis entre fontes, elas serão preservadas e comparadas, sem produzir uma cronologia artificial.
 
+## Rede de conhecimento da obra
+
+Além da sequência dos capítulos, a pesquisa é organizada como uma **rede de relações**. Personagens, povos, mundos, eventos, fontes e conceitos recebem páginas próprias quando necessário e são ligados aos capítulos que utilizam essas informações.
+
+O primeiro mapa desse tipo consolidado para a obra é:
+
+- [Mapa de relações — “Quando a Terra estava vestida de branco”](mapas/jan-val-terra-vestida-de-branco-relacoes.md), que relaciona Jan Val Ellam, Kadru, Nagas, Yggdrasil, Marte, Trimurti, Ragnarök, Tiktaalik, Tirthankaras, Pandora e outros elementos citados na palestra.
+
+Páginas derivadas desse núcleo:
+
+- [Yggdrasil](../../Estudos/Yggdrasil.md) — conceito cosmológico nórdico e releitura de Jan Val Ellam;
+- [Kadru](../../Personagens/Kadru.md) — personagem hindu, genealogia dos Nagas e função atribuída por Jan;
+- [Capítulo 3 — O mundo antes do homem](capitulos/03-o-mundo-antes-do-homem.md) — integração narrativa e cronológica.
+
+A regra é: **a página de personagem ou conceito reúne o conhecimento transversal; o capítulo utiliza somente o que é necessário para a narrativa; o mapa registra as relações entre eles.**
+
 ## Onde começar a leitura do livro
 
 Abra a pasta:
@@ -181,3 +197,4 @@ Todas as cinco partes (Antes da humanidade; Nascimento da humanidade e exílios;
 - Para **entender a sequência completa**: consulte `sumario-editorial.md`.
 - Para **ver quais livros constroem a obra**: entre em `corpus-bibliografico/`.
 - Para **consultar a pesquisa**: use fichas, linha do tempo, matrizes, glossário e dossiês de fontes.
+- Para **entender como personagens, mundos e eventos se conectam**: consulte `mapas/`.

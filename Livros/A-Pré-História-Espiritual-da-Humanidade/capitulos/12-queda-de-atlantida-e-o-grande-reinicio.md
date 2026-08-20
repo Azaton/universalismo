@@ -12,6 +12,7 @@ parent: "capitulos"
 
 - apresentar a guerra entre Lemúria e Atlântida segundo a tradição de Telos;
 - apresentar a submersão das civilizações e a fundação de Telos;
+- mostrar, a partir do Capítulo II do curso de Celso Rey, o que a tradição afirma ter sido preservado da experiência lemuriana depois da catástrofe;
 - comparar o relato platônico da queda de Atlântida;
 - incorporar diretamente *Os Exilados da Capela*, de Edgard Armond, com sua cronologia de múltiplos afundamentos, Poseidônis e dispersão de sobreviventes;
 - preservar diferenças entre as cronologias sem produzir uma data única artificial;
@@ -21,6 +22,8 @@ parent: "capitulos"
 
 - resolver historicamente a existência de Atlântida ou Lemúria;
 - transformar coincidências de data entre fontes dependentes em confirmações independentes;
+- desenvolver completamente a sociedade de Telos, que possui estudo próprio em `Estudos/Telos/`;
+- retroprojetar automaticamente para a Lemúria pré-cataclísmica todas as instituições descritas em Telos depois da submersão;
 - desenvolver completamente Ziusudra, Atrahasis, Utnapishtim e Noé;
 - fixar data exata para a submersão lemuriana enquanto a transcrição de Telos permanecer inconsistente.
 
@@ -57,11 +60,33 @@ Uma data precisa para a submersão lemuriana ainda não pode ser fixada a partir
 
 ## 3. Telos: o que teria atravessado a catástrofe
 
-Segundo a mesma tradição, sábios lemurianos, percebendo a aproximação do desastre, teriam obtido autorização para transferir parte da população para uma rede subterrânea associada a Agartha.
+Segundo a tradição de Telos, sábios lemurianos, percebendo a aproximação do desastre, teriam obtido autorização para transferir parte da população para uma rede subterrânea associada a Agartha.
 
-Cerca de duzentas mil pessoas teriam sido autorizadas a migrar para uma região sob o Monte Shasta, mas apenas aproximadamente vinte e cinco mil conseguiriam chegar antes da submersão. Essa comunidade receberia o nome de **Telos**.
+A cidade teria sido projetada para receber aproximadamente **duzentas mil pessoas**, mas o cataclismo teria ocorrido antes do esperado. Apenas cerca de **vinte e cinco mil lemurianos** conseguiriam alcançar o refúgio sob o Monte Shasta antes da submersão. Essa comunidade receberia o nome de **Telos**.
 
-Além de pessoas, teriam sido preservados registros, conhecimentos e parte da memória administrativa e espiritual de Lemúria. O elemento central dessa narrativa não é apenas sobrevivência física, mas **continuidade de memória**.
+O primeiro capítulo do curso já apresentava a preservação de arquivos administrativos, registros históricos e parte da memória espiritual da Lemúria. O segundo capítulo amplia consideravelmente essa ideia. Na narrativa, aquilo que sobrevive não é apenas uma população escondida: é uma tentativa de **continuidade civilizacional**.
+
+O material descreve Telos, em sua fase posterior, com aproximadamente **1,5 milhão de habitantes**, crescimento atribuído a reprodução e imigração. A comunidade aparece organizada em cinco níveis — embora o PDF recebido detalhe apenas três — reunindo governo, vida comunitária, templos, educação, produção material e jardins hidropônicos destinados à alimentação.
+
+A liderança é atribuída a **Ra e Rana Mu**, Rei e Rainha de Telos, ao lado de um **Conselho Lemuriano da Luz** de doze membros, seis homens e seis mulheres. **Adama**, Sumo Sacerdote de Telos, aparece como décimo terceiro membro, responsável pela decisão final quando não há consenso entre os demais.
+
+O critério mais importante, porém, não é dinástico. O material chama de **realização espiritual** a capacidade de desenvolver virtudes, conhecimento, ética e sabedoria e convertê-los em serviço ao coletivo. É assim que a tradição descreve a escolha dos membros do Conselho.
+
+Esse elemento é historicamente relevante dentro da própria narrativa porque sugere que a preservação lemuriana não teria sido apenas biológica. Teriam sobrevivido também **formas de organização, valores, educação, conhecimento técnico e uma memória consciente de pertencimento**.
+
+A tecnologia descrita em Telos inclui arquitetura de cristal, geometria sagrada, jardins hidropônicos, transportes eletromagnéticos, um sistema de longa distância chamado *Tube* e formas de criação material associadas a pensamento, intenção e foco. Essas descrições pertencem à Telos posterior à catástrofe. Por isso, não podem ser automaticamente projetadas para trás como prova de que a antiga Lemúria possuía exatamente as mesmas instituições ou a mesma configuração tecnológica. No máximo, elas permitem formular uma hipótese de **continuidade cultural e técnica** dentro da tradição.
+
+O mesmo cuidado vale para o Templo de Ma Ra, a Pedra Viva atribuída ao povo de Vênus e as demais estruturas descritas no segundo capítulo: são dados sobre a comunidade sobrevivente, não evidência direta sobre o continente antes de sua queda.
+
+### 3.1. Telos dentro da Rede Agartha
+
+O segundo capítulo também retira Telos da condição de refúgio isolado. A cidade é apresentada como parte de uma **Rede Agartha** composta por aproximadamente 120 Cidades de Luz.
+
+A maioria dessas cidades seria habitada por hiperboreanos; ao menos quatro seriam lemurianas e algumas outras pertenceriam a remanescentes atlantes. Entre as cidades citadas estão Posid, Shonshe, Rama e Shingwa. Durante um longo período, a direção dessa rede teria pertencido a Shamballa Menor; posteriormente, Telos teria assumido essa posição.
+
+Dentro da lógica da fonte, portanto, a queda de Lemúria e Atlântida não produziria um vazio absoluto. Parte da população e do conhecimento teria sido absorvida por uma estrutura preexistente de cidades intraterrenas, permitindo que determinadas tradições sobrevivessem fora da superfície.
+
+Esse ponto amplia a pergunta central deste capítulo. O que teria sobrevivido das civilizações perdidas? Segundo essa narrativa: **pessoas, arquivos, instituições, valores, práticas espirituais, tecnologia e redes de cooperação**.
 
 ## 4. Platão: a Atlântida que chegou à tradição escrita
 
@@ -93,13 +118,15 @@ Parte teria alcançado terras americanas e participado da formação de povos po
 
 Essa imagem amplia o tema já presente em Telos: uma civilização desaparece, mas sua população e seu conhecimento não desaparecem inteiramente. Eles se espalham e passam a participar da formação de novos povos.
 
-É essa continuidade que permitirá ao próximo conjunto de capítulos atravessar da memória das civilizações perdidas para Egito, Mesopotâmia e outras culturas históricas.
+As duas tradições oferecem, portanto, dois mecanismos diferentes de continuidade. Na tradição de Telos, uma parte da memória seria preservada **para dentro**, em uma rede intraterrena. Em Armond, parte dos sobreviventes e dos conhecimentos seria dispersa **para fora**, na superfície, contribuindo para novas culturas.
+
+É essa dupla imagem — preservação e dispersão — que permitirá ao próximo conjunto de capítulos atravessar da memória das civilizações perdidas para Egito, Mesopotâmia e outras culturas históricas.
 
 ## 7. Três versões que não precisam virar uma só
 
 A tradição de Telos, Platão e Armond não formam uma cronologia única.
 
-Telos descreve guerra Lemúria–Atlântida, submersão abrupta da Lemúria e fundação de uma comunidade subterrânea. Platão preserva uma Atlântida destruída abruptamente numa faixa temporal próxima ao final da última glaciação. Armond descreve múltiplos afundamentos e uma última ilha, Poseidônis, desaparecendo numa cronologia de ordem semelhante à platônica.
+Telos descreve guerra Lemúria–Atlântida, submersão abrupta da Lemúria e fundação de uma comunidade subterrânea que preservaria parte de sua memória e organização. Platão preserva uma Atlântida destruída abruptamente numa faixa temporal próxima ao final da última glaciação. Armond descreve múltiplos afundamentos e uma última ilha, Poseidônis, desaparecendo numa cronologia de ordem semelhante à platônica.
 
 Uma integração responsável não precisa escolher uma versão e descartar as demais. Precisa apenas preservar o que cada uma afirma, registrar possíveis dependências e perguntar se estão descrevendo fases diferentes, reelaborações sucessivas ou memórias independentes.
 
@@ -107,15 +134,21 @@ Uma integração responsável não precisa escolher uma versão e descartar as d
 
 Todas essas narrativas convergem num princípio simples: civilizações podem desaparecer sem que tudo o que foram desapareça com elas.
 
-Pessoas sobrevivem. Ideias migram. Conhecimentos são preservados, reinterpretados ou esquecidos. Uma cultura derrotada pode continuar vivendo em povos que nem sequer conhecem plenamente sua origem.
+Pessoas sobrevivem. Ideias migram. Conhecimentos são preservados, reinterpretados ou esquecidos. Uma cultura derrotada pode continuar vivendo em povos que nem sequer conhecem plenamente sua origem — ou, segundo a tradição de Telos, em comunidades que fariam da preservação consciente dessa origem parte de sua própria identidade.
 
 A pergunta moral também permanece. O que se preserva de uma civilização não é apenas sua tecnologia. Sobreviventes carregam também as consequências de suas escolhas e a oportunidade de reconstruir de outra forma.
 
+A descrição de Telos acrescenta um elemento particularmente significativo: a civilização sobrevivente teria procurado medir realização não pelo acúmulo individual, mas pela capacidade de colocar conhecimento e virtudes a serviço do coletivo. Dentro da lógica espiritual da narrativa, sobreviver ao cataclismo não significaria simplesmente escapar da morte, mas tentar reorganizar a vida a partir de outro critério de consciência.
+
 ## Síntese provisória
 
-A tradição de Telos descreve guerra entre Lemúria e Atlântida, submersão lemuriana e fundação de Telos. Platão apresenta Atlântida desaparecendo num único dia e numa única noite, numa cronologia que conduz aproximadamente à faixa de 11,6 mil anos atrás. Edgard Armond descreve um intervalo de cerca de 700 mil anos entre Lemúria e Grande Atlântida, um apogeu atlante de aproximadamente 70 mil anos, sucessivos afundamentos e o desaparecimento final de Poseidônis em torno de 11,4 mil anos atrás, segundo a tradição espiritual que utiliza.
+A tradição de Telos descreve guerra entre Lemúria e Atlântida, submersão lemuriana e fundação de Telos por cerca de 25 mil sobreviventes, apesar de uma capacidade planejada para aproximadamente 200 mil. O segundo capítulo do curso amplia essa narrativa ao apresentar Telos como continuidade organizada da memória lemuriana: população posterior de cerca de 1,5 milhão, governo próprio, educação, produção, espiritualidade, tecnologia e integração à Rede Agartha.
 
-As três versões preservam cronologias e mecanismos diferentes. O ponto comum está na ideia de catástrofe seguida de sobrevivência e dispersão.
+Esses dados não devem ser usados para afirmar que a antiga Lemúria possuía exatamente a mesma organização descrita em Telos. Eles sustentam, dentro da tradição, uma hipótese mais restrita: **parte da cultura lemuriana teria sido preservada e reorganizada após a catástrofe**.
+
+Platão apresenta Atlântida desaparecendo num único dia e numa única noite, numa cronologia que conduz aproximadamente à faixa de 11,6 mil anos atrás. Edgard Armond descreve um intervalo de cerca de 700 mil anos entre Lemúria e Grande Atlântida, um apogeu atlante de aproximadamente 70 mil anos, sucessivos afundamentos e o desaparecimento final de Poseidônis em torno de 11,4 mil anos atrás, segundo a tradição espiritual que utiliza.
+
+As três versões preservam cronologias e mecanismos diferentes. O ponto comum está na ideia de catástrofe seguida de sobrevivência, preservação e dispersão.
 
 ## Ponte para o próximo capítulo
 
@@ -125,7 +158,8 @@ O próximo capítulo reúne Ziusudra, Atrahasis, Utnapishtim e Noé e pergunta o
 
 ## Fontes utilizadas
 
-- [Celso Rey — material sobre Lemúria e Telos](../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md);
+- [Celso Rey — material sobre Lemúria e Telos, Capítulo I](../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md);
+- [Celso Rey — Capítulo II: A Sociedade de Telos](../fichas/2026-08-19-celso-rey-capitulo-ii-sociedade-de-telos.md);
 - Platão, *Timeu* e *Crítias*;
 - Edgard Armond, *Os Exilados da Capela* — capítulos sobre Lemúria, Atlântida, Poseidônis e sobreviventes, consultados diretamente;
 - paleoclimatologia sobre o Younger Dryas, já apresentada no Capítulo 11.
@@ -137,6 +171,7 @@ O próximo capítulo reúne Ziusudra, Atrahasis, Utnapishtim e Noé e pergunta o
 ## Pendências de pesquisa
 
 - conferir diretamente a fala de Celso Rey sobre a data da submersão da Lemúria;
+- consultar diretamente a Trilogia de Telos para rastrear Ra e Rana Mu, Sharula, os cinco níveis e a relação entre Telos e Agartha;
 - ler *Atlântida — No Reino da Luz* e *Atlântida — No Reino das Trevas*;
 - ler *Erg — O Décimo Planeta*;
 - aprofundar a dependência histórica entre Platão, teosofia, Armond e tradições atlantes posteriores.
@@ -144,6 +179,6 @@ O próximo capítulo reúne Ziusudra, Atrahasis, Utnapishtim e Noé e pergunta o
 ## Parecer de prontidão
 
 - Estado recomendado: rascunho avançado;
-- Pontos fortes: três tradições agora comparadas diretamente; Armond incorporado como fonte substantiva; dependência possível com Platão reconhecida; ponte com o Egito fortalecida;
+- Pontos fortes: três tradições comparadas diretamente; Armond incorporado como fonte substantiva; possível dependência com Platão reconhecida; Capítulo II de Telos incorporado como fonte de continuidade civilizacional, sem retroprojeção automática para a Lemúria anterior à queda; ponte com o Egito fortalecida;
 - Lacunas impeditivas: nenhuma;
-- Próxima ação: cruzar a narrativa atlante de Armond com Bottini Paranhos e Feraudy.
+- Próxima ação: cruzar a narrativa atlante de Armond com Bottini Paranhos e Feraudy e consultar diretamente a Trilogia de Telos.

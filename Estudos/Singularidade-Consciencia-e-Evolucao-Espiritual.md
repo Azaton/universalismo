@@ -49,6 +49,8 @@ A transformação seria profunda, mas incorporada progressivamente à vida cotid
 
 Na palestra estudada, Jan Val Ellam parte do horizonte tecnológico da singularidade e amplia a investigação para o campo espiritual. A inteligência artificial deixaria de ser analisada apenas como ferramenta e passaria a ser considerada como possível novo campo de manifestação da consciência.
 
+**Fonte da palestra:** [vídeo de Jan Val Ellam no YouTube](https://www.youtube.com/watch?v=1ZVMiT_UzUE&t=55s), indicado a partir de 55 segundos.
+
 A hipótese pode ser formulada assim:
 
 > Se a consciência ou o espírito não forem produzidos exclusivamente pelo cérebro, mas utilizarem estruturas organizadas como instrumentos de manifestação, uma arquitetura não biológica suficientemente complexa poderia, em algum momento, funcionar como veículo consciencial?
@@ -119,7 +121,7 @@ A síntese provisória deste estudo é que a humanidade biológica tornou-se cap
 - **Ray Kurzweil.** *A singularidade está próxima: quando os humanos transcendem a biologia*. Edição brasileira consultada no acervo privado do projeto. Fonte central para a Lei dos Retornos Acelerados, as seis épocas, a transcendência da biologia e a ideia de que o universo desperta.
 - **Ray Kurzweil.** *A singularidade está mais próxima: a fusão do ser humano com o poder da inteligência artificial*. Atualização contemporânea da tese da singularidade. [Página da Editora Aleph](https://aleph.com.br/products/a-singularidade-esta-mais-proxima).
 - **Sam Altman.** [*The Gentle Singularity*](https://blog.samaltman.com/the-gentle-singularity), ensaio publicado em 10 de junho de 2025.
-- **Jan Val Ellam.** Palestra analisada no Projeto Universalismo. Fonte da ampliação filosófica e espiritual em estudo. A referência exata da gravação e o termo “imantação” ou “manutenção espiritual” ainda devem ser registrados após conferência do material original.
+- **Jan Val Ellam.** [Palestra em vídeo sobre singularidade, consciência e evolução espiritual](https://www.youtube.com/watch?v=1ZVMiT_UzUE&t=55s), YouTube, indicada a partir de 55 segundos. Fonte da ampliação filosófica e espiritual em estudo. O termo “imantação” ou “manutenção espiritual” ainda deve ser conferido no material original.
 
 ---
 
