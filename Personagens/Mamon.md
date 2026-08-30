@@ -1,6 +1,6 @@
 ---
 title: "Mamon"
-nav_order: 35
+nav_order: 39
 parent: "Personagens"
 nav_exclude: true
 ---

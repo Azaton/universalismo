@@ -100,11 +100,11 @@ O eixo `Jesus e sua trajetória de vida` parte daqui: do nascimento histórico d
 - fontes históricas sobre a datação do nascimento de Jesus e o contexto da Judeia no final do reinado de Herodes;
 - *O Livro de Urântia* — Micael de Nebadon e sua identificação com Jesus;
 - Edgard Armond, *Os Exilados da Capela* — promessa aos exilados e encarnações atlantes como Anfion e Antúlio;
-- tradição de *Harpas Eternas* — [pesquisa consolidada sobre encarnações de Jesus](../../Amasofia/Encarnações-de-Jesus-na-Terra.md).
+- tradição de *Harpas Eternas* — [pesquisa consolidada sobre encarnações de Jesus](../../../Amasofia/Encarnações-de-Jesus-na-Terra.md).
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes do Capítulo 18](../fontes-capitulos/18-fontes-jesus-entra-na-historia-humana.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

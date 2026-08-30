@@ -1,6 +1,6 @@
 ---
 title: "O Filho do Homem (Jesus)"
-nav_order: 13
+nav_order: 12
 parent: "Urântia"
 ---
 

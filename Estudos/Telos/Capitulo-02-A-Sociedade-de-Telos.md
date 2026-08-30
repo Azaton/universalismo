@@ -1,5 +1,5 @@
 ---
-title: "Capítulo II — A Sociedade de Telos"
+title: "Capitulo 02 A Sociedade de Telos"
 nav_order: 2
 parent: "Telos"
 ---

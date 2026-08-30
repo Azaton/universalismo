@@ -105,7 +105,7 @@ Essa passagem torna explícito algo que antes ficava comprimido na obra: a pré-
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 2](../fontes-capitulos/02-fontes-formacao-da-terra-e-semeadura-da-vida.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Fontes previstas para validação e expansão
 

@@ -1,7 +1,7 @@
 ---
-title: "Hinduísmo"
+title: "Hinduismo"
+nav_order: 29
 parent: "Estudos"
-nav_exclude: true
 ---
 
 # Hinduísmo

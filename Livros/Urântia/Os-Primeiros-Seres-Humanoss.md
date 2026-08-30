@@ -1,6 +1,6 @@
 ---
 title: "Os Primeiros Seres Humanoss"
-nav_order: 16
+nav_order: 15
 parent: "Urântia"
 ---
 

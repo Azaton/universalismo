@@ -116,14 +116,14 @@ O próximo capítulo acompanha essas três camadas separadamente e adota aproxim
 
 ## Fontes utilizadas
 
-- [Pedro Augusto — a chegada dos Dragões, Enki e Enlil à Terra](../fichas/2026-08-02-pedro-augusto-chegada-dragoes-enki-enlil.md);
+- Pedro Augusto — a chegada dos Dragões, Enki e Enlil à Terra;
 - Edgard Armond, *Os Exilados da Capela* — capítulos sobre a constituição da humanidade, a sentença de exílio e as reencarnações dos capelinos, consultados diretamente;
-- tradição posterior sobre Guardiões/Perseu, magos negros/Capela e Dragões/Maldek — [pesquisa e rastreabilidade](../fichas/2026-08-01-mural-origem-guardioes-magos-negros-dragoes.md);
+- tradição posterior sobre Guardiões/Perseu, magos negros/Capela e Dragões/Maldek — pesquisa e rastreabilidade;
 - fontes de paleoantropologia sobre o *Homo antecessor*.
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 5](../fontes-capitulos/05-fontes-guerra-nos-ceus-e-chegada-dos-exilados.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

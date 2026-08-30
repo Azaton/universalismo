@@ -1,6 +1,6 @@
 ---
 title: "Karma vS Darma"
-nav_order: 30
+nav_order: 34
 parent: "Estudos"
 ---
 

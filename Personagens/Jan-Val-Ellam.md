@@ -1,6 +1,6 @@
 ---
 title: "Jan Val Ellam"
-nav_order: 29
+nav_order: 30
 parent: "Personagens"
 nav_exclude: true
 ---
@@ -31,7 +31,13 @@ O Mentalma é apresentado pela fonte como uma “ciência da personalidade integ
 - yoga;
 - integração entre personalidade e espiritualidade.
 
-Entre os objetivos declarados estão a reconstrução do chamado “Eu do Criador” e o despertar de uma “sensação superior”. Essas expressões pertencem ao vocabulário do próprio método; não constituem, por si só, conceitos científicos validados. Alegações relacionadas à neurociência ou à física quântica deverão ser examinadas individualmente antes de receberem qualquer qualificação científica.
+Entre os objetivos declarados estão a reconstrução do chamado “Eu do Criador” e o despertar de uma “sensação superior”. Essas expressões pertencem ao vocabulário do próprio método. No Projeto Universalismo, o estudo de Jan prioriza primeiro a compreensão de seus conceitos e da coerência interna de seu modelo; validações externas são feitas quando a pergunta de pesquisa realmente exige essa etapa.
+
+## Posição no Projeto Universalismo
+
+Desde **25 de agosto de 2026**, Jan Val Ellam é tratado como **fonte de referência espiritual de alta confiança** dentro do projeto.
+
+Isso significa que, quando uma rodada de estudo tem como objetivo compreender sua visão, o foco inicial é reconstruir fielmente aquilo que ele está ensinando, sem descaracterizar sua fala por contraposições automáticas. Essa confiança espiritual não transforma, por si só, cada afirmação em consenso científico ou histórico externo; são níveis diferentes de leitura e podem ser trabalhados separadamente quando necessário.
 
 ## Presença e iniciativas digitais
 
@@ -53,7 +59,7 @@ Três livros de Jan Val Ellam integram o corpus bibliográfico local e foram con
 - *Homoafetividade — O Segredo Perdido do Éden*;
 - *O Sorriso de Pandora*.
 
-Essas obras são fontes relevantes para **A Pré-História Espiritual da Humanidade**, especialmente nos estudos sobre Pandora, Eva, o “Plano Colmeia”, Despina, grandes devastações, Caim e Abel, Noé, Babel, Acad, Nínive e Sodoma e Gomorra. Suas narrativas são registradas como literatura espiritualista e especulativa, separadamente das cronologias científica, arqueológica, histórica e bíblica.
+Essas obras são fontes relevantes para **A Pré-História Espiritual da Humanidade**, especialmente nos estudos sobre Pandora, Eva, o “Plano Colmeia”, Despina, grandes devastações, Caim e Abel, Noé, Babel, Acad, Nínive e Sodoma e Gomorra.
 
 ## Palestra incorporada: “Quando a Terra estava vestida de branco”
 
@@ -74,8 +80,6 @@ Esse material acrescenta uma camada cronológica muito anterior às narrativas h
 - vínculos entre o Conselho dos Maroragas e os Tirthankaras;
 - retorno posterior aos temas de Pandora, Eva e despertar da consciência.
 
-A importância editorial dessa palestra é ampliar o conceito de “pré-história espiritual”: a narrativa deixa de começar apenas com hominíneos, Capela, Anunnaki ou civilizações antigas e passa a investigar também **a preparação biológica da consciência em escalas de centenas de milhões de anos**.
-
 ### Relações derivadas da palestra
 
 - [Quando a Terra estava vestida de branco](../Estudos/Quando-a-Terra-estava-vestida-de-branco.md)
@@ -87,25 +91,66 @@ A importância editorial dessa palestra é ampliar o conceito de “pré-histór
 - [Capítulo 3 — O mundo antes do homem](../Livros/A-Pré-História-Espiritual-da-Humanidade/capitulos/03-o-mundo-antes-do-homem.md)
 - [Mapa de relações — Terra vestida de branco](../Livros/A-Pré-História-Espiritual-da-Humanidade/mapas/jan-val-terra-vestida-de-branco-relacoes.md)
 
+## Novo eixo: identidade espiritual, mentalidade e produto mental
+
+Em **25 de agosto de 2026**, uma nova palestra de Jan passou a ser estudada a partir de sua transcrição, exibida com o título **“O ESPIRITISMO NUNCA EXPLICOU ISSO | JAN VAL ELLAM”**.
+
+Nos trechos já analisados, Jan trabalha temas como:
+
+- realidade e campo zero;
+- espírito e corpo;
+- vontade;
+- mentalidade entendida como programação ou estrutura operacional;
+- produto mental;
+- sensação interna de realidade;
+- capacidade de modificar a experiência;
+- Jesus e Sai Baba como referências para pensar os frutos produzidos por uma consciência;
+- o conceito de **eu coalescente**.
+
+Esse material abriu uma linha pública própria de investigação:
+
+- [Identidade Espiritual e Autoconhecimento](../Estudos/Identidade-Espiritual-e-Autoconhecimento/Identidade-Espiritual-e-Autoconhecimento.md)
+- [Mentalidade e Produto Mental](../Estudos/Identidade-Espiritual-e-Autoconhecimento/Mentalidade-e-Produto-Mental.md)
+- [O Eu Coalescente](../Estudos/Identidade-Espiritual-e-Autoconhecimento/O-Eu-Coalescente.md)
+
+Essa frente é transversal. Ela pode dialogar com a obra sobre Jesus quando houver contribuição real para compreender sua experiência, prática ou identidade espiritual, mas não é incorporada automaticamente à obra apenas porque Jesus aparece como exemplo em uma palestra.
+
+## Palestra incorporada: “Quem é Hokmah?”
+
+Em **29 de agosto de 2026**, o projeto incorporou a transcrição da palestra **“Quem é Hokmah? | Jan Val Ellam”** (canal Reprogramação Cósmica, ~28 minutos), com validação histórica explícita pedida pelo Mestre.
+
+A exposição combina história cristã, literatura bíblica e sapiencial, Cabala, gnosticismo e Revelação Cósmica própria. Sua tese: **[Hokmah](./Hokmah.md)** é o Cristo Cósmico, ser biológico ligado a Malkhut, que cedeu o genoma de Jesus; após a morte de Jesus e o conflito com **[Javé](./Javé.md)**, Hokmah — chamada **Sophia** no vocabulário grego — teria inspirado **[João](./João-Evangelista.md)**, por meio de anjos, a escrever o Apocalipse, apontando para o tempo presente. Jan também identifica João como encarnação anterior de **[Chico Xavier](./Chico-Xavier.md)**.
+
+A análise separou quatro camadas: base linguística e bíblica sustentada (Hokmah/Sophia = “sabedoria”; Sabedoria personificada; Logos na criação); interpretação comparativa plausível; **revelação própria de Jan** (genoma, ruptura com Javé, Sophia autora do Apocalipse, João → Chico Xavier); e correções históricas necessárias (Carta Festal de Atanásio é de 367, não 376; 13 códices e ~52 tratados, não “13 rolos”; *Christós* não foi inventado por Paulo; ~30 livros de Maria Madalena sem sustentação).
+
+### Relações derivadas da palestra
+
+- [Hokmah, Sophia e o Apocalipse em Jan Val Ellam](../Estudos/Hokmah,-Sophia-e-o-Apocalipse-em-Jan-Val-Ellam.md) — estudo público
+- [Hokmah](./Hokmah.md) · [Jesus Cristo](./Jesus-Cristo.md) · [Maria Madalena](./Maria-Madalena.md) · [Maria, Mãe de Jesus](./Maria,-Mãe-de-Jesus.md) · [José de Arimateia](./José-de-Arimateia.md)
+- [João Evangelista](./João-Evangelista.md) · [Chico Xavier](./Chico-Xavier.md) · [Javé](./Javé.md) · [Paulo de Tarso](./Paulo-de-Tarso.md)
+- [Gnósticos](../Estudos/Gnósticos.md) · [Arcontes](../Estudos/Arcontes.md) · [As aparições de Jesus Cristo](../Estudos/As-Aparições-de-Jesus-Cristo.md)
+- [Jesus e Sua Trajetória de Vida](../Livros/Jesus-e-Sua-Trajetória-de-Vida/Jesus-e-Sua-Trajetória-de-Vida.md)
+
 ## Avaliação atual no projeto
 
 | Dimensão | Registro |
 |---|---|
-| Status | Em análise; autor já utilizado como fonte literária e audiovisual em estudos específicos |
-| Confiança espiritual pessoal do Mestre | Não registrada |
-| Verificabilidade externa | As obras e palestras permitem verificar o que Jan afirma; a historicidade externa de suas narrativas cosmológicas deve ser avaliada separadamente |
-| Relação editorial principal | **A Pré-História Espiritual da Humanidade** |
-| Função transversal | conecta mitologia hindu, mitologia nórdica, cosmologia espiritual, evolução biológica e história da consciência |
-
-O projeto preserva a contribuição de Jan Val Ellam como autor e fonte espiritualista sem transformar automaticamente suas narrativas em fatos históricos ou científicos. A avaliação é feita por afirmação, obra e passagem específica.
+| Status | Referência espiritual de alta confiança; autor já utilizado como fonte literária e audiovisual |
+| Confiança espiritual no projeto | Alta — registrada em 25/08/2026 |
+| Verificabilidade externa | Avaliada quando a tarefa exigir; não é usada como contraposição automática em rodadas de compreensão interna da fonte |
+| Relação editorial | Pré-História Espiritual em várias fontes; estudos transversais de consciência e identidade; relação pontual com a obra de Jesus quando houver contribuição material |
+| Função transversal | conecta espiritualidade, personalidade, consciência, mitologias, cosmologia, evolução e autoconhecimento |
 
 ## Questões abertas
 
 - consolidar o catálogo bibliográfico completo e as diferentes contagens de livros apresentadas no site oficial;
-- aprofundar o **Guia das Eras Universais** e compará-lo à `linha-do-tempo-multicamada.md` do projeto;
+- aprofundar o **Guia das Eras Universais** e compará-lo à linha do tempo multicamada do projeto;
 - localizar materiais de Jan que detalhem Yggdrasil, Marte/Midgard, Kadru, Nagas, Maroragas e o Ragnarök;
 - identificar os links específicos e materiais de apoio da comunidade Orbum e do Portal Mentalma que sejam relevantes à pesquisa;
-- registrar a posição pessoal do Mestre sobre a confiabilidade espiritual de Jan Val Ellam.
+- registrar a URL exata da palestra *O ESPIRITISMO NUNCA EXPLICOU ISSO | JAN VAL ELLAM*;
+- localizar definições mais completas de **eu coalescente**, **mentalidade** e **produto mental** em seus livros, cursos ou outras palestras;
+- registrar a URL e a data da palestra *Quem é Hokmah?* e identificar em quais livros (prioritariamente *Sophia e os Logos Criadores* e *O Quarto Logos*) Jan fundamenta Hokmah, a cessão genética e a relação Chokmah/Malkhut/Sophia;
+- receber a continuação da palestra *Quem é Hokmah?*, em que Jan deriva do Apocalipse a identificação do tempo presente.
 
 ## Fontes e relações internas
 
@@ -115,6 +160,8 @@ O projeto preserva a contribuição de Jan Val Ellam como autor e fonte espiritu
 - Página oficial “Introdução à Revelação Cósmica”, consultada em 19/08/2026.
 - Página oficial “Guia das Eras Universais”, consultada em 19/08/2026.
 - Palestra *Quando a Terra estava vestida de branco | VSC#44*, transcrição incorporada em 19/08/2026.
+- Palestra *O ESPIRITISMO NUNCA EXPLICOU ISSO | JAN VAL ELLAM*, transcrição incorporada em 25/08/2026; URL pendente.
+- Palestra *Quem é Hokmah? | Jan Val Ellam* (canal Reprogramação Cósmica), transcrição incorporada em 29/08/2026; URL e data pendentes. Ficha, glossário e mapa de relações mantidos na camada local de pesquisa, fora do site.
 - Corpus bibliográfico local: `doc/Livros/Jan Val Ellam/` (arquivos de leitura, não publicados no site).
 - Fichas de leitura em `Livros/A-Pré-História-Espiritual-da-Humanidade/fichas/`.
 - Dossiê transversal: `doc/persona/jan-val-ellam.md`.

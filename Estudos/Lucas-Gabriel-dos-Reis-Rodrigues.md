@@ -1,6 +1,6 @@
 ---
 title: "Lucas Gabriel dos Reis Rodrigues"
-nav_order: 32
+nav_order: 36
 parent: "Estudos"
 ---
 

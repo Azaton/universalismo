@@ -160,8 +160,8 @@ O episódio Yggdrasil/Marte também utiliza a ideia de transferência de seres e
 ## 8. Páginas que este mapa alimenta
 
 - [Capítulo 3 — O mundo antes do homem](../capitulos/03-o-mundo-antes-do-homem.md)
-- [Linha do tempo multicamada](../linha-do-tempo-multicamada.md)
-- [Ficha da palestra](../fichas/2026-08-19-video-jan-val-quando-a-terra-estava-vestida-de-branco.md)
+- Linha do tempo multicamada
+- Ficha da palestra
 - [Yggdrasil](../../../Estudos/Yggdrasil.md)
 - [Kadru](../../../Personagens/Kadru.md)
 - [Jan Val Ellam](../../../Personagens/Jan-Val-Ellam.md)
@@ -192,7 +192,7 @@ Assim, o repositório não vira apenas uma coleção de personagens. Ele passa a
 ## Fontes de apoio
 
 - Jan Val Ellam, **“Quando a Terra estava vestida de branco | VSC#44”**, vídeo/transcrição incorporado ao projeto em 19/08/2026.
-- [Ficha interna da palestra](../fichas/2026-08-19-video-jan-val-quando-a-terra-estava-vestida-de-branco.md).
+- Ficha interna da palestra.
 - World-Tree Project, **The World-Tree in Literature**, para Yggdrasil e suas fontes nórdicas.
 - *Mahabharata*, Adi Parva, e materiais de referência sobre Kadru/Kadrū e Kashyapa.
 - Fontes paleontológicas já registradas no dossiê do Capítulo 3 para Tiktaalik e a transição água–terra.

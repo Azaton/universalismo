@@ -1,6 +1,6 @@
 ---
 title: "Javé"
-nav_order: 29
+nav_order: 31
 parent: "Personagens"
 nav_exclude: true
 ---
@@ -26,6 +26,16 @@ Ver:
 - [Tradição Védica e Indo-Ariana](../Estudos/Tradicao-Vedica-e-Indo-Ariana.md)
 
 A fonte apresenta um paradoxo explícito: Javé tentaria eliminar, em suas criaturas, características (como a atração pelo mesmo sexo, ou marcas de nascença como as de Caim) que na verdade se originam dele mesmo. O vídeo também deixa claro que Javé "não manda neste universo" — quem manda seria "a fonte", da qual Javé seria apenas "um fio que tá um pouquinho desequilibrado".
+
+## No podcast *Quem é Hokmah?* (Jan Val Ellam)
+
+Na palestra [Quem é Hokmah?](../Estudos/Hokmah,-Sophia-e-o-Apocalipse-em-Jan-Val-Ellam.md), incorporada ao projeto em 29/08/2026, Javé reaparece como **contraparte de conflito**:
+
+- é identificado com **Keter** (a primeira sefirá) e descrito como governante do “universo vizinho”;
+- Jesus teria **rompido com Javé** ao perceber que “Javé e a criação estavam doentes”, recusando a função profética esperada;
+- [Hokmah](./Hokmah.md), o Cristo Cósmico, teria percebido a condição de Javé e assumido, no lugar dele, o cumprimento da promessa da volta.
+
+Camada: **revelação de Jan**. É consistente com a leitura já registrada nesta página — Javé como “fio desequilibrado” da fonte, com psiquismo caótico —, mas a equivalência Javé = Keter e a cena da ruptura com Jesus são específicas desta exposição. Note-se que a identificação Javé = Brahma (outra fonte) e Javé = Keter (esta) são **correspondências de fontes espiritualistas distintas**, não doutrina da Cabala nem do hinduísmo.
 
 ## Relações atuais no acervo
 

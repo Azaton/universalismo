@@ -13,6 +13,7 @@ Mapas selecionados podem ser publicados no site quando tiverem valor explicativo
 ## Mapas disponíveis
 
 - [Jan Val Ellam — “Quando a Terra estava vestida de branco”](./jan-val-terra-vestida-de-branco-relacoes.md) — Yggdrasil, Marte/Midgard, Kadru, Nagas, Maroragas, Trimurti, Ragnarök, Tiktaalik, Tirthankaras, Pandora e conexões com outras narrativas do projeto.
+- [Relações entre personagens, nomes e epítetos](./Relações-entre-Personagens,-Nomes-e-Epítetos.md) — distingue identidade, epíteto, papel narrativo, parentesco, analogia, reencarnação e hipótese; começa pelo núcleo Pandora, Adão, Eva, serpente, Zeus, Javé e Sidarta.
 
 ## Mapas previstos
 

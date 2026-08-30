@@ -1,6 +1,6 @@
 ---
 title: "Triângulo das Bermudas"
-nav_order: 49
+nav_order: 60
 parent: "Estudos"
 ---
 

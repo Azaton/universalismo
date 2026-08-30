@@ -101,11 +101,11 @@ O próximo capítulo acompanha a formação do monoteísmo hebraico e retoma a f
 
 - Edgard Armond, *Os Exilados da Capela* — sobreviventes atlantes, formação dos quatro povos e contribuição para os egípcios;
 - fontes de egiptologia sobre o Egito do Novo Império e o período de Amarna;
-- [pesquisa sobre a datação de Akhenaton](../fichas/2026-08-01-mural-egito-4000ac.md).
+- pesquisa sobre a datação de Akhenaton.
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes do Capítulo 15](../fontes-capitulos/15-fontes-egito-herancas-e-akhenaton.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

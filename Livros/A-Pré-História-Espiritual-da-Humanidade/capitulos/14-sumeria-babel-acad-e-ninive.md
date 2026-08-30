@@ -96,11 +96,11 @@ O próximo capítulo acompanha o Egito antigo, sua possível relação com os so
 - fontes históricas consolidadas sobre Nínive e a Assíria;
 - Gênesis 10–11 — Nimrod e a torre de Babel, consultados diretamente;
 - literatura acadêmica sobre a hipótese de identificação entre Nimrod e Sargon/Naram-Sin;
-- [Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden](../fichas/2026-08-15-livro-homoafetividade-segredo-perdido-do-eden.md) — Babel, Acad e Nínive atribuídas a Nemrod; ascensão de Babel há ~4.900 anos.
+- Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden — Babel, Acad e Nínive atribuídas a Nemrod; ascensão de Babel há ~4.900 anos.
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes, rastreabilidade e pendências do Capítulo 14](../fontes-capitulos/14-fontes-sumeria-babel-acad-e-ninive.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

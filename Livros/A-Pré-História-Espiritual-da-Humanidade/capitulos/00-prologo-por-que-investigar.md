@@ -117,7 +117,7 @@ O próximo capítulo retorna ao marco mais antigo já reunido nesta obra — apr
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Prólogo](../fontes-capitulos/00-fontes-prologo.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Decisão editorial — padrão de notas (2026-08-16)
 

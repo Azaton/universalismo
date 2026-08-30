@@ -127,18 +127,48 @@ A evolução espiritual não é compreendida apenas como aquisição de conhecim
   <a href="{{ site.baseurl }}{% link Estudos/Identidades-de-Gênero-e-Homoafetividade/Identidades-de-Gênero-e-Homoafetividade.md %}">Identidades de Gênero e Homoafetividade</a>
   <a href="{{ site.baseurl }}{% link Estudos/Povos,-Cidades-e-Civilizações/Povos,-Cidades-e-Civilizações.md %}">Povos, Cidades e Civilizações</a>
   <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/A-Pré-História-Espiritual-da-Humanidade.md %}">A Pré-História Espiritual da Humanidade</a>
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/mapas/Relações-entre-Personagens,-Nomes-e-Epítetos.md %}">Relações entre personagens, nomes e epítetos</a>
   <a href="{{ site.baseurl }}{% link Livros/A-História-Sem-Fim.md %}">A História Sem Fim — Michael Ende</a>
+</div>
+
+## Quando um personagem pode ter mais de um nome
+
+As fontes antigas e espiritualistas nem sempre apresentam seus personagens como indivíduos isolados, conhecidos por um único nome. Um título pode ser usado por diferentes pessoas; a mesma entidade pode receber nomes distintos entre tradições; e um personagem pode desempenhar um papel simbólico associado a outra figura.
+
+Em *O Sorriso de Pandora*, por exemplo, **Pandora é apresentada como uma Eva ancestral**, mas não como a Eva bíblica. Seu companheiro ocupa a função de Adão, enquanto outro Adão e outra Eva aparecem posteriormente no Jardim do Éden. A obra também associa Pandora ao papel da serpente, aproxima Caos, Brahma e Javé como nomes da entidade criadora e mantém Zeus como personagem distinto.
+
+Essas relações não significam automaticamente reencarnação. O projeto diferencia **identidade declarada, epíteto, papel narrativo, parentesco, analogia, reencarnação e hipótese**, preservando sempre qual fonte criou cada ligação.
+
+<div class="refs">
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/mapas/Relações-entre-Personagens,-Nomes-e-Epítetos.md %}">Mapa — Relações entre personagens, nomes e epítetos</a>
+  <a href="{{ site.baseurl }}{% link Personagens/Pandora.md %}">Pandora — uma Eva anterior ao casal bíblico</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Mitologia-Grega.md %}">Mitologia Grega — tradição e releituras espiritualistas</a>
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/capitulos/10-pandora-eva-e-modelo-colmeia.md %}">Capítulo 10 — Pandora, Eva e o modelo colmeia</a>
+</div>
+
+## Separar o que se sabe do que se especula
+
+Nem todo tema do acervo comporta uma resposta fechada. As "estruturas colossais sob as pirâmides de Gizé" são um bom exemplo: a divulgação mistura **arqueologia estabelecida** (vazios internos confirmados por muografia, câmaras e passagens subterrâneas conhecidas, a rocha do planalto que explica a estabilidade das pirâmides), **uma proposta científica contestada** (a técnica de radar de Biondi e Malanga, cujo artigo de 2022 foi retratado em 2026) e **hipóteses sem base nos dados** (cidades ocultas, "vórtices de energia", tecnologia não terrestre).
+
+O estudo dessas camadas serve também como exercício de leitura crítica — sem usar um método geofísico em disputa para provar ou descartar as narrativas espiritualistas do acervo.
+
+<div class="refs">
+  <a href="{{ site.baseurl }}{% link Estudos/Pirâmides-de-Gizé-e-o-Mundo-Subterrâneo.md %}">Pirâmides de Gizé e o Mundo Subterrâneo</a>
+  <a href="{{ site.baseurl }}{% link Estudos/A-Grande-Pirâmide-Branca-da-China.md %}">A Grande Pirâmide Branca da China</a>
+  <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/capitulos/08-era-de-ouro-atlantida-lemuria-mu.md %}">Capítulo 8 — Era de ouro: Atlântida, Lemúria e Mu</a>
 </div>
 
 ## Uma história muito anterior ao ser humano
 
 Um dos eixos mais recentes da pesquisa amplia a pré-história espiritual para **centenas de milhões de anos antes do aparecimento da humanidade**. A partir da palestra *Quando a Terra estava vestida de branco*, de Jan Val Ellam, o acervo passou a relacionar a Terra congelada do Criogeniano, a transição dos vertebrados da água para a terra e uma narrativa espiritual envolvendo **Kadru, os Nagas, Yggdrasil, Marte, a Trimurti e o Ragnarök**.
 
-O estudo não transforma essas tradições em uma única história. A proposta é mostrar **onde elas se encontram, onde divergem e qual fonte sustenta cada ligação**. Parte importante desse novo mapa vem das tradições religiosas da Índia; por isso, o acervo agora possui páginas próprias para distinguir o **hinduísmo**, a **tradição védica/indo-ariana** e as releituras cosmológicas modernas que utilizam esse vocabulário.
+O estudo não transforma essas tradições em uma única história. A proposta é mostrar **onde elas se encontram, onde divergem e qual fonte sustenta cada ligação**. Parte importante desse novo mapa vem das tradições religiosas da Índia e das mitologias nórdica e grega; por isso, o acervo agora possui páginas-mãe específicas para estudar cada tradição antes de examinar suas releituras espiritualistas.
 
 <div class="refs">
   <a href="{{ site.baseurl }}{% link Livros/A-Pré-História-Espiritual-da-Humanidade/mapas/jan-val-terra-vestida-de-branco-relacoes.md %}">Mapa de relações — Terra vestida de branco</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Mitologia-Nordica.md %}">Mitologia Nórdica — Eddas, Yggdrasil, Midgard e Ragnarök</a>
   <a href="{{ site.baseurl }}{% link Estudos/Yggdrasil.md %}">Yggdrasil — tradição nórdica e leitura de Jan Val Ellam</a>
+  <a href="{{ site.baseurl }}{% link Estudos/Mitologia-Grega.md %}">Mitologia Grega — Olimpo, Zeus, Pandora, Prometeu e Epimeteu</a>
   <a href="{{ site.baseurl }}{% link Estudos/Hinduismo.md %}">Hinduísmo — tradições, conceitos e relações no acervo</a>
   <a href="{{ site.baseurl }}{% link Estudos/Tradicao-Vedica-e-Indo-Ariana.md %}">Tradição Védica e Indo-Ariana — o que significa “ariano” neste contexto</a>
   <a href="{{ site.baseurl }}{% link Personagens/Kadru.md %}">Kadru — tradição hindu e narrativa de intervenção biológica</a>

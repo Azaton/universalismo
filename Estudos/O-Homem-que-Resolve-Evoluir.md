@@ -1,6 +1,6 @@
 ---
 title: "O Homem que Resolve Evoluir"
-nav_order: 36
+nav_order: 42
 parent: "Estudos"
 ---
 

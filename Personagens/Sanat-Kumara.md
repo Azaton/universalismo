@@ -1,6 +1,6 @@
 ---
 title: "Sanat Kumara"
-nav_order: 54
+nav_order: 60
 parent: "Personagens"
 nav_exclude: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ressonância Harmônica"
-nav_order: 45
+nav_order: 54
 parent: "Estudos"
 ---
 

@@ -12,6 +12,7 @@ parent: "capitulos"
 
 - apresentar o "Plano Colmeia" e o processo de libertação mental/genética descrito por Jan Val Ellam em *A Divina Colmeia*;
 - situar Pandora (~48 mil anos) e Eva (~23 mil anos) como dois marcos desse mesmo processo, segundo essa fonte;
+- registrar um segundo marco de Pandora — a sua **criação, há aproximadamente 74 mil anos** —, com fonte direta em *O Sorriso de Pandora* e corroborado por uma palestra da linha de Pedro Augusto, tratando-o como evento possivelmente distinto do "deslacre mental" de ~48 mil anos;
 - apresentar, como narrativa complementar e distinta, a transformação de Pandora de condição não humana para humana, segundo *O Sorriso de Pandora*, preservando o elenco de referências exclusivo dessa obra;
 - manter claramente separado este marco de Eva (~23 mil anos, ligado ao rompimento das "travas" do condicionamento) de um evento numericamente coincidente, mas distinto, que pertence ao próximo capítulo desta obra.
 
@@ -39,11 +40,17 @@ Segundo *A Divina Colmeia*, uma entidade chamada Javé — já mencionada nesta 
 
 Esta obra ainda não teve acesso à descrição completa desse modelo — a fonte é uma obra protegida por direitos autorais, consultada apenas para verificação pontual de alegações específicas, não para reprodução extensa de seu conteúdo. O que se pode afirmar com segurança, a partir dessa consulta, é que o livro descreve um processo de ruptura progressiva desse condicionamento, protagonizado por duas figuras em momentos distintos: Pandora e Eva.
 
-## 2. Pandora e o deslacre mental
+## 2. Pandora: dois marcos e uma narrativa em primeira pessoa
 
-Segundo a mesma fonte, Pandora teria realizado, há aproximadamente **48 mil anos**, algo que o livro descreve como um "deslacre mental" — o primeiro rompimento significativo do condicionamento do Plano Colmeia.
+Segundo *A Divina Colmeia*, Pandora teria realizado, há aproximadamente **48 mil anos**, algo que o livro descreve como um "deslacre mental" — o primeiro rompimento significativo do condicionamento do Plano Colmeia.
 
-Uma obra complementar do mesmo autor, *O Sorriso de Pandora*, narrada em primeira pessoa pela própria personagem, amplia essa figura: apresenta Pandora numa passagem de uma condição originalmente não humana para uma condição humana, participando da formação de linhagens humanas, associada simbolicamente à serpente do relato do Éden, e cercada por um elenco de referências próprio — Prometeu, Epimeteu, figuras olímpicas, Nefilins e grupos identificados como de "Sírius". É importante notar que esse elenco pertence especificamente a essa segunda obra; não há indicação de que a mesma combinação de referências apareça em *A Divina Colmeia*, e esta obra evita presumir que as duas narrativas descrevem exatamente a mesma sequência de eventos em todos os detalhes.
+Uma obra complementar do mesmo autor, *O Sorriso de Pandora*, narrada em primeira pessoa pela própria personagem, acrescenta um marco anterior: a sua **criação**. Nessa obra, Pandora afirma ter sido "criada só muito recentemente, há cerca de 74 mil anos" — surgida como filha de Zeus, ainda em condição não humana. Uma palestra da linha de Pedro Augusto, atribuída às entidades Sidarta e Pai João de Angola e que declara *O Sorriso de Pandora* como fonte, repete essa mesma marcação e boa parte da narrativa do livro.
+
+Os dois números não se contradizem obrigatoriamente. Uma criação precede necessariamente a humanização e a atuação transformadora da mesma personagem; é plausível, portanto, que "~74 mil anos" designe o surgimento de Pandora e "~48 mil anos" designe o ato posterior de "deslacre" descrito em *A Divina Colmeia*. Esta obra os trata como **marcos possivelmente distintos** do mesmo percurso, e registra que a conciliação exata entre as duas obras de Jan Val Ellam ainda está em aberto — não se deve fundir os dois valores nem declarar a questão resolvida.
+
+*O Sorriso de Pandora* também amplia a figura: apresenta a passagem de Pandora de uma condição não humana para humana, descrevendo-a como a "primeira mulher" da linhagem humana terrena e associando-a simbolicamente à serpente do relato do Éden; a formação de linhagens humanas a partir da sua descendência; e um elenco de agentes próprio — os titãs Prometeu e Epimeteu, figuras olímpicas (Atena, Hefesto, Hermes), os Nephelim "do clã de Enki" e um grupo do sistema de "Sírius". O livro enquadra tudo isso como um projeto plural e de longa duração, conduzido por "mãos invisíveis" — leitura que a palestra resume na imagem didática de um "grande escritório" onde muitos agentes participam de um mesmo projeto.
+
+Quatro pontos da palestra **não** têm respaldo em *O Sorriso de Pandora* e permanecem atribuídos apenas às entidades comunicantes: a aproximação entre Zeus e Javé (o livro mantém Zeus como demônio olimpiano e Javé como o criador, associado a Caos/Brahma — figuras distintas); a identificação dos "olimpianos" com os "vedas" (provavelmente "devas") da cultura hindu; o número exato de "três" encarnações humanas de Pandora após o dilúvio (o livro fala em reencarnações humanas sem fixar quantidade); e um grupo chamado "Clud", que não existe no livro — a manipulação genética "com técnicas modernas" que a palestra lhe atribui é, na obra, dos Nephelim do clã de Enki, e "Clud" é provável corruptela de transcrição.
 
 ## 3. Eva e o rompimento de outras travas
 
@@ -65,7 +72,7 @@ Se os capítulos anteriores desta obra insistiram na tensão entre poder e respo
 
 ## Síntese provisória
 
-Segundo *A Divina Colmeia*, de Jan Val Ellam, a humanidade viveu sob um condicionamento coletivo — o "Plano Colmeia", associado a Javé — do qual Pandora, há aproximadamente 48 mil anos, e Eva, há aproximadamente 23 mil anos, romperam sucessivas camadas, num processo de libertação que a fonte situa em torno de 50 mil anos de duração. Uma obra complementar do mesmo autor, *O Sorriso de Pandora*, amplia a figura de Pandora com um elenco de referências próprio, sem que se possa presumir uma correspondência detalhada e completa entre as duas narrativas.
+Segundo *A Divina Colmeia*, de Jan Val Ellam, a humanidade viveu sob um condicionamento coletivo — o "Plano Colmeia", associado a Javé — do qual Pandora, há aproximadamente 48 mil anos, e Eva, há aproximadamente 23 mil anos, romperam sucessivas camadas, num processo de libertação que a fonte situa em torno de 50 mil anos de duração. Uma obra complementar do mesmo autor, *O Sorriso de Pandora*, situa a **criação** de Pandora há aproximadamente 74 mil anos e narra, em primeira pessoa, a sua passagem de uma condição não humana para a de "primeira mulher" da linhagem humana terrena, num projeto plural conduzido por titãs, figuras olímpicas, Nephelim e um grupo siriano. Os marcos de ~74 mil e ~48 mil anos são tratados como possivelmente distintos — criação e "deslacre" —, sem fusão nem afirmação de contradição, enquanto a conciliação entre as duas obras do autor permanece em aberto. Uma palestra da linha de Pedro Augusto (entidades Sidarta e Pai João de Angola) reconta *O Sorriso de Pandora* de forma amplamente fiel; suas formulações exclusivas — "grande escritório", aproximação Zeus/Javé, "olimpianos = vedas/devas", "três" encarnações, o grupo "Clud" — ficam atribuídas apenas aos comunicantes.
 
 Este capítulo mantém deliberadamente separado o marco "Eva, ~23 mil anos" de um evento distinto, de mesma data aproximada, que pertence ao próximo capítulo desta obra.
 
@@ -77,12 +84,13 @@ O próximo capítulo apresenta essas devastações e mostra por que elas devem p
 
 ## Fontes utilizadas
 
-- [Jan Val Ellam — A Divina Colmeia: A Trimurti Desencantada](../fichas/2026-08-15-livro-a-divina-colmeia.md) (consulta pontual) — Plano Colmeia, deslacre mental de Pandora (~48 mil anos), rompimento de travas por Eva (~23 mil anos), processo de ~50 mil anos;
-- [Jan Val Ellam — O Sorriso de Pandora](../fichas/2026-08-15-livro-o-sorriso-de-pandora.md) (consulta pontual) — narrativa complementar da transformação de Pandora.
+- Jan Val Ellam — A Divina Colmeia: A Trimurti Desencantada (consulta pontual) — Plano Colmeia, deslacre mental de Pandora (~48 mil anos), rompimento de travas por Eva (~23 mil anos), processo de ~50 mil anos;
+- Jan Val Ellam — O Sorriso de Pandora (cotejo interno de verificação, sem reprodução extensa) — criação de Pandora (~74 mil anos), transformação de não humana para "primeira mulher" humana, elenco de agentes (titãs, olímpicos, Nephelim do clã de Enki, sirianos), antropogênese plural;
+- Vídeo — Pai João de Angola e Sidarta Buda / Adão e Eva — comunicação de Sidarta e Pai João de Angola (linha de Pedro Augusto), paráfrase oral de *O Sorriso de Pandora*; ampliações exclusivas identificadas separadamente.
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 10](../fontes-capitulos/10-fontes-pandora-eva-e-modelo-colmeia.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Fontes previstas para validação e expansão
 
@@ -92,13 +100,14 @@ O próximo capítulo apresenta essas devastações e mostra por que elas devem p
 ## Pendências de pesquisa
 
 - descrever com mais detalhe a natureza do Plano Colmeia, respeitando os limites de uso de material protegido por direitos autorais (apenas verificação pontual, sem reprodução extensa);
+- **resolver a relação entre "~74 mil anos" (criação de Pandora, *O Sorriso de Pandora* + palestra) e "~48 mil anos" (deslacre mental, *A Divina Colmeia*)**: marcos sucessivos do mesmo percurso ou divergência entre duas obras do autor;
 - manter, nos próximos capítulos, a distinção já estabelecida aqui entre "Eva, ~23 mil anos" (libertação, *A Divina Colmeia*) e o evento de mesma data em *Homoafetividade — O Segredo Perdido do Éden* (devastação, capítulo seguinte);
-- avaliar se e como os elementos exclusivos de *O Sorriso de Pandora* (Prometeu, Epimeteu, Sírius) merecem desenvolvimento próprio em revisão futura.
+- avaliar se e como os elementos exclusivos de *O Sorriso de Pandora* (Prometeu, Epimeteu, Atena, Hefesto, Sírius, Nephelim do clã de Enki) merecem desenvolvimento próprio em revisão futura.
 
 ## Parecer de prontidão
 
 - Estado recomendado: rascunho (narrativa contínua completa; fontes literárias confirmadas, ainda que parcialmente, para os dois marcos centrais)
-- Pontos fortes: marcos de Pandora e Eva apresentados com fonte literária direta; distinção clara entre *A Divina Colmeia* e *O Sorriso de Pandora*; alerta explícito sobre a coincidência numérica com o próximo capítulo, evitando fusão precipitada de eventos.
+- Pontos fortes: três marcos (criação de Pandora ~74 mil anos, deslacre ~48 mil anos, Eva ~23 mil anos) apresentados com fonte literária direta em duas obras de Jan Val Ellam; confronto integral da palestra com *O Sorriso de Pandora* concluído, com ampliações exclusivas da palestra identificadas separadamente; distinção clara entre *A Divina Colmeia* e *O Sorriso de Pandora*; alerta explícito sobre a coincidência numérica com o próximo capítulo, evitando fusão precipitada de eventos.
 - Lacunas impeditivas: nenhuma para avançar ao Capítulo 11.
-- Pendências secundárias: descrição mais completa do Plano Colmeia; comparação com a Pandora mitológica grega.
+- Pendências secundárias: conciliação entre "~74 mil" e "~48 mil" anos entre as duas obras do autor; descrição mais completa do Plano Colmeia; comparação com a Pandora mitológica grega.
 - Próxima ação: avançar para o Capítulo 11 — `As grandes devastações`.

@@ -1,7 +1,7 @@
 ---
-title: "Tradição Védica e Indo-Ariana"
+title: "Tradicao Vedica e Indo Ariana"
+nav_order: 59
 parent: "Estudos"
-nav_exclude: true
 ---
 
 # Tradição Védica e Indo-Ariana

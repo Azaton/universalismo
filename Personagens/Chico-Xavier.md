@@ -20,3 +20,9 @@ Francisco Cândido Xavier, mais conhecido como Chico Xavier (1910-2002), foi um 
 6. **Controvérsias e Críticas:** Apesar de sua ampla aceitação e influência, Chico Xavier também enfrentou críticas e controvérsias, principalmente em relação à autenticidade de suas psicografias. No entanto, muitos de seus seguidores e admiradores o veem como uma figura de profunda humildade e dedicação ao próximo.
 
 7. **Morte e Legado:** Chico Xavier faleceu em 2002 em Uberaba, Minas Gerais. Sua morte foi lamentada em todo o Brasil, e ele foi lembrado como uma das figuras mais influentes e carismáticas do espiritismo. Seu legado continua vivo através de suas obras, das instituições de caridade que ele apoiou, e da enorme quantidade de seguidores e admiradores que influenciou ao longo de sua vida.
+
+## No podcast *Quem é Hokmah?* (Jan Val Ellam)
+
+Na palestra [Quem é Hokmah?](../Estudos/Hokmah,-Sophia-e-o-Apocalipse-em-Jan-Val-Ellam.md), incorporada ao projeto em 29/08/2026, [Jan Val Ellam](./Jan-Val-Ellam.md) identifica Chico Xavier como uma **encarnação posterior do espírito que viveu como [João Evangelista](./João-Evangelista.md)** (João de Patmos), dando continuidade a uma mesma missão de mediação espiritual.
+
+Essa é uma **afirmação espiritual reencarnacionista de Jan**. Não há método histórico ou documental capaz de confirmar uma identidade reencarnatória; ela fica registrada com sua proveniência, sem ser apagada nem convertida em consenso externo. É coerente com a leitura do projeto de que [personagens diferentes deste índice podem corresponder a uma mesma linhagem espiritual](./Personagens.md).

@@ -87,12 +87,12 @@ O próximo capítulo introduz os primeiros sinais de ruptura desse mundo: as fig
 ## Fontes utilizadas
 
 - Gênesis 6:4, Números 13:33 e Sabedoria de Salomão 14:6 — texto bíblico e deuterocanônico consultado diretamente;
-- reinterpretação moderna dos Nefilins (Anunnaki, Lulus, estatura) e hipótese de cultura superior pré-histórica — [pesquisa e rastreabilidade](../fichas/2026-08-01-mural-nefilins-100000ac.md);
+- reinterpretação moderna dos Nefilins (Anunnaki, Lulus, estatura) e hipótese de cultura superior pré-histórica — pesquisa e rastreabilidade;
 - fontes de arqueologia consolidada sobre o Paleolítico Superior (comportamento simbólico, arte rupestre, organização social de caçadores-coletores).
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 9](../fontes-capitulos/09-fontes-nefilins-e-cultura-superior.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Fontes previstas para validação e expansão
 

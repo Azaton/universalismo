@@ -7,73 +7,20 @@ has_children: true
 
 # Jesus e sua trajetória de vida
 
-## Objetivo
+Este livro reconstrói a trajetória de Jesus desde o nascimento e a infância, reunindo acontecimentos, relações, deslocamentos, ensinamentos, curas, conflitos, morte e legado associados à sua passagem pela Terra.
 
-Reconstruir a trajetória de Jesus desde o nascimento e a infância, relatando os acontecimentos e feitos associados a esse homem e líder até sua morte e legado.
+A proposta não é produzir uma narrativa catequética nem limitar a investigação a uma única tradição. Evangelhos, textos antigos, história, arqueologia e obras espiritualistas são lidos em conjunto, preservando o que cada fonte relata e as diferenças entre suas versões.
 
-O estudo não é catequético, devocional ou orientado a louvores. Também não parte da rejeição automática de fontes religiosas. Seu compromisso é descrever o que cada fonte afirma, comparar versões e esclarecer o que pode ser considerado histórico, tradicional, teológico, espiritualista ou hipotético.
-
-## Pergunta central
-
-O que é possível reconstruir sobre a vida, os feitos, as relações, os ensinamentos e o contexto de Jesus quando diferentes tipos de fonte são lidos em conjunto e avaliados segundo sua natureza?
-
-## Recorte inicial
-
-1. Contexto político, social, cultural e religioso antes do nascimento.
-2. Genealogias e narrativas de nascimento.
-3. Família, lugares e primeiros anos.
-4. Infância e juventude.
-5. Anos pouco documentados e hipóteses sobre formação e viagens.
-6. Início da atuação pública.
-7. Discípulos, aliados, opositores e autoridades.
-8. Ensinamentos, curas, sinais e outros feitos atribuídos.
-9. Deslocamentos e cronologia do ministério.
-10. Prisão, julgamento, crucificação e morte.
-11. Relatos de ressurreição e acontecimentos posteriores.
-12. Formação das tradições e do legado histórico.
-
-## Famílias de fontes
-
-- fontes antigas não cristãs;
-- textos cristãos canônicos;
-- textos apócrifos e tradições extracanônicas;
-- arqueologia e história do período;
-- estudos acadêmicos modernos;
-- tradições judaicas, islâmicas e de outros grupos;
-- obras espíritas, espiritualistas e universalistas;
-- obras literárias, revelatórias ou mediúnicas.
-
-Essas famílias não têm o mesmo valor para todas as perguntas. A classificação serve para tornar explícito o tipo de testemunho oferecido por cada uma.
-
-## Produtos esperados
-
-- cronologia comparada;
-- mapa de pessoas, lugares e relações;
-- catálogo de episódios e versões;
-- fichas das fontes;
-- sínteses por período de vida;
-- registro de lacunas, conflitos e graus de confiança.
+O centro da obra é **a vida de Jesus**, apresentada progressivamente em capítulos organizados por períodos e anos.
 
 ## Capítulos
 
-O manuscrito em construção começa por `primeiro-ano/`.
+### [Primeiro Ano](Primeiro-Ano/Primeiro-Ano.html)
 
-## Estudos preparatórios
+O nascimento de Jhasua, o ambiente essênio apresentado por *Harpas Eternas*, a cerimônia do nome, a apresentação no Templo e as primeiras curas atribuídas à presença do menino.
 
-- [Identidade espiritual de Jesus e encarnações atribuídas](identidade-espiritual-e-encarnacoes.html) — investigação comparativa sobre Jesus/Sananda, Antúlio e outras encarnações atribuídas, com *Harpas Eternas* como fonte espiritualista prioritária a ser consultada diretamente.
+- [Capítulo 1 — Nascimento e primeiro ano](Primeiro-Ano/Nascimento-e-Primeiro-Ano.html)
 
-## Fontes
+## Obra em construção
 
-Registrar novas referências no [Source Context](../../../doc/source-context.md), na seção `Jesus histórico`, antes de incorporá-las a uma síntese.
-
-## Regra de redação
-
-Preferir formulações como:
-
-- “a fonte relata...”;
-- “há convergência entre...”;
-- “a historicidade é discutida...”;
-- “esta tradição interpreta...”;
-- “não há evidência suficiente para concluir...”.
-
-Evitar transformar a linguagem interna de uma tradição em descrição factual neutra sem a devida atribuição.
+A narrativa será ampliada progressivamente, acompanhando os anos e períodos da vida de Jesus. Novos capítulos serão publicados conforme as fontes forem estudadas, comparadas e transformadas em texto editorial.

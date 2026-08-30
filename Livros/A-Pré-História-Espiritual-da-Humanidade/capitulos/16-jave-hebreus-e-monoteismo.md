@@ -19,6 +19,7 @@ parent: "capitulos"
 
 - detalhar toda a narrativa patriarcal do Gênesis além do necessário para situar Sodoma e Gomorra;
 - resolver a identificação teológica sensível de "Enki como o Deus do Novo Testamento", registrada e mantida fora da narrativa desde o Capítulo 6;
+- desenvolver a narrativa de Pandora e do "Jardim do Éden como laboratório" de *O Sorriso de Pandora* além do necessário para preservar aqui a distinção Zeus/Javé — o desenvolvimento próprio dessa fonte está no Capítulo 10;
 - desenvolver o helenismo e as expectativas messiânicas do século I, assunto do Capítulo 17.
 
 ### Relação com a obra
@@ -45,6 +46,8 @@ O Capítulo 2 desta obra já apresentou uma figura chamada Javé, associada a um
 
 Esse esclarecimento merece ser retomado aqui, agora que o desenvolvimento histórico do YHWH bíblico foi apresentado em detalhe. As duas figuras compartilham apenas o nome. O Javé da narrativa de semeadura, apresentado por uma síntese espiritualista contemporânea sem proveniência anterior localizada, opera numa escala cósmica e biológica, num momento situado bilhões de anos antes da existência de qualquer povo humano. O YHWH que este capítulo acaba de descrever é o resultado de um processo histórico e religioso específico, vivido por um povo determinado, num território determinado, ao longo de pouco mais de meio milênio. Esta obra não funde essas duas figuras, e não há, até este ponto da investigação, qualquer fonte que estabeleça uma ponte direta entre elas.
 
+Há ainda uma terceira camada em que o nome aparece, e que convém registrar sem misturá-la às outras duas. Em *O Sorriso de Pandora*, de Jan Val Ellam — obra já usada no Capítulo 10 —, "Javé" é apresentado como o criador, associado às figuras hindus de Caos e Brahma (a fórmula do livro é "Caos/Brahma/Javé"). Nessa narrativa, esse Javé instala, cerca de 30 mil anos depois da "humanização" de Pandora, um laboratório numa região do planeta "que passou à posteridade como Jardim do Éden", onde teria tomado como prisioneiros um casal humano — o "Adão" e a "Eva" bíblicos dessa versão, distintos de um "Adão" anterior, ligado a Pandora. Uma palestra da linha de Pedro Augusto (entidades Sidarta e Pai João de Angola) reconta essa passagem. Importa uma distinção que a obra literária mantém e a palestra não: em *O Sorriso de Pandora*, **Zeus** é um demônio olimpiano da última geração e **Javé** é o criador (Caos/Brahma) — figuras separadas. A aproximação entre Zeus e Javé é formulação oral da palestra, não afirmação do livro, e esta obra não a adota.
+
 ## 3. Sodoma e Gomorra: três versões
 
 Poucos episódios da tradição hebraica antiga foram tão amplamente reinterpretados quanto a destruição de Sodoma e Gomorra. Esta obra apresenta três versões, preservando a proveniência de cada uma.
@@ -67,7 +70,7 @@ Esse é, mais uma vez, o mesmo eixo que atravessa toda esta obra: o que se faz c
 
 O monoteísmo hebraico não nasceu pronto: desenvolveu-se de uma devoção henoteísta a Javé, por volta de 1200 a.C., passando pela monolatria dos séculos IX a VII a.C., até a negação explícita de outros deuses articulada no exílio babilônico, no século VI a.C. — um processo lento e duradouro, em contraste com a reforma súbita e efêmera de Akhenaton no capítulo anterior.
 
-O "Javé" da narrativa de semeadura apresentada no Capítulo 2 desta obra permanece distinto do YHWH bíblico aqui descrito — compartilham apenas o nome. Já a destruição de Sodoma e Gomorra aparece em três versões que este capítulo preserva separadas: o relato bíblico, a leitura de guerra tecnológica de Sitchin, e a narrativa de contenção de peste de Jan Val Ellam.
+O "Javé" da narrativa de semeadura apresentada no Capítulo 2 desta obra permanece distinto do YHWH bíblico aqui descrito — compartilham apenas o nome. Uma terceira camada, de *O Sorriso de Pandora*, usa "Javé" como epíteto do criador (Caos/Brahma) e narra um "Jardim do Éden" como laboratório; nessa obra, Zeus e Javé são figuras distintas, e a aproximação entre os dois, feita numa palestra que a reconta, não é adotada aqui. Já a destruição de Sodoma e Gomorra aparece em três versões que este capítulo preserva separadas: o relato bíblico, a leitura de guerra tecnológica de Sitchin, e a narrativa de contenção de peste de Jan Val Ellam.
 
 ## Ponte para o próximo capítulo
 
@@ -79,12 +82,14 @@ O próximo capítulo organiza o legado religioso, cultural e espiritual que conf
 
 - Gênesis 18–19 — relato bíblico de Sodoma e Gomorra, consultado diretamente;
 - literatura bíblica acadêmica consolidada sobre o desenvolvimento histórico do monoteísmo hebraico (henoteísmo, monolatria, monoteísmo pleno);
-- [Zecharia Sitchin — As Guerras de Deuses e Homens](../fichas/2026-08-15-livro-guerras-de-deuses-e-homens-sitchin.md) — a destruição de Sodoma e Gomorra como efeito colateral da guerra Enlil-Marduk;
-- [Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden](../fichas/2026-08-15-livro-homoafetividade-segredo-perdido-do-eden.md) — Sodoma e Gomorra associadas à contenção de uma peste.
+- Zecharia Sitchin — As Guerras de Deuses e Homens — a destruição de Sodoma e Gomorra como efeito colateral da guerra Enlil-Marduk;
+- Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden — Sodoma e Gomorra associadas à contenção de uma peste;
+- Jan Val Ellam — O Sorriso de Pandora (cotejo interno de verificação) — "Javé" como criador (Caos/Brahma); "Jardim do Éden" como laboratório; Zeus e Javé como figuras distintas;
+- Vídeo — Pai João de Angola e Sidarta Buda / Adão e Eva — reconta *O Sorriso de Pandora*; a aproximação Zeus/Javé é formulação oral da palestra, não do livro.
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes, rastreabilidade e pendências do Capítulo 16](../fontes-capitulos/16-fontes-jave-hebreus-e-monoteismo.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 
@@ -95,7 +100,7 @@ O próximo capítulo organiza o legado religioso, cultural e espiritual que conf
 ## Parecer de prontidão
 
 - Estado recomendado: rascunho (narrativa contínua completa; desenvolvimento histórico do monoteísmo apresentado com base acadêmica sólida)
-- Pontos fortes: arco histórico do monoteísmo hebraico apresentado com precisão e eco temático do capítulo anterior; distinção entre o Javé do Capítulo 2 e o YHWH bíblico esclarecida com base no desenvolvimento histórico agora apresentado; três versões de Sodoma e Gomorra comparadas sem fusão, com o núcleo mínimo comum identificado.
+- Pontos fortes: arco histórico do monoteísmo hebraico apresentado com precisão e eco temático do capítulo anterior; três camadas do nome "Javé" mantidas distintas (o Javé cósmico do Capítulo 2, o YHWH bíblico histórico, e o "Javé/Caos/Brahma" de *O Sorriso de Pandora*), com a aproximação Zeus/Javé da palestra explicitamente recusada; três versões de Sodoma e Gomorra comparadas sem fusão, com o núcleo mínimo comum identificado.
 - Lacunas impeditivas: nenhuma para avançar ao Capítulo 17.
 - Pendências secundárias: aprofundamento acadêmico primário; tratamento futuro da afirmação sensível sobre Enki e o Novo Testamento.
 - Próxima ação: avançar para o Capítulo 17 — `Do mundo antigo ao cenário em que Jesus nasce`.

@@ -91,15 +91,15 @@ O próximo capítulo entra diretamente nesse problema: as narrativas de interven
 
 ## Fontes utilizadas
 
-- [Pedro Augusto — a chegada dos Dragões, Enki e Enlil à Terra](../fichas/2026-08-02-pedro-augusto-chegada-dragoes-enki-enlil.md) — comunicação espiritual tratada como base sólida e principal, com proveniência preservada;
+- Pedro Augusto — a chegada dos Dragões, Enki e Enlil à Terra — comunicação espiritual tratada como base sólida e principal, com proveniência preservada;
 - [Zecharia Sitchin — *O 12º Planeta*](../../O-12º-Planeta.md) — hipótese dos Anunnaki vindos de Nibiru, chegada há ~450 mil anos;
-- [Zecharia Sitchin — *As Guerras de Deuses e Homens*](../fichas/2026-08-15-livro-guerras-de-deuses-e-homens-sitchin.md) — confirma a distinção editorial entre o Enki de Sitchin e o Enki de Pedro Augusto, adotada neste capítulo;
-- tradição teosófica sobre a "Era das Raças Evolutivas de Cor" e a chegada dos "Nibiruanos" (~480 mil anos) — [pesquisa e rastreabilidade](../fichas/2026-08-01-mural-origem-guardioes-magos-negros-dragoes.md);
+- Zecharia Sitchin — *As Guerras de Deuses e Homens* — confirma a distinção editorial entre o Enki de Sitchin e o Enki de Pedro Augusto, adotada neste capítulo;
+- tradição teosófica sobre a "Era das Raças Evolutivas de Cor" e a chegada dos "Nibiruanos" (~480 mil anos) — pesquisa e rastreabilidade;
 - fontes de assiriologia consolidada sobre Enki, Enlil, Anu, os mitos de Atrahasis e o Enuma Elish.
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes, rastreabilidade e pendências do Capítulo 6](../fontes-capitulos/06-fontes-anunnaki-enki-enlil-e-a-terra.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

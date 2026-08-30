@@ -205,15 +205,13 @@ Já não estaremos falando de centenas de milhões de anos entre um marco e outr
 - Daeschler, E. B.; Shubin, N. H.; Jenkins, F. A. Jr. *A Devonian tetrapod-like fish and the evolution of the tetrapod body plan*. Nature 440, 757–763 (2006). DOI: 10.1038/nature04639;
 - Shubin, N. H.; Daeschler, E. B.; Jenkins, F. A. Jr. *The pectoral fin of Tiktaalik roseae and the origin of the tetrapod limb*. Nature 440, 764–771 (2006). DOI: 10.1038/nature04637;
 - Niedźwiedzki, G. et al. *Tetrapod trackways from the early Middle Devonian period of Poland*. Nature 463, 43–48 (2010). DOI: 10.1038/nature08623;
-- Jan Val Ellam, vídeo/transcrição *Quando a Terra estava vestida de branco | VSC#44*, incorporado ao projeto em 2026-08-19;
-- ficha `../fichas/2026-08-19-video-jan-val-quando-a-terra-estava-vestida-de-branco.md`;
-- glossário `../glossario/normalizacao-nomes-jan-val-vsc44.md`;
-- mapa `../mapas/jan-val-terra-vestida-de-branco-relacoes.md`;
-- ficha `../fichas/2026-08-01-mural-dinossauros-pangea.md`.
+- Jan Val Ellam, vídeo/transcrição *Quando a Terra estava vestida de branco | VSC#44*, incorporado ao projeto em 2026-08-19 (ficha e glossário de normalização de nomes mantidos na camada interna de pesquisa);
+- [Mapa de relações — Terra vestida de branco](../mapas/jan-val-terra-vestida-de-branco-relacoes.md);
+- pesquisa e rastreabilidade sobre dinossauros e Pangeia (camada interna de pesquisa).
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 3](../fontes-capitulos/03-fontes-o-mundo-antes-do-homem.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 Estudos transversais relacionados:
 

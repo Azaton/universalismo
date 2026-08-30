@@ -1,6 +1,6 @@
 ---
 title: "Mahatma Gandhi"
-nav_order: 33
+nav_order: 37
 parent: "Personagens"
 nav_exclude: true
 ---

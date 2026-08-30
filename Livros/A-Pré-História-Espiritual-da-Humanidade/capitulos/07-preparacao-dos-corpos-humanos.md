@@ -126,15 +126,15 @@ O próximo capítulo entra na Era de Ouro de Atlântida, Lemúria e Mu.
 
 ## Fontes utilizadas
 
-- [Pedro Augusto — chegada dos Dragões, Enki e Enlil](../fichas/2026-08-02-pedro-augusto-chegada-dragoes-enki-enlil.md);
+- Pedro Augusto — chegada dos Dragões, Enki e Enlil;
 - Edgard Armond, *Os Exilados da Capela* — capítulo sobre as reencarnações dos capelinos, consultado diretamente;
 - [Zecharia Sitchin — O 12º Planeta](../../O-12º-Planeta.md);
-- narrativa dos Lulus e rastreabilidade interna — [dossiê do capítulo](../fontes-capitulos/07-fontes-preparacao-dos-corpos-humanos.md);
+- narrativa dos Lulus e rastreabilidade interna — dossiê do capítulo;
 - literatura de genética populacional sobre ancestralidade neandertal e denisovana.
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 7](../fontes-capitulos/07-fontes-preparacao-dos-corpos-humanos.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

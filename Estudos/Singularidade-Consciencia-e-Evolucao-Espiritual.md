@@ -1,6 +1,6 @@
 ---
-title: "Singularidade, Consciência e Evolução Espiritual"
-nav_order: 48
+title: "Singularidade Consciencia e Evolucao Espiritual"
+nav_order: 56
 parent: "Estudos"
 ---
 

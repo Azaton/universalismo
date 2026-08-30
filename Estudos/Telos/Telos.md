@@ -1,8 +1,7 @@
 ---
-title: "Telos"
-nav_order: 47
-parent: "Estudos"
-has_children: true
+title: "Telos — Telos"
+nav_order: 3
+parent: "Telos"
 ---
 
 # Telos

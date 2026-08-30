@@ -1,6 +1,6 @@
 ---
 title: "Thevetat"
-nav_order: 58
+nav_order: 64
 parent: "Personagens"
 nav_exclude: true
 ---

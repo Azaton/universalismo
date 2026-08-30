@@ -1,6 +1,6 @@
 ---
 title: "Júlio Verne"
-nav_order: 32
+nav_order: 36
 parent: "Personagens"
 nav_exclude: true
 ---

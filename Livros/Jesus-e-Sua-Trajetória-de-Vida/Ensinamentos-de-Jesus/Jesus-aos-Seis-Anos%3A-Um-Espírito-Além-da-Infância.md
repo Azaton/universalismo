@@ -1,6 +1,6 @@
 ---
 title: "Jesus aos Seis Anos: Um Espírito Além da Infância"
-nav_order: 5
+nav_order: 1
 parent: "Ensinamentos de Jesus"
 ---
 

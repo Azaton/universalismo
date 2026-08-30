@@ -1,6 +1,6 @@
 ---
 title: "Vril"
-nav_order: 51
+nav_order: 62
 parent: "Estudos"
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Torquemada e o Resgate nas Regiões Inferiores"
-nav_order: 48
+nav_order: 58
 parent: "Estudos"
 ---
 

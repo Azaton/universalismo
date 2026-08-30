@@ -1,36 +1,28 @@
 ---
 title: "Sananda"
-nav_order: 53
+nav_order: 59
 parent: "Personagens"
 nav_exclude: true
 ---
 
-Jesus Cristo é a figura central do Cristianismo e é considerado por cristãos ao redor do mundo como o Filho de Deus e o Salvador da humanidade. Sua vida e ensinamentos são registrados nos Evangelhos do Novo Testamento da Bíblia.
+# Sananda
 
-1. **Nascimento:** Jesus nasceu em Belém, na Judeia, por volta de 4 a.C. a 6 d.C. Seu nascimento é celebrado anualmente no feriado do Natal. Os Evangelhos de Mateus e Lucas descrevem sua concepção como sendo virginal, com Maria, sua mãe, concebendo-o pelo Espírito Santo.
+**Sananda** é o nome pelo qual Jesus Cristo é designado em diversas correntes espiritualistas, ufológicas e de contato do século XX (movimento de Ashtar, literatura de contatados, ramificações teosóficas). Nessas fontes, Sananda é apresentado como o mesmo espírito que viveu como Jesus de Nazaré, agora atuando em um plano de consciência mais elevado e ligado a uma hierarquia espiritual associada à transição planetária.
 
-2. **Infância:** Pouco se sabe sobre a infância de Jesus, exceto o episódio no qual, aos doze anos, ele é encontrado por seus pais ensinando no Templo de Jerusalém.
+No acervo do Universalismo, **Sananda e [Jesus Cristo](./Jesus-Cristo.md) são o mesmo espírito**, registrados sob nomes diferentes conforme a proveniência de cada fonte. A biografia histórica e a linha da vida estão em [Jesus Cristo](./Jesus-Cristo.md) e na obra [Jesus e Sua Trajetória de Vida](../Livros/Jesus-e-Sua-Trajetória-de-Vida/Jesus-e-Sua-Trajetória-de-Vida.md).
 
-3. **Batismo:** Por volta dos 30 anos, Jesus foi batizado por João Batista no rio Jordão. Este evento marca o início de seu ministério público.
+A síntese registrada no acervo: Jesus veio trazer ensinamentos espirituais e cósmicos, não religiosos. A religião foi construída pelo homem — que não é perfeito — e, ao longo dos milênios, muitos ensinamentos se perderam ou foram alterados.
 
-4. **Ministério:** Durante aproximadamente três anos, Jesus viajou pela Galileia e áreas adjacentes, pregando sobre o Reino de Deus, realizando milagres, curando os doentes e exorcizando demônios.
+## Nomes relacionados no acervo
 
-5. **Ensinamentos:** Jesus ensinou através de parábolas e sermões, como o Sermão da Montanha. Ele enfatizou temas como amor, perdão, arrependimento e justiça.
+- [Jesus Cristo](./Jesus-Cristo.md) — nome histórico e cristão
+- [Emanuel](./Emanuel.md) — “Deus conosco” (Isaías 7:14); no espiritismo, o orientador de Chico Xavier
+- [Melquisedeque](./Melquisedeque.md) — figura sacerdotal associada a Jesus em algumas tradições
+- [Hokmah](./Hokmah.md) — na cosmologia de Jan Val Ellam, o Cristo Cósmico, distinto do Jesus humano
+- [Ashtar Sheran](./Ashtar-Sheran.md) — contexto do movimento de contato em que o nome Sananda circula
 
-6. **Discípulos:** Jesus escolheu doze discípulos principais, incluindo Pedro, Tiago, João e Judas Iscariotes, para acompanhá-lo e ajudar em seu ministério.
+## Relações no acervo
 
-7. **Confronto com Autoridades Religiosas:** Os ensinamentos e a crescente popularidade de Jesus o colocaram em conflito com as autoridades religiosas judaicas da época.
-
-8. **Paixão e Crucificação:** Jesus foi traído por Judas Iscariotes e preso. Após ser julgado por Pôncio Pilatos, o governador romano da Judeia, ele foi crucificado em Jerusalém.
-
-9. **Ressurreição:** Cristãos acreditam que, após sua morte, Jesus ressuscitou no terceiro dia. Isso é celebrado na Páscoa.
-
-10. **Ascensão:** Quarenta dias após a ressurreição, Jesus ascendeu ao céu na presença de seus discípulos.
-
-11. **Promessa do Espírito Santo:** Antes de sua ascensão, Jesus prometeu enviar o Espírito Santo para guiar e fortalecer seus seguidores. Esse evento é celebrado no Pentecostes.
-
-12. **Legado e Influência:** A vida e os ensinamentos de Jesus deram origem ao Cristianismo, uma das maiores religiões do mundo. Ele é reverenciado não apenas como um líder religioso, mas também como uma figura moral e ética em diversas culturas.
-
-----
-
-Jesus veio trazer ensinamentos profundos e espirituais. Coisas sobre o Universo e não de forma religiosa. A religião foi criada pelo homem, através de Deus, mas o homem não é perfeito e muitos ensinamentos foram perdidos durantes milênios.
+- [Jesus e Sua Trajetória de Vida](../Livros/Jesus-e-Sua-Trajetória-de-Vida/Jesus-e-Sua-Trajetória-de-Vida.md)
+- [As aparições de Jesus Cristo](../Estudos/As-Aparições-de-Jesus-Cristo.md)
+- [Hokmah, Sophia e o Apocalipse em Jan Val Ellam](../Estudos/Hokmah,-Sophia-e-o-Apocalipse-em-Jan-Val-Ellam.md)

@@ -1,6 +1,6 @@
 ---
 title: "A Natureza Positiva da Religião de Jesus"
-nav_order: 3
+nav_order: 6
 parent: "Ensinamentos de Jesus"
 ---
 

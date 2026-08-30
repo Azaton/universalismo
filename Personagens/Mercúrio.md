@@ -1,6 +1,6 @@
 ---
 title: "Mercúrio"
-nav_order: 38
+nav_order: 44
 parent: "Personagens"
 nav_exclude: true
 ---

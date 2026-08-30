@@ -175,7 +175,7 @@ Depois de bilhões de anos de história cósmica, surge um planeta capaz de sust
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 1](../fontes-capitulos/01-fontes-antes-da-terra.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Fontes previstas para validação e expansão
 

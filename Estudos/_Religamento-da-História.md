@@ -1,6 +1,6 @@
 ---
 title: "Religamento da História"
-nav_order: 44
+nav_order: 53
 parent: "Estudos"
 ---
 

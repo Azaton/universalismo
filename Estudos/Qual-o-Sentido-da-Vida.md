@@ -1,6 +1,6 @@
 ---
-title: "Qual o Sentido da Vida?"
-nav_order: 41
+title: "Qual o Sentido da Vida"
+nav_order: 50
 parent: "Estudos"
 ---
 

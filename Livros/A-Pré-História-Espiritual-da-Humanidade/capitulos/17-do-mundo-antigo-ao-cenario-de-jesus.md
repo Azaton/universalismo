@@ -105,11 +105,11 @@ O capítulo final não narrará a vida de Jesus. Ele apenas acompanhará o momen
 - estudos sobre a diversidade das expectativas messiânicas no judaísmo do Segundo Templo;
 - *O Livro de Urântia* — Micael de Nebadon e sua identificação com Jesus;
 - Edgard Armond, *Os Exilados da Capela* — promessa do Cristo aos exilados e encarnações atlantes como Anfion e Antúlio;
-- tradição de *Harpas Eternas* — [pesquisa consolidada sobre encarnações anteriores de Jesus](../../Amasofia/Encarnações-de-Jesus-na-Terra.md).
+- tradição de *Harpas Eternas* — [pesquisa consolidada sobre encarnações anteriores de Jesus](../../../Amasofia/Encarnações-de-Jesus-na-Terra.md).
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes do Capítulo 17](../fontes-capitulos/17-fontes-do-mundo-antigo-ao-cenario-de-jesus.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

@@ -116,6 +116,14 @@ Exemplo: **Kadru** é personagem e possui ficha própria; **Yggdrasil** é conce
     <td style="text-align: center;"><a href="./Samyaza.html">Samyaza</a></td>
     <td style="text-align: center;"><a href="./Jan-Val-Ellam.html">Jan Val Ellam</a></td>
     <td style="text-align: center;"><a href="./Kadru.html">Kadru</a></td>
+    <td style="text-align: center;"><a href="./Hokmah.html">Hokmah</a></td>
+    <td style="text-align: center;"><a href="./Jesus-Cristo.html">Jesus Cristo</a></td>
+    <td style="text-align: center;"><a href="./Maria-Madalena.html">Maria Madalena</a></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><a href="./Maria,-Mãe-de-Jesus.html">Maria, Mãe de Jesus</a></td>
+    <td style="text-align: center;"><a href="./José-de-Arimateia.html">José de Arimateia</a></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

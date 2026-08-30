@@ -1,6 +1,6 @@
 ---
 title: "Mestra Kuan Yin"
-nav_order: 39
+nav_order: 45
 parent: "Personagens"
 nav_exclude: true
 ---

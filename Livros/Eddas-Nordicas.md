@@ -12,6 +12,8 @@ A palestra *Quando a Terra estava vestida de branco | VSC#44* utiliza intensamen
 
 Jan Val Ellam, porém, **não cita nominalmente as Eddas nesse trecho da palestra**. Esta página foi criada pelo Projeto Universalismo como **fonte contextual para verificar a tradição nórdica original**, antes de compará-la com a releitura cosmológica de Jan.
 
+Para a visão geral desse eixo, ver [Mitologia Nórdica](../Estudos/Mitologia-Nordica.md).
+
 ## O que significa “Eddas” aqui
 
 Para esta pesquisa, “Eddas Nórdicas” funciona como uma página agregadora das duas grandes bases literárias associadas à preservação da mitologia nórdica:
@@ -46,6 +48,7 @@ A segunda sequência não deve ser atribuída às Eddas sem confirmação textua
 
 ## Relações
 
+- [Mitologia Nórdica](../Estudos/Mitologia-Nordica.md)
 - [Yggdrasil](../Estudos/Yggdrasil.md)
 - [Quando a Terra estava vestida de branco](../Estudos/Quando-a-Terra-estava-vestida-de-branco.md)
 - [Jan Val Ellam](../Personagens/Jan-Val-Ellam.md)

@@ -1,6 +1,6 @@
 ---
 title: "Samyaza"
-nav_order: 52
+nav_order: 58
 parent: "Personagens"
 nav_exclude: true
 ---

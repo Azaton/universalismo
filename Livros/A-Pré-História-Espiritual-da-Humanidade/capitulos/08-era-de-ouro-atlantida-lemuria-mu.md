@@ -128,12 +128,12 @@ Mais adiante, os capítulos dedicados ao conflito e à queda retomarão Atlânti
 
 ## Fontes utilizadas
 
-- [Pesquisa sobre a Era de Ouro de Atlântida, Lemúria e Mu](../fichas/2026-08-01-mural-era-ouro-atlantida-lemuria-mu.md);
-- [Celso Rey — material sobre Lemúria e Telos](../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md).
+- Pesquisa sobre a Era de Ouro de Atlântida, Lemúria e Mu;
+- Celso Rey — material sobre Lemúria e Telos.
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 8](../fontes-capitulos/08-fontes-era-de-ouro-atlantida-lemuria-mu.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

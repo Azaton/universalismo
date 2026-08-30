@@ -1,6 +1,6 @@
 ---
 title: "João Evangelista"
-nav_order: 31
+nav_order: 34
 parent: "Personagens"
 nav_exclude: true
 ---
@@ -14,3 +14,17 @@ De acordo com a tradição cristã, após a morte e ressurreição de Jesus, Jo�
 João é venerado como santo por várias denominações cristãs, e seu símbolo, o águia, é um dos quatro símbolos dos evangelistas. O dia de sua festa é celebrado em datas diferentes, dependendo da tradição litúrgica específica.
 
 Embora haja muitas tradições e lendas sobre a vida e o trabalho de João, os detalhes históricos exatos são limitados, e muito do que se conhece vem das próprias obras do Novo Testamento e da tradição eclesiástica posterior.
+
+## No podcast *Quem é Hokmah?* (Jan Val Ellam)
+
+Na palestra [Quem é Hokmah?](../Estudos/Hokmah,-Sophia-e-o-Apocalipse-em-Jan-Val-Ellam.md), incorporada ao projeto em 29/08/2026, João ocupa posição de destaque. As afirmações, por camada:
+
+| Alegação de Jan | Situação |
+|---|---|
+| João permaneceu como último apóstolo vivo, pressionado a explicar quando Jesus voltaria | **tradição**, não fato demonstrado — não há documentação suficiente sobre o destino de todos os apóstolos |
+| João escreveu o Evangelho já muito idoso (por volta dos 90 anos) e omitiu a volta de Jesus | data tardia é **plausível**; idade e identidade pessoal são incertas. A omissão é **incorreta como formulação absoluta**: João não traz o grande discurso escatológico dos sinóticos, mas afirma a volta em João 14:3 e registra o mal-entendido sobre o discípulo permanecer “até que eu venha” em João 21:22–23 |
+| O mesmo João escreveu o Evangelho e o Apocalipse | **questão aberta** — a tradição os identifica; a pesquisa moderna frequentemente distingue o apóstolo, o “discípulo amado”, o quarto evangelista e João de Patmos, por vocabulário, gênero e teologia |
+| [Hokmah](./Hokmah.md)/Sophia inspirou João, por meio de anjos, a escrever o Apocalipse, para anunciar a volta futura | **revelação de Jan** — o próprio texto se apresenta como “revelação de Jesus Cristo”, comunicada por um anjo a João (Apocalipse 1:1) |
+| João reencarnou depois como [Chico Xavier](./Chico-Xavier.md) | **afirmação espiritual reencarnacionista de Jan** — sem verificação possível pelo método histórico; registrada com sua proveniência |
+
+Ver também [Hokmah](./Hokmah.md), [Jesus Cristo](./Jesus-Cristo.md), [Jan Val Ellam](./Jan-Val-Ellam.md) e [As aparições de Jesus Cristo](../Estudos/As-Aparições-de-Jesus-Cristo.md).

@@ -1,6 +1,6 @@
 ---
 title: "Paulo de Tarso"
-nav_order: 45
+nav_order: 51
 parent: "Personagens"
 nav_exclude: true
 ---
@@ -22,3 +22,15 @@ Paulo de Tarso, também conhecido como Apóstolo Paulo ou São Paulo, foi uma da
 7. **Prisão e Morte:** Paulo foi preso várias vezes durante suas missões. Eventualmente, ele foi levado a Roma, onde foi colocado sob prisão domiciliar. Embora os detalhes de sua morte não sejam claros, a tradição cristã sustenta que ele foi martirizado em Roma, possivelmente decapitado, sob o imperador Nero.
 
 8. **Legado:** A influência de Paulo no Cristianismo é imensa. Suas epístolas formam uma parte significativa do Novo Testamento, e suas interpretações dos ensinamentos de Jesus moldaram a teologia cristã. Ele é frequentemente creditado por tornar o Cristianismo uma religião verdadeiramente global, em vez de uma seita do Judaísmo.
+
+## No podcast *Quem é Hokmah?* (Jan Val Ellam)
+
+Na palestra [Quem é Hokmah?](../Estudos/Hokmah,-Sophia-e-o-Apocalipse-em-Jan-Val-Ellam.md), incorporada ao projeto em 29/08/2026, Jan afirma que Paulo teria **“inventado” o termo Cristo** e criado praticamente sozinho a figura universal de “Jesus Cristo”, o Salvador.
+
+Correções da rodada:
+
+- **“Inventou a palavra Cristo”: incorreto.** *Christós* é a tradução grega de “ungido / Messias” e já existia na Septuaginta, muito antes de Paulo. Ele não criou o termo nem necessariamente foi o primeiro a aplicá-lo a Jesus.
+- **“Criou sozinho o Salvador”: exagerado.** Paulo desenvolveu e difundiu uma cristologia de grande alcance — e suas cartas são os textos cristãos preservados mais antigos —, mas elas também conservam **fórmulas e tradições provavelmente anteriores** a ele.
+- O que se sustenta é o núcleo da observação de Jan: Paulo foi **decisivo** para a expansão da figura universal de Jesus Cristo.
+
+Ver também [Jesus Cristo](./Jesus-Cristo.md) e [Gnósticos](../Estudos/Gnósticos.md).

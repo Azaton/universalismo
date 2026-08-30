@@ -158,15 +158,15 @@ O próximo capítulo reúne Ziusudra, Atrahasis, Utnapishtim e Noé e pergunta o
 
 ## Fontes utilizadas
 
-- [Celso Rey — material sobre Lemúria e Telos, Capítulo I](../fichas/2026-08-16-video-celso-rey-ascensao-queda-lemuria-telos.md);
-- [Celso Rey — Capítulo II: A Sociedade de Telos](../fichas/2026-08-19-celso-rey-capitulo-ii-sociedade-de-telos.md);
+- Celso Rey — material sobre Lemúria e Telos, Capítulo I;
+- Celso Rey — Capítulo II: A Sociedade de Telos;
 - Platão, *Timeu* e *Crítias*;
 - Edgard Armond, *Os Exilados da Capela* — capítulos sobre Lemúria, Atlântida, Poseidônis e sobreviventes, consultados diretamente;
 - paleoclimatologia sobre o Younger Dryas, já apresentada no Capítulo 11.
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes do Capítulo 12](../fontes-capitulos/12-fontes-queda-de-atlantida-e-o-grande-reinicio.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

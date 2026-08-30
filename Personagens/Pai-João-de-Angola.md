@@ -1,6 +1,6 @@
 ---
 title: "Pai João de Angola"
-nav_order: 43
+nav_order: 49
 parent: "Personagens"
 nav_exclude: true
 ---

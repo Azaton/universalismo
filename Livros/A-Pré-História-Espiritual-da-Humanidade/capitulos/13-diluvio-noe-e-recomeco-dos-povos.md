@@ -81,12 +81,12 @@ O próximo capítulo acompanha os povos que emergem desse recomeço — Suméria
 
 - Gênesis 6–9 — relato bíblico do dilúvio e do pacto com Noé, consultado diretamente;
 - Epopeia de Gilgamesh, tábua XI — relato de Utnapishtim, consultado por meio de literatura assiriológica consolidada;
-- [Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden](../fichas/2026-08-15-livro-homoafetividade-segredo-perdido-do-eden.md) — cronologia interna de Noé (726 anos) e o encontro com Despina, Éber e Joctã;
+- Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden — cronologia interna de Noé (726 anos) e o encontro com Despina, Éber e Joctã;
 - fontes de assiriologia consolidada sobre a continuidade textual Ziusudra–Atrahasis–Utnapishtim.
 
 ## Pesquisa do capítulo
 
-[Dossiê completo de fontes, rastreabilidade e pendências do Capítulo 13](../fontes-capitulos/13-fontes-diluvio-noe-e-recomeco-dos-povos.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Pendências de pesquisa
 

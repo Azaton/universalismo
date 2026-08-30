@@ -1,6 +1,6 @@
 ---
 title: "A Fuga ao Dever e o Chamado à Verdade"
-nav_order: 2
+nav_order: 3
 parent: "Ensinamentos de Jesus"
 ---
 

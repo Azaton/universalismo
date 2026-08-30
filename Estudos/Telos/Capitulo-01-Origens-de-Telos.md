@@ -1,5 +1,5 @@
 ---
-title: "Capítulo I — Origens de Telos"
+title: "Capitulo 01 Origens de Telos"
 nav_order: 1
 parent: "Telos"
 ---

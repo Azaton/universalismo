@@ -1,12 +1,14 @@
 ---
 title: "Yggdrasil"
+nav_order: 63
 parent: "Estudos"
-nav_exclude: true
 ---
 
 # Yggdrasil
 
 Yggdrasil entra no Projeto Universalismo por **duas camadas que precisam permanecer separadas**: a cosmologia nórdica tradicional e a releitura cosmológica apresentada por Jan Val Ellam.
+
+Para o contexto geral da tradição, ver [Mitologia Nórdica](./Mitologia-Nordica.md).
 
 ## 1. Na tradição nórdica
 
@@ -53,6 +55,8 @@ A relação de trabalho fica assim:
 
 ## 4. Relações internas
 
+- [Mitologia Nórdica](./Mitologia-Nordica.md)
+- [Eddas Nórdicas](../Livros/Eddas-Nordicas.md)
 - [Jan Val Ellam](../Personagens/Jan-Val-Ellam.md)
 - [Kadru](../Personagens/Kadru.md)
 - [Javé](../Personagens/Javé.md)
@@ -80,6 +84,7 @@ A relação de trabalho fica assim:
 
 ## Pendências
 
+- aprofundar as [Eddas Nórdicas](../Livros/Eddas-Nordicas.md) e localizar passagens específicas;
 - localizar material escrito de Jan Val Ellam que detalhe Yggdrasil, Midgard/Marte e o Ragnarök em sua Revelação Cósmica;
 - criar, quando houver material suficiente, fichas próprias para Odin, Frigg e Freyr;
 - decidir se Aesir e Vanir receberão páginas de grupos/povos em vez de fichas de personagem;

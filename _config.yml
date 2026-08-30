@@ -26,21 +26,8 @@ exclude:
   - tools
   - README.md
   - assets/README.md
-  # Bastidores editoriais de "A Pré-História Espiritual da Humanidade". A maior
-  # parte permanece fora do site; mapas selecionados podem ser publicados como
-  # camada navegável de relações, sem fazer parte do manuscrito dos capítulos.
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/anexos
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/corpus-bibliografico
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/criterios-de-pronto-capitulo.md
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/decisoes-editoriais
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/estado-da-obra
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/fichas
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/fontes-capitulos
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/glossario
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/linha-do-tempo-multicamada.md
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/matrizes
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/planejamento
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/publicacao
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/referencias
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/revisoes
-  - Livros/A-Pré-História-Espiritual-da-Humanidade/sumario-editorial.md
+  # Os bastidores editoriais das obras (fichas, dossiês de fontes, matrizes,
+  # decisões, glossários, rascunhos, linhas do tempo de pesquisa) não vivem
+  # mais dentro de uc-osasco/. Ficam na camada local, fora do repositório
+  # público, em ../doc/obras/<Obra>/. Aqui permanecem apenas capa, períodos,
+  # capítulos e mapas navegáveis.

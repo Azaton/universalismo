@@ -1,6 +1,6 @@
 ---
 title: "A Colheita e Seus Frutos"
-nav_order: 1
+nav_order: 7
 parent: "Ensinamentos de Jesus"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "O Ensinamento de Jesus em Tiro"
-nav_order: 4
+title: "O Ensinamento de Jesus em Tiro 156 5"
+nav_order: 5
 parent: "Ensinamentos de Jesus"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Moisés"
-nav_order: 40
+nav_order: 46
 parent: "Personagens"
 nav_exclude: true
 ---

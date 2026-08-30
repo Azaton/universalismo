@@ -1,7 +1,7 @@
 ---
 title: "Quando a Terra estava vestida de branco"
+nav_order: 51
 parent: "Estudos"
-nav_exclude: true
 ---
 
 # Quando a Terra estava vestida de branco

@@ -100,14 +100,14 @@ O próximo capítulo introduz um conjunto de narrativas sobre exílios planetár
 
 ## Fontes utilizadas
 
-- [O Livro de Urântia — Documento 62, "The Dawn Races of Early Man", 62:5.1](../fichas/2026-08-01-mural-origem-guardioes-magos-negros-dragoes.md) — confirma a data de 993.419 anos para o surgimento dos primeiros seres humanos;
+- O Livro de Urântia — Documento 62, "The Dawn Races of Early Man", 62:5.1 — confirma a data de 993.419 anos para o surgimento dos primeiros seres humanos;
 - `O Livro de Urântia`, Documento 63 ("The First Human Family") — identifica Andon e Fonta como os primeiros seres humanos verdadeiros e pais de toda a humanidade;
 - material conceitual dos seis sentidos de "humanidade", reelaborado a partir do antigo primeiro capítulo desta obra (`planejamento/base-conceitual-o-que-chamamos-humanidade.md`);
 - fontes de divulgação científica consolidada sobre paleoantropologia (origem dos primatas, gênero Homo há ~2,8 milhões de anos, Homo sapiens anatomicamente moderno há ~300 mil anos).
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 4](../fontes-capitulos/04-fontes-os-primeiros-humanos.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Fontes previstas para validação e expansão
 

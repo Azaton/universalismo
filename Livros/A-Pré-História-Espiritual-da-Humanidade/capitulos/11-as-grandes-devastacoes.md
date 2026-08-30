@@ -13,6 +13,7 @@ parent: "capitulos"
 - apresentar Despina, personagem de *Homoafetividade — O Segredo Perdido do Éden*, e sua afirmação de que existiram duas grandes devastações anteriores à do dilúvio;
 - separar com precisão o que é fala direta da personagem (a existência de duas devastações) do que é nota editorial do autor (a identificação como "era glacial" e as datas de ~23 mil e ~12,5 mil anos);
 - comparar essas datas, com as devidas ressalvas, ao Último Máximo Glacial e ao evento climático conhecido como Younger Dryas;
+- registrar, a partir de *O Sorriso de Pandora*, que a personagem Pandora atravessa a grande devastação associada ao dilúvio e perece algum tempo depois — resolvendo a aparente contradição de uma palestra que a reconta;
 - manter explicitamente separado o marco "~23 mil anos" desta devastação do marco "Eva, ~23 mil anos" já apresentado no Capítulo 10, como já anunciado ali.
 
 ### Fora de escopo
@@ -61,7 +62,17 @@ O evento conhecido como **Younger Dryas** — um resfriamento abrupto que interr
 
 É importante marcar os limites dessa comparação. A proximidade das datas é notável e vale a pena registrar — mas nem o Último Máximo Glacial nem o Younger Dryas são, em si, "devastações" no sentido de uma catástrofe súbita e localizada; são fenômenos climáticos de longa duração e de escala planetária, documentados por núcleos de gelo, sedimentos e uma ampla literatura paleoclimática, não pela memória de uma personagem específica. A nota editorial do livro não apresenta esses dados como derivados de pesquisa científica, e esta obra não deve apresentá-los como se o fossem.
 
-## 5. O que ainda não sabemos
+## 5. Pandora e a grande devastação, segundo *O Sorriso de Pandora*
+
+Uma terceira personagem de Jan Val Ellam atravessa esse mesmo terreno de catástrofes: Pandora, narradora em primeira pessoa de *O Sorriso de Pandora*, já apresentada no Capítulo 10 como uma "primeira mulher" da linhagem humana terrena.
+
+Nessa obra, Pandora afirma ter vivido "o período antediluviano e boa parte do pós-diluviano" e ter perecido "algum tempo depois da grande devastação que cobriu todo o planeta". A mesma narrativa acrescenta que os efeitos de um dos grupos que teriam influído no genoma humano — um grupamento do sistema de "Sírius" — foram "praticamente eliminados por força do dilúvio".
+
+Esse detalhe resolve uma aparente contradição de uma palestra da linha de Pedro Augusto (entidades Sidarta e Pai João de Angola) que reconta o livro: a transcrição diz, quase na mesma frase, que Pandora "vive o dilúvio e perece" e que "ainda vive um pouco da era pós-dilúvio". As duas afirmações não se anulam — descrevem uma sobrevivência ao evento seguida de morte pouco depois, exatamente como o livro-fonte formula.
+
+Aqui é preciso um cuidado de cronologia. A "grande devastação" que Pandora atravessa é a inundação que a tradição associa ao dilúvio de Noé — tema do Capítulo 13 desta obra —, e **não** uma das duas devastações anteriores narradas por Despina (as de ~23 mil e ~12,5 mil anos). São camadas distintas: Despina testemunha catástrofes que precedem o dilúvio; Pandora morre em torno do próprio dilúvio. Esta obra mantém as três separadas, unidas apenas pela proximidade temática de "reinícios após catástrofe".
+
+## 6. O que ainda não sabemos
 
 Duas questões seguem em aberto, e o próprio acervo desta investigação já as registrou como tal: o que exatamente a obra quer dizer com "devastação" — um cataclismo geológico, um colapso civilizacional, uma combinação das duas — ainda não foi determinado com precisão a partir do texto consultado. E a relação entre essas devastações e a queda final de Atlântida, tema do próximo capítulo, também não está estabelecida nesta obra além da proximidade cronológica.
 
@@ -77,6 +88,8 @@ Segundo *Homoafetividade — O Segredo Perdido do Éden*, de Jan Val Ellam, a pe
 
 Essas datas se aproximam, respectivamente, do Último Máximo Glacial (~21-19 mil anos) e do evento Younger Dryas (~12,9-11,7 mil anos), fenômenos climáticos reais e bem documentados — uma proximidade digna de nota, mas que não deve ser lida como confirmação científica da narrativa. O marco de "~23 mil anos" permanece, além disso, cuidadosamente distinto do marco homônimo de Eva, apresentado no capítulo anterior.
 
+Uma terceira obra do mesmo autor, *O Sorriso de Pandora*, situa a personagem Pandora atravessando a devastação associada ao dilúvio e perecendo pouco depois — evento distinto das duas devastações de Despina, e que este capítulo mantém separado, ligado ao Capítulo 13.
+
 ## Ponte para o próximo capítulo
 
 As devastações de Despina antecedem, mas ainda não descrevem, o evento que a tradição em geral considera o fechamento da era das civilizações perdidas: a queda final de Atlântida.
@@ -85,12 +98,14 @@ O próximo capítulo reúne as diferentes tradições sobre esse colapso — cat
 
 ## Fontes utilizadas
 
-- [Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden](../fichas/2026-08-15-livro-homoafetividade-segredo-perdido-do-eden.md) (consulta pontual) — Despina, as duas devastações, distinção entre fala da personagem e nota editorial;
+- Jan Val Ellam — Homoafetividade: O Segredo Perdido do Éden (consulta pontual) — Despina, as duas devastações, distinção entre fala da personagem e nota editorial;
+- Jan Val Ellam — O Sorriso de Pandora (cotejo interno de verificação) — Pandora atravessa o dilúvio e perece pouco depois; efeitos do grupo siriano "eliminados pelo dilúvio";
+- Vídeo — Pai João de Angola e Sidarta Buda / Adão e Eva — reconta *O Sorriso de Pandora*; a aparente contradição "perece / ainda vive" resolve-se pelo livro-fonte;
 - fontes de paleoclimatologia consolidada sobre o Último Máximo Glacial e o evento Younger Dryas.
 
 ## Pesquisa do capítulo
 
-[Dossiê de fontes do Capítulo 11](../fontes-capitulos/11-fontes-as-grandes-devastacoes.md).
+O dossiê de fontes, rastreabilidade e pendências deste capítulo é mantido na camada interna de pesquisa da obra, fora do site.
 
 ## Fontes previstas para validação e expansão
 
@@ -100,13 +115,13 @@ O próximo capítulo reúne as diferentes tradições sobre esse colapso — cat
 ## Pendências de pesquisa
 
 - determinar com mais precisão a natureza das "devastações" descritas pela obra, respeitando os limites de uso de material protegido por direitos autorais;
-- manter, em capítulos futuros, a distinção entre os dois marcos de "~23 mil anos" (Eva, Capítulo 10; devastação de Despina, este capítulo);
+- manter, em capítulos futuros, a distinção entre os dois marcos de "~23 mil anos" (Eva, Capítulo 10; devastação de Despina, este capítulo) e o terceiro evento, o dilúvio em que Pandora perece (Capítulos 11 e 13);
 - avaliar, ao escrever o Capítulo 12, se e como relacionar essas devastações à queda final de Atlântida, sem presumir identidade entre os eventos.
 
 ## Parecer de prontidão
 
 - Estado recomendado: rascunho (narrativa contínua completa; distinção crítica entre fala de personagem e nota editorial aplicada com rigor)
-- Pontos fortes: separação clara entre voz da personagem e comentário editorial do autor; comparação com paleoclimatologia real, com ressalvas apropriadas sobre os limites dessa comparação; distinção mantida em relação ao marco de Eva do capítulo anterior.
+- Pontos fortes: separação clara entre voz da personagem e comentário editorial do autor; comparação com paleoclimatologia real, com ressalvas apropriadas sobre os limites dessa comparação; distinção mantida entre três eventos (as duas devastações de Despina e o dilúvio em que Pandora perece); a aparente contradição da palestra sobre a morte de Pandora resolvida pelo livro-fonte.
 - Lacunas impeditivas: nenhuma para avançar ao Capítulo 12.
 - Pendências secundárias: precisar a natureza das devastações; relação com a queda de Atlântida a esclarecer no próximo capítulo.
 - Próxima ação: avançar para o Capítulo 12 — `A queda de Atlântida e o grande reinício`.
