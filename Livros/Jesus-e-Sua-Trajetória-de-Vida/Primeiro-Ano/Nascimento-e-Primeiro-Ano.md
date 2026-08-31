@@ -16,8 +16,6 @@ Segundo *Harpas Eternas*, uma fraternidade essênia preservava antigos ensinamen
 
 A obra acompanha três mensageiros essênios durante uma travessia difícil. No caminho, eles encontram Eliezer, homem consumido pelo desejo de vingança após a destruição de sua família. A missão dos viajantes se transforma num trabalho de compaixão: eles entram em Massada como terapeutas peregrinos, cuidam dos filhos do homem e restabelecem a comunicação entre os familiares.
 
-Esse episódio funciona como preparação moral para a chegada de Jesus. Antes de anunciar o menino, a narrativa mostra pessoas substituindo vingança por cuidado e sofrimento por serviço.
-
 ## O santuário de Moabe
 
 Os mensageiros chegam ao Santuário dos Setenta Anciões, apresentado como um centro secreto da tradição essênia. Ali estariam preservados antigos escritos, as Tábuas da Lei quebradas e o local de repouso de Moisés.
@@ -30,15 +28,13 @@ Os montes e lugares mencionados pertencem à geografia bíblica. O santuário, s
 
 Jhasua nasce em Belém, convergindo com as narrativas de Mateus e Lucas. A obra apresenta José e Myriam — Maria — como integrantes do primeiro grau da fraternidade essênia.
 
-José teria sido casado anteriormente com Débora e ingressado na fraternidade durante essa união. Myriam, por sua vez, teria entrado para o círculo essênio ao se casar com José. Essas relações não aparecem nos Evangelhos e constituem parte da ampliação biográfica oferecida pela obra.
+José teria sido casado anteriormente com Débora e ingressado na fraternidade durante essa união. Myriam, por sua vez, teria entrado para o círculo essênio ao se casar com José.
 
 ## A cerimônia do nome
 
-Nos primeiros dias de vida do menino, Myriam recebe uma visão na qual é instruída a não permitir que Jhasua seja ferido pelo instrumento da circuncisão. José se inquieta, pois a prática fazia parte da tradição religiosa de seu povo.
+Na véspera do oitavo dia, Myriam desperta em pranto. Segundo *Harpas Eternas*, uma voz a havia acordado dizendo que o menino não seria circuncidado, e o berço estava tomado por uma luz suave que partia do próprio filho. Nela, Myriam vê anciãos de longas barbas brancas, que se identificam como guardiões dos livros de Moisés — os mesmos Anciãos do santuário essênio de Moabe. Um deles afirma que a circuncisão "não é Lei de Jehová nem Lei de Moisés, mas tão-somente de homens inconscientes que buscam a filiação divina em grosseiros ritos materiais", pois "todas as criaturas humanas têm a filiação divina".
 
-No dia da cerimônia, o dirigente habitual estaria enfermo e seria substituído por Esdras, sacerdote ligado aos essênios. Jhasua recebe seu nome, mas, segundo a obra, não é circuncidado.
-
-Lucas 2:21 oferece uma versão diferente e afirma que Jesus foi circuncidado ao oitavo dia. As duas narrativas, portanto, não podem ser fundidas: o Evangelho preserva o cumprimento do costume judaico; *Harpas Eternas* interpreta o episódio como sinal de uma lei espiritual que ultrapassaria a prática ritual.
+José reage com desconfiança: teme tratar-se de "uma visão enganosa dos espíritos das trevas" e lembra que os próprios profetas se submeteram à Lei. Os anciãos anunciam então um sinal: no dia seguinte o dirigente da sinagoga estaria enfermo e seria substituído por Esdras, sacerdote essênio vindo de Jerusalém. Tudo se cumpre. Esdras conduz o rito e registra o nome e a data, mas o menino não é ferido; recebe o nome de Jhasua, conforme a instrução recebida.
 
 ## A apresentação no Templo
 
@@ -83,6 +79,10 @@ Ao término desse primeiro conjunto de episódios, Jhasua ainda é um recém-nas
 Essas histórias não substituem os relatos canônicos. Elas representam uma tradição espiritualista que procura preencher os espaços deixados pelos Evangelhos e mostrar que a missão de Jesus se manifestava antes mesmo de sua atuação consciente.
 
 O eixo moral dessas cenas está menos na demonstração de poder e mais no efeito produzido sobre as pessoas: vingança convertida em cuidado, enfermidade transformada em esperança e uma comunidade chamada a escolher entre apego ao poder e abertura ao amor.
+
+## Convergências e divergências com os Evangelhos
+
+- **Circuncisão.** Lucas 2:21 afirma que Jesus foi circuncidado ao oitavo dia. *Harpas Eternas* narra o oposto e lê o episódio como anúncio de uma lei espiritual acima do rito. As duas versões não se harmonizam; ficam registradas lado a lado.
 
 ## Fonte principal deste capítulo
 
