@@ -1,6 +1,6 @@
 ---
 title: "Ensinamentos de Jesus"
-nav_order: 2
+nav_order: 7
 parent: "Jesus e Sua Trajetória de Vida"
 has_children: true
 ---
